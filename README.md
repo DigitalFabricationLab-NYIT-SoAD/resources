@@ -12,7 +12,11 @@ Sign-Up System
 
 Laser Cut System
 
-3D Printing System
+3D Printing System:
+watch our local printer run!
+Only available on the network on the Manhattan Campus 
+
+http://192.168.166.138/print_jobs
 
 CNC Milling System
 
