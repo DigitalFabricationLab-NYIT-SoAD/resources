@@ -16,7 +16,7 @@ Laser Cut System
 watch our local printer run!
 Only available on the network on the Manhattan Campus 
 
-http://192.168.166.138/print_jobs
+[Link to printer 5](http://192.168.166.33/print_jobs)
 
 CNC Milling System
 
