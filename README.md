@@ -2,18 +2,22 @@
 
 This repo contains all relevant information for using the NYIT SoAD Digital Fabrication Lab.
 
-You can find these items here:
+This is now the default home we share with students.
 
-Update Flow/Standards
+## Laser Cut How To
 
-Replace Tutorials
+Major Changes: Each Studnet
+Please refer to this simple guide:
 
-Sign-Up System
+[New Laser Cutting Standards](https://nyinstituteoftechnology-my.sharepoint.com/:w:/g/personal/afinke05_nyit_edu/EX4u2Ko3dutDkSyIW3U_AI8BQ_WN4fxu0Q0tHVR-vxGqLw?e=y767EZ)
 
-Laser Cut System
+## Sign-Up System
 
-3D Printing System:
-watch our local printer run!
+[Appointment Sign Up for Manhattan Lasers](https://outlook.office365.com/owa/calendar/booking-LaserCuttingNYITManhattan@nyinstituteoftechnology.onmicrosoft.com/bookings/)
+
+## 3D Printing System:
+Watch our local printer run!
+
 Only available on the network on the Manhattan Campus 
 
 [Link to printer 5](http://192.168.166.33/print_jobs)
