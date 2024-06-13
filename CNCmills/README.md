@@ -12,4 +12,4 @@ CR to Write Flow and Add Appointment
 
 
 Detailed User Guide:
-[CNCmills User Guide](UserGuides/CNCmills.md)
+[CNCmills User Guide](UserGuides/CNCmills/README.md)
