@@ -14,7 +14,7 @@ TYPICAL ACTUAL RUN TIME ON MACHINE: 1 – 3 hours
 
  
 
-##Intro  
+## Intro  
 
     Computer Numerical Control (CNC) Machining is a manufacturing process in which pre-programmed computer software dictates the movement of factory tools and machinery. The process can be used to control a range of complex machinery, from grinders and lathes to mills and routers.  
 
@@ -24,7 +24,7 @@ TYPICAL ACTUAL RUN TIME ON MACHINE: 1 – 3 hours
 
     CNC Machining is process of subtractive manufacturing, where a tool carves into a stock material to leave behind the desired object.  
 
-##PART 1: PRE-FABRICATION (finalization of design decisions for manufacturing)  
+## PART 1: PRE-FABRICATION (finalization of design decisions for manufacturing)  
 
     Choose what type of stock material you want your object to be made of 
 
@@ -70,7 +70,7 @@ TYPICAL ACTUAL RUN TIME ON MACHINE: 1 – 3 hours
 
     150 KB maximum file size. Smaller file sizes will be much easier to manage in RhinoCAM. RhinoCAM has to do a lot of processing to generate and regenerate toolpaths, so smaller files will be easier to maneuver, make toolpath changes to/iterate upon, etc.   
 
-##PART 2: FILE SETUP / CAM  
+## PART 2: FILE SETUP / CAM  
 
     Carving complex 3D geometry  
 
@@ -78,7 +78,7 @@ TYPICAL ACTUAL RUN TIME ON MACHINE: 1 – 3 hours
 
     Finishing refers to the final, more delicate or detailed toolpaths/operations. 
 
-###Some common operations and their uses  
+### Some common operations and their uses  
 
     2 ½ D  
 
@@ -101,7 +101,7 @@ TYPICAL ACTUAL RUN TIME ON MACHINE: 1 – 3 hours
 	
 	!(PFINISH)[CNCmills/finishing.gif]
 
-###Some common tool types and their uses (each available in a range of lengths and diameters)  
+### Some common tool types and their uses (each available in a range of lengths and diameters)  
 
     Endmill  
 
@@ -119,7 +119,7 @@ TYPICAL ACTUAL RUN TIME ON MACHINE: 1 – 3 hours
 
     Use these custom combinations of these tools and operations to achieve desired geometry/finish quality 
 
-##PART 3: MACHINING  
+## PART 3: MACHINING  
 
     Techno CNC – vacuum bed hold-down  
 
