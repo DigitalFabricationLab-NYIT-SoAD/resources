@@ -2,5 +2,11 @@ markdown: GFM
 title: NYIT
 logo: ![CNCmills User Guide](/.github/dancinglogo.gif)
 description: Resources for SOAD Students at NYIT
+  [home](/README.md)
+  [LaserCutters](LaserCutters/README.md)
+
+  [CNCmills](CNCmills/README.md)
+
+  [3Dprinters](3Dprinters/README.md)
 google_analytics:
 theme: jekyll-theme-minimal
