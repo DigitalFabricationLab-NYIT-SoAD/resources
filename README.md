@@ -19,4 +19,5 @@ Available Tools & Tutorials:
 
 [Appointment Sign Up for Manhattan Lasers](https://outlook.office365.com/owa/calendar/booking-LaserCuttingNYITManhattan@nyinstituteoftechnology.onmicrosoft.com/bookings/)
 
+![](/.github/dancinglogo.gif)
 
