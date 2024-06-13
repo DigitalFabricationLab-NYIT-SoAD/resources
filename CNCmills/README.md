@@ -4,11 +4,11 @@ CR to Write Flow and Add Appointment
 
 *Horizontal Roughing*
 
-![](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/CNCmills/HorizontalRoughing.gif)
+![gm](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/CNCmills/HorizontalRoughing.gif)
 
 *Parallel Finishing*
 
-![](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/CNCmills/finishing.gif)]
+![ts](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/CNCmills/finishing.gif)
 
 
 Detailed User Guide:
