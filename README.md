@@ -13,8 +13,9 @@ Available Tools & Tutorials:
 [3Dprinters](3Dprinters/README.md)
 
 
-##Quick Links
-###Sign-Up System
+## Quick Links
+
+### Sign-Up System
 
 [Appointment Sign Up for Manhattan Lasers](https://outlook.office365.com/owa/calendar/booking-LaserCuttingNYITManhattan@nyinstituteoftechnology.onmicrosoft.com/bookings/)
 
