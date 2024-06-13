@@ -16,7 +16,7 @@ LINK TO RELEVANT EXAMPLE SETTINGS:
 
 SHORT WRITE UP OF OPERATION FLOW: 
 
-##Import File  
+## Import File  
 
     Look at the queue and select file (Note: Queue is 1st come 1st serve basis) 
 
@@ -26,7 +26,7 @@ SHORT WRITE UP OF OPERATION FLOW:
 
     File should be saved in the standard format (Last Name_First Name_FIle Name)  
 
-##Checking Geometry  
+## Checking Geometry  
 
     Go the file and open it with Rhino 7  
 
@@ -40,13 +40,13 @@ SHORT WRITE UP OF OPERATION FLOW:
 
     If there are Multiple Pieces use the ALIGN command to make sure they are aligned to the bottom of the template.  
 
-##Export to Cura  
+## Export to Cura  
 
     Once Geometry has been checked convert file to be in Millimeters as that is used in Cura (File > Properties > Units > Model Units > Millimeters) geometry should be scaled according  
 
     Select what is to be printed and export as an .stl file (File > Export Selected > Format > stereolithography (.stl))    
 	
-##Open In Cura  
+## Open In Cura  
 
     Open the file using Cura  
 
@@ -62,7 +62,7 @@ SHORT WRITE UP OF OPERATION FLOW:
 
     If there are insufficient funds in the student's account, they will receive a notification to add the required funds, check back after a couple of minutes and see if they have added funds 
 
-##Setting up Printer 
+## Setting up Printer 
 
     Take a USB thumb drive and save the file from Cura (Note: Cura should automatically detect drive and give you the option to save to it) 
 
