@@ -7,7 +7,9 @@ This is now the default home we share with students.
 Available Tools & Tutorials:
 
 [LaserCutters](LaserCutters/README.md)
+
 [CNCmills](CNCmills/README.md)
+
 [3Dprinters](3Dprinters/README.md)
 
 ## Laser Cut How To
