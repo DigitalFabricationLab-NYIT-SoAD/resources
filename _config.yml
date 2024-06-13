@@ -1,6 +1,8 @@
 markdown: GFM
-title: NYIT
-logo: 
+title: #NYIT
+logo: [![alt text](/github/dancinglogo.gif)]
+(https://digitalfabricationlab-nyit-soad.github.io/resources/ "HOME")
 description: Resources for SOAD Students at NYIT
+[HOME](https://digitalfabricationlab-nyit-soad.github.io/resources/)
 google_analytics:
 theme: jekyll-theme-minimal

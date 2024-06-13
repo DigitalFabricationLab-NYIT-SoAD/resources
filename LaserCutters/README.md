@@ -1,8 +1,4 @@
-# Digital Fabrication Lab Resources Page 
-
-This repo contains all relevant information for using the NYIT SoAD Digital Fabrication Lab.
-
-This is now the default home we share with students.
+NOT FINISHED
 
 ## Laser Cut How To
 
@@ -15,13 +11,3 @@ Please refer to this simple guide:
 
 [Appointment Sign Up for Manhattan Lasers](https://outlook.office365.com/owa/calendar/booking-LaserCuttingNYITManhattan@nyinstituteoftechnology.onmicrosoft.com/bookings/)
 
-## 3D Printing System:
-Watch our local printer run!
-
-Only available on the network on the Manhattan Campus 
-
-[Link to printer 5](http://192.168.166.33/print_jobs)
-
-CNC Milling System
-
-Resource Page
