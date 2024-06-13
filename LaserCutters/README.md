@@ -11,3 +11,10 @@ Please refer to this simple guide:
 
 [Appointment Sign Up for Manhattan Lasers](https://outlook.office365.com/owa/calendar/booking-LaserCuttingNYITManhattan@nyinstituteoftechnology.onmicrosoft.com/bookings/)
 
+
+*Want to know more?*
+Check out this Detailed User Guide:
+
+[LaserCutters User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/LaserCutters.md)
+
+

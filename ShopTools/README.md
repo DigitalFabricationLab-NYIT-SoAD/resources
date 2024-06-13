@@ -17,3 +17,9 @@ Rules:
 	Only 5 Students are allowed in the shop at a time.
 	
 	Any student violating the rules will be asked to leave and is at risk of getting their shop privileges revoked.
+	
+*Want to know more?*
+Check out this Detailed User Guide:
+
+[ShopTools User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/ShopTools.md)
+
