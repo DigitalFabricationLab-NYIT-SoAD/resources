@@ -1,10 +1,12 @@
 CR to Write Flow and Add Appointment Link:
 
 *Horizontal Roughing*
-!(Finihing)[CNCmills/HorizontalRoughing.gif]
+
+![](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/CNCmills/HorizontalRoughing.gif)
 
 *Parallel Finishing*
-!(profiling)[CNCmills/finihing.gif]
+
+![](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/CNCmills/finishing.gif)]
 
 
 Detailed User Guide:
