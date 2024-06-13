@@ -11,5 +11,7 @@ CR to Write Flow and Add Appointment
 ![ts](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/CNCmills/finishing.gif)
 
 
-Detailed User Guide:
+*Want to know more?*
+Check out this Detailed User Guide:
+
 [CNCmills User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md)
