@@ -3,35 +3,19 @@
   
 ## Lab Rules 
   
-  Top priority is safety 
+  * Top priority is safety. 
   
-  Clean up after yourself 
+  * Clean up after yourself. 
   
-  If in doubt, ask for help 
+  * If in doubt, ask for help.
   
-  Respect staff, student workers, each other, and the space/machines/tools 
+  * Respect staff, student workers, each other, and the space/machines/tools 
   
-  The lab is a shared space - put your name/date/contact info on all materials and tools do not leave the shop 
+  * The lab is a shared space - put your name/date/contact info on all materials and tools do not leave the shop 
   
-  Students must complete the Lab Orientation before using any machines/tools 
+  * Students must complete the Lab Orientation before using any machines/tools 
 
 ## Fab Lab Equipment 
-
-Laser Cutters 
-
-3D Printers 
-
-CNC Mills 
-
-Wood Shop Tools 
-
-## Hours 
-
-Manhattan 10am-5pm M-F 
-
-Old Westbury 10am-7pm M-F 
-
-## Available Tools & Tutorials:
 
 [LaserCutters](LaserCutters/README.md)
 
@@ -41,8 +25,13 @@ Old Westbury 10am-7pm M-F
 
 [Wood Shop Tools](ShopTools/README.md)
 
+## Hours 
 
-## Quick Links
+Manhattan 10am-5pm M-F 
+
+Old Westbury 10am-7pm M-F 
+
+## Quick Links 
 
 ### Sign-Up System
 
