@@ -1,31 +1,32 @@
-## 3D Printing System:
+# 3D Printing System:
 
-# Pre-submission 
+## Rules 
 
-Check your geometry in Rhino 
-
-Check time/material use in Cura 
-
-Templates / Tutorials / More Info  
-
-
-# Rules 
-
-## The lab will not 3D print the following (alt: The lab will print everything except): 
+The lab will not 3D print the following (alt: The lab will print everything except): 
 
 	Prints over 1000g  
-
+	
 	Print time over 24 hours 
-
+	
 	Open polysurfaces / meshes 
-
+	
 	Non-manifold polysurfaces 
-
+	
 	Objects with geometry smaller than 1mm (1/16 in) 
-
+	
 	Simple geometry that can be easily built using alternative material / method 
 
-	If you have any questions about your file, come into the lab before submitting it 
+If you have any questions about your file, come into the lab before submitting it 
+
+## Pre-submission Checklist
+
+1. Rebuild your Geometery following our [best practice guide](Tutorials&Templates/)
+
+2. Check time/material use in Cura and Understand your ouput
+
+3. Schedule a time using our booking system
+
+[Templates / Tutorials / More Info](/Tutorials&Templates/)
 
 ## File Submission / Appointment Sign-Up 
 
@@ -42,7 +43,7 @@ Version download
 
 [Lab presets download](Tutorials&Templates/)
 
-##Watch our local printer run!
+## Watch our local printer run!
 
 Only available on the network on the Manhattan Campus 
 
