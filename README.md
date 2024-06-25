@@ -1,5 +1,6 @@
 # Welcome to the NYIT SoAD Fabrication Lab Resource Page. 
-  
+
+[LIVE WEBSITE](https://digitalfabricationlab-nyit-soad.github.io/resources/)  
   
 ## Lab Rules 
   
