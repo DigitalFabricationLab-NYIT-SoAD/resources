@@ -20,28 +20,62 @@ If you have any questions about your file, come into the lab before submitting i
 
 ## Pre-submission Checklist
 
-1. Rebuild your Geometery following our [best practice guide](Tutorials&Templates/)
+1. Rebuild your Geometery following our [best practice guide](Tutorials&Templates/3DPrinters.md)
 
-2. Check time/material use in Cura and Understand your ouput
+2. Check time/material use in Cura and Understand your Desired output
+	(See below if you have not done this before!)
+	
+3. Submit your Job to the Queue
+	(Write Up Incoming)
 
-3. Schedule a time using our booking system
-
-[Templates / Tutorials / More Info](/Tutorials&Templates/)
 
 ## File Submission / Appointment Sign-Up 
 
 Submit your 3D model / sign up for an appointment (add in pop-up agreement that you’ve checked your geometry to confirm it follows rules above and to not bully student workers/staff) 
 
 
-Version download
+## How to Check a file in Cura:
+
+The Goal of this is to let you investigate the time and results of your printing job before you come into the lab.
+
+1. Download the correct version of Ultimaker Cura listed below. We recommend uninstalling other versions so as not to cause any confusion.
+
+	Current Version Lab is using: 5.7.2
 
 [Windows](https://github.com/Ultimaker/Cura/releases/download/5.7.2-RC2/UltiMaker-Cura-5.7.2-win64-X64.exe)
 
-[Mac](https://github.com/Ultimaker/Cura/releases/download/5.7.2-RC2/UltiMaker-Cura-5.7.2-macos-X64.pkg)
-
 [Link to other downloads](https://github.com/Ultimaker/Cura/releases/tag/5.7.2-RC2)
 
-[Lab presets download](Tutorials&Templates/)
+2. Import the profile of the Utlimaker S5:
+	Select the printer tab: IMG
+	Select Add New: IMG
+	Select Non Networked Printer: IMG
+	Select the Ultimaker S5
+	Select the Generic PLA: IMG
+	Disable the Second Head: IMG
+
+
+2. Import the most up to date settings profile provided by NYIT Fab Lab.
+
+	Current file: [NYIT_Prototype.curaprofile](resources/3Dprinters/NYIT_Prototype.curaprofile)
+	
+	
+	
+3. Bring your .STL File you exported from RHINOCEROS into Ultimaker Cura 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Watch our local printer run!
 
