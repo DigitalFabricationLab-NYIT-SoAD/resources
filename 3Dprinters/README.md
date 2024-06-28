@@ -1,38 +1,9 @@
-# 3D Printing System:
 
-## Rules 
+[< - TAKE ME BACK HOME ](/resources/README.md)
 
-The lab will not 3D print the following (alt: The lab will print everything except): 
+# THIS IS NOW THE CURA FILE, TO BE MOVED AND REPLACED WITH ANAS GENERAL GUIDE ON MONDAY.
 
-	Prints over 1000g  
-	
-	Print time over 24 hours 
-	
-	Open polysurfaces / meshes 
-	
-	Non-manifold polysurfaces 
-	
-	Objects with geometry smaller than 1mm (1/16 in) 
-	
-	Simple geometry that can be easily built using alternative material / method 
-
-If you have any questions about your file, come into the lab before submitting it 
-
-## Pre-submission Checklist
-
-1. Rebuild your Geometery following our [best practice guide](Tutorials&Templates/3DPrinters.md)
-
-2. Check time/material use in Cura and Understand your Desired output
-	(See below if you have not done this before!)
-	
-3. Submit your Job to the Queue
-	(Write Up Incoming)
-
-
-## File Submission / Appointment Sign-Up 
-
-Submit your 3D model / sign up for an appointment (add in pop-up agreement that you’ve checked your geometry to confirm it follows rules above and to not bully student workers/staff) 
-
+ELIJAHS CURA GUIDE IS BELOW:
 
 ## How to Check a file in Cura:
 
