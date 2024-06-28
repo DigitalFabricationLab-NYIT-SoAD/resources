@@ -74,7 +74,7 @@ The Goal of this is to let you investigate the time and results of your printing
 
 4. Import the most up to date settings profile provided by NYIT Fab Lab.
 
-	Download Current file: [NYIT_Prototype.curaprofile](NYIT_Prototype.curaprofile)
+	Download Current file: [NYIT_Prototype.curaprofile](NYIT_PROTOTYPE.curaprofile)
 
 
 		Import Setting and use it to "Slice" your model
