@@ -46,18 +46,31 @@ The Goal of this is to let you investigate the time and results of your printing
 
 [Link to other downloads](https://github.com/Ultimaker/Cura/releases/tag/5.7.2-RC2)
 
-2. Import the profile of the Utlimaker S5:
-	Select the printer tab: IMG
-	Select Add New: IMG
-	Select Non Networked Printer: IMG
-	Select the Ultimaker S5
-	Select the Generic PLA: IMG
-	Disable the Second Head: IMG
+2. How to add a new printer:
+
+		Import the profile of the Utlimaker S5:
+
+		Select the printer tab: IMG
+		
+		Select Add New: IMG
+		
+		Select Non Networked Printer: IMG
+		
+		Select the Ultimaker S5
+		
+		Select the Generic PLA: IMG
+		
+		Disable the Second Head: IMG
 
 
 2. Import the most up to date settings profile provided by NYIT Fab Lab.
 
 	Current file: [NYIT_Prototype.curaprofile](resources/3Dprinters/NYIT_Prototype.curaprofile)
+	
+Further Reading:
+
+[Overall](https://support.makerbot.com/s/article/1667337576882),[Importing](https://support.makerbot.com/s/article/1667411286867)
+	
 	
 	
 	
