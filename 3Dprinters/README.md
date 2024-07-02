@@ -3,6 +3,34 @@
 
 # THIS IS NOW THE CURA FILE, TO BE MOVED AND REPLACED WITH ANAS GENERAL GUIDE ON MONDAY.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ELIJAHS CURA GUIDE IS BELOW:
 
 ## How to Check a file in Cura:
