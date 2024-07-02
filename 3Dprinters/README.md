@@ -1,108 +1,73 @@
 
 [< - TAKE ME BACK HOME ](/resources/README.md)
 
-# THIS IS NOW THE CURA FILE, TO BE MOVED AND REPLACED WITH ANAS GENERAL GUIDE ON MONDAY.
+# 3D Printing
 
+***Students can use the SoAD Fab Lab's Ultimaker 3D printers by submitting a 3D model to the 3D Printing Job Queue.***
 
+Reminders:
+* Anything can be 3D modeled, but not everything can be 3D printed. *It is the responsibility of the student to design their 3D model to be 3D printed.*
+* All students must review and submit files according to the *SoAD Fab Lab 3D Printing Rules and Guidelines.* 
 
+## SoAD Fab Lab 3D Printing Rules
 
+The lab will print anything that follows these rules.  Any files submitted to the Job Queue that do not comply with the following rules will be rejected. 
 
+**3D Model Requirements**
 
+	Geometry must be:
+ 
+	1. Closed polysurface / mesh
+	2. Not non-manifold
+	3. Larger than 1 mm (1/16 in)
+ 	4. Complex geometry that cannot be easily built using alternative material / method
+  	5. Nested into a single printer build volume: 310 x 220 x 280 mm (12 x 9 x 11 in) 
 
+  	Use this 3D Modeling for 3D Printing Guide as a reference
+   
+ **Material Use / Print Time**
+ 
+	3D Prints must be:
+  
+	1. Under 1000g of print material
+	2. Under 24hr total print time
 
+	Use this Cura Slicing Guide to check your material use / print time
+ 
+**File Submission**
 
+	Files submissions must be:
 
+  	1. Rhino 7 (.3dm) file
+   	2. Units in millimeters
+	3. One file per student per day
 
+  	Use this 3D Printing Template for file submissions
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ELIJAHS CURA GUIDE IS BELOW:
-
-## How to Check a file in Cura:
-
-The Goal of this is to let you investigate the time and results of your printing job before you come into the lab.
-
-1. Download the correct version of Ultimaker Cura listed below. We recommend uninstalling other versions so as not to cause any confusion.
-
-	Current Version Lab is using: 5.7.2
-
-[Windows](https://github.com/Ultimaker/Cura/releases/download/5.7.2-RC2/UltiMaker-Cura-5.7.2-win64-X64.exe)
-
-[Link to other downloads](https://github.com/Ultimaker/Cura/releases/tag/5.7.2-RC2)
-
-2. Import the profile of the Utlimaker S5:
-
-		Select the printer tab and click add printer:
-
-![Screenshot 2024-06-27 104842](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/148252301/cd68b7eb-acc7-490f-9179-ff3cddb0d4e8)
-
-		Select Local / Non Networked Printer:
-
-![Screenshot 2024-06-27 104858](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/148252301/f76b7b37-f156-40b5-ae62-b551f44240c3)
-
-
-		Select the Ultimaker S5:
-
-![Screenshot 2024-06-27 104913](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/148252301/f32941f3-803f-4a54-9d64-90000ba04c6a)
-
-		Select the Generic PLA filament
-
-![Screenshot 2024-06-27 105449](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/148252301/d19b7f4d-0f7a-46c2-9af5-3c4ed56a6748)
-
-
-		Disable the Second Head:
-
-![Screenshot 2024-06-27 105520](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/148252301/72f2c1e2-040a-40e5-a75c-43d3b1db7738)
-
-
-
-4. Import the most up to date settings profile provided by NYIT Fab Lab.
-
-	Download Current file: [NYIT_Prototype.curaprofile](NYIT_PROTOTYPE.curaprofile)
-
-
-		Import Setting and use it to "Slice" your model
-
-![Screenshot 2024-06-28 101509](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/148252301/483872dc-6cb0-4b9d-baa6-792c84391278)
-
-
+   **Submit your file to the 3D Printing Job Queue _here_**
 	
-Further Reading:
+## SoAD Fab Lab 3D Printing Guidelines
 
-[Overall](https://support.makerbot.com/s/article/1667337576882),[Importing](https://support.makerbot.com/s/article/1667411286867)
-	
-	
-	
-	
-3. Bring your .STL File you exported from RHINOCEROS into Ultimaker Cura 
-	
+**Print Failures**
 
+3D printing is a fail-prone process. Prints fail regularly due to machine and design error. 
+* 3D prints that fail due to machine errors will be reprinted with no charge to the student.
+*  3D prints that fail due to design errors will not be reprinted and the student will not be refunded for the material used. Students who want to reprint failed files must sign up for a consultation.
 
+**Consultations**
 
+The lab offers 3D Printing Consultation appointments for students who want advice on creating, editing or repairing their 3D print files. 
+* We recommend students to sign up for consultations before submitting a 3D print file into the Job Queue.
+* Consultation does not equal job submission to queue. Students will still have to submit their file to the queue after the consultation.
+* Students interested in using the Wasp and Resin Printers must  make a consultation appointment 
 
+**Payment**
+* Students will be charged $0.05 per gram of the 3D print before the print is started
+* 3D prints will not be started on a printer until payment is made
 
-
-
-
-
-
-
-
+**Timeline**
+* Allow 3-5 days for your submission to be processed and printed; 5-7 days during busy periods.
+* Students will be notified when their 3D print is finished and ready for pick-up. 
 
 
 ## Watch our local printer run!
