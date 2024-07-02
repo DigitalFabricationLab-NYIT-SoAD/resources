@@ -1,4 +1,4 @@
-hmm
+
 [< - TAKE ME BACK HOME ](/resources/README.md)
 
 # 3D Printing
@@ -15,36 +15,36 @@ The lab will print anything that follows these rules.  Any files submitted to th
 
 **3D Model Requirements**
 
-	Geometry must be:
+Geometry must be:
  
-	1. Closed polysurface / mesh
-	2. Not non-manifold
-	3. Larger than 1 mm (1/16 in)
- 	4. Complex geometry that cannot be easily built using alternative material / method
-  	5. Nested into a single printer build volume: 310 x 220 x 280 mm (12 x 9 x 11 in) 
+1. Closed polysurface / mesh
+2. Not non-manifold
+3. Larger than 1 mm (1/16 in)
+4. Complex geometry that cannot be easily built using alternative material / method
+5. Nested into a single printer build volume: 310 x 220 x 280 mm (12 x 9 x 11 in) 
 
-  	Use this 3D Modeling for 3D Printing Guide as a reference
+Use this 3D Modeling for 3D Printing Guide as a reference
    
  **Material Use / Print Time**
  
-	3D Prints must be:
-  
-	1. Under 1000g of print material
-	2. Under 24hr total print time
+3D Prints must be:
 
-	Use this Cura Slicing Guide to check your material use / print time
+1. Under 1000g of print material
+2. Under 24hr total print time
+
+Use this Cura Slicing Guide to check your material use / print time
  
 **File Submission**
 
-	Files submissions must be:
+Files submissions must be:
 
-  	1. Rhino 7 (.3dm) file
-   	2. Units in millimeters
-	3. One file per student per day
+1. Rhino 7 (.3dm) file
+2. Units in millimeters
+3. One file per student per day
 
-  	Use this 3D Printing Template for file submissions
+Use this 3D Printing Template for file submissions
 
-   **Submit your file to the 3D Printing Job Queue _here_**
+**Submit your file to the 3D Printing Job Queue _here_**
 	
 ## SoAD Fab Lab 3D Printing Guidelines
 
@@ -69,15 +69,18 @@ The lab offers 3D Printing Consultation appointments for students who want advic
 * Allow 3-5 days for your submission to be processed and printed; 5-7 days during busy periods.
 * Students will be notified when their 3D print is finished and ready for pick-up. 
 
+## Resources
 
-## Watch our local printer run!
+* 3D Printing Template
+* 3D Modeling for 3D Printing Tutorial / Best Practice Guide
+* 3D Printing Time/Cost Check Cura Slicing Guide
+* 3D Printing File Submission Tutorial / Pre-Submission Checklist
+* 3D Printing [Technical User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/3DPrinters.md)
+* 3D Printing Helpful Links 
+* Watch our local printer run!
+	Only available on the network on the Manhattan Campus 
+	[Link to printer 5](http://192.168.166.33/print_jobs)
 
-Only available on the network on the Manhattan Campus 
 
-[Link to printer 5](http://192.168.166.33/print_jobs)
 
-*Want to know more?*
-Check out this Detailed User Guide:
-
-[3D Printers User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/3DPrinters.md)
 
