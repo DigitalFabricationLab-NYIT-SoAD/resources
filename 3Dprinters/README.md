@@ -3,7 +3,7 @@
 
 # 3D Printing
 
-***Students can use the SoAD Fab Lab's Ultimaker 3D printers by submitting a 3D model to the 3D Printing Job Queue.***
+**Students can use the SoAD Fab Lab's Ultimaker 3D printers by submitting a 3D model to the 3D Printing Job Queue.**
 
 Reminders:
 * Anything can be 3D modeled, but not everything can be 3D printed. *It is the responsibility of the student to design their 3D model to be 3D printed.*
@@ -13,9 +13,9 @@ Reminders:
 
 The lab will print anything that follows these rules.  Any files submitted to the Job Queue that do not comply with the following rules will be rejected. 
 
-**3D Model Requirements**
+### 3D Model Requirements
 
-Geometry must be:
+***Geometry must be:***
  
 1. Closed polysurface / mesh
 2. Not non-manifold
@@ -25,18 +25,18 @@ Geometry must be:
 
 Use this 3D Modeling for 3D Printing Guide as a reference
    
- **Material Use / Print Time**
+### Material Use / Print Time
  
-3D Prints must be:
+***3D Prints must be:***
 
 1. Under 1000g of print material
 2. Under 24hr total print time
 
 Use this Cura Slicing Guide to check your material use / print time
  
-**File Submission**
+### File Submission
 
-Files submissions must be:
+***Files submissions must be:***
 
 1. Rhino 7 (.3dm) file
 2. Units in millimeters
@@ -48,24 +48,24 @@ Use this 3D Printing Template for file submissions
 	
 ## SoAD Fab Lab 3D Printing Guidelines
 
-**Print Failures**
+### Print Failures
 
-3D printing is a fail-prone process. Prints fail regularly due to machine and design error. 
-* 3D prints that fail due to machine errors will be reprinted with no charge to the student.
-*  3D prints that fail due to design errors will not be reprinted and the student will not be refunded for the material used. Students who want to reprint failed files must sign up for a consultation.
+3D printing is a fail-prone process. Prints fail regularly due to *machine* and *design* error. 
+* 3D prints that fail due to *machine errors* will be reprinted with no charge to the student.
+* 3D prints that fail due to *design errors* will not be reprinted and the student will not be refunded for the material used. Students who want to reprint failed files must sign up for a consultation.
 
-**Consultations**
+### Consultations
 
 The lab offers 3D Printing Consultation appointments for students who want advice on creating, editing or repairing their 3D print files. 
 * We recommend students to sign up for consultations before submitting a 3D print file into the Job Queue.
 * Consultation does not equal job submission to queue. Students will still have to submit their file to the queue after the consultation.
 * Students interested in using the Wasp and Resin Printers must  make a consultation appointment 
 
-**Payment**
+### Payment
 * Students will be charged $0.05 per gram of the 3D print before the print is started
 * 3D prints will not be started on a printer until payment is made
 
-**Timeline**
+### Timeline
 * Allow 3-5 days for your submission to be processed and printed; 5-7 days during busy periods.
 * Students will be notified when their 3D print is finished and ready for pick-up. 
 
