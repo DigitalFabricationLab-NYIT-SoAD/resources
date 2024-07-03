@@ -23,7 +23,7 @@ The lab will print anything that follows these rules.  Any files submitted to th
 4. Complex geometry that cannot be easily built using alternative material / method
 5. Nested into a single printer build volume: 310 x 220 x 280 mm (12 x 9 x 11 in) 
 
-Use this [3D Modeling for 3D Printing Guide](/Tutorials&Templates/README.md) as a reference
+Use this [3D Modeling for 3D Printing Guide](/Tutorials&Templates/3Dprinters/ModelingGuide) as a reference
    
 ### Material Use / Print Time
  
@@ -32,7 +32,7 @@ Use this [3D Modeling for 3D Printing Guide](/Tutorials&Templates/README.md) as 
 1. Under 1000g of print material
 2. Under 24hr total print time
 
-Use this  [Cura Slicing Guide](/Tutorials&Templates/CuraGuide.md) to check your material use / print time
+Use this  [Cura Slicing Guide](/Tutorials&Templates/3Dprinters/CuraSlicer) to check your material use / print time
  
 ### File Submission
 
@@ -70,6 +70,11 @@ The lab offers 3D Printing Consultation appointments for students who want advic
 * Students will be notified when their 3D print is finished and ready for pick-up. 
 
 ## Resources
+
+[Modeling Guide](/Tutorials&Templates/3Dprinters/ModelingGuide)
+
+[Cura Slicing Guide](/Tutorials&Templates/3Dprinters/CuraSlicer)
+
 
 * 3D Printing Template
 * 3D Modeling for 3D Printing Tutorial / Best Practice Guide
