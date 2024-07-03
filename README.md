@@ -34,6 +34,8 @@ Old Westbury 10am-7pm M-F
 
 ## Quick Links 
 
+[Tutorials & Templates](/Tutorials&Templates)
+
 ### Sign-Up System
 
 [Appointment Sign Up for Manhattan Lasers](https://outlook.office365.com/owa/calendar/booking-LaserCuttingNYITManhattan@nyinstituteoftechnology.onmicrosoft.com/bookings/)
