@@ -34,7 +34,7 @@ Old Westbury 10am-7pm M-F
 
 ## Quick Links 
 
-[Tutorials & Templates](/Tutorials&Templates)
+[Tutorials & Templates](/Tutorials&Templates/README.md)
 
 ### Sign-Up System
 
