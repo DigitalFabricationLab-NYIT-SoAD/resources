@@ -15,7 +15,7 @@ The lab will print anything that follows these rules.  Any files submitted to th
 
 ### 3D Model Requirements
 
-***Geometry must be:***
+*Geometry must be:*
  
 1. Closed polysurface / mesh
 2. Not non-manifold
@@ -27,7 +27,7 @@ Use this [3D Modeling for 3D Printing Guide](/Tutorials&Templates/README.md) as 
    
 ### Material Use / Print Time
  
-***3D Prints must be:***
+*3D Prints must be:*
 
 1. Under 1000g of print material
 2. Under 24hr total print time
@@ -36,7 +36,7 @@ Use this  [Cura Slicing Guide](/Tutorials&Templates/CuraGuide.md) to check your 
  
 ### File Submission
 
-***Files submissions must be:***
+*Files submissions must be:*
 
 1. Rhino 7 (.3dm) file
 2. Units in millimeters
