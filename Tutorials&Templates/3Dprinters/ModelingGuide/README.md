@@ -14,7 +14,6 @@ Use The Command "ShowEdges" and Click Through the available types of edges:
 
 ![ShowEdges](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/148252301/7af0be0b-a7f5-47c3-8c59-c943d110b40e)
 
-
 ## Evaluate it with the below standards ( WITH GRAPHIC EXAMPLES):
 
 Geometry must be:
