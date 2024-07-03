@@ -32,7 +32,7 @@ Use this [3D Modeling for 3D Printing Guide](/Tutorials&Templates/README.md) as 
 1. Under 1000g of print material
 2. Under 24hr total print time
 
-Use this  [Cura Slicing Guide](/Tutorials&Templates/README.md) to check your material use / print time
+Use this  [Cura Slicing Guide](/Tutorials&Templates/CuraGuide.md) to check your material use / print time
  
 ### File Submission
 
