@@ -20,8 +20,7 @@ The lab will print anything that follows these rules.  Any files submitted to th
 1. Closed polysurface / mesh
 2. Not non-manifold
 3. Larger than 1 mm (1/16 in)
-4. Complex geometry that cannot be easily built using alternative material / method
-5. Nested into a single printer build volume: 310 x 220 x 280 mm (12 x 9 x 11 in) 
+4. Complex geometry that cannot be easily built using alternative material / method 
 
 Use this [3D Modeling for 3D Printing Guide](/Tutorials&Templates/3Dprinters/ModelingGuide/README.md) as a reference
    
@@ -40,7 +39,8 @@ Use this  [Cura Slicing Guide](/Tutorials&Templates/3Dprinters/CuraSlicer/README
 
 1. Rhino 7 (.3dm) file
 2. Units in millimeters
-3. One file per student per day
+3. Geometry nested into a single printer build volume: 310 x 220 x 280 mm (12 x 9 x 11 in)
+4. One file per student per day
 
 Use this 3D Printing Template for file submissions
 
