@@ -7,6 +7,10 @@
 
 ![finishing](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/148252301/bf7488ff-10f1-41aa-8227-b37dea3a6f70)
 
+## Booking
+
+[book appointments here](https://outlook.office365.com/owa/calendar/booking-TechnoCNCCut@nyinstituteoftechnology.onmicrosoft.com/bookings/)
+
 ## Intro 
 
 Computer Numerical Control (CNC) Machining is a manufacturing process in which pre-programmed computer software dictates the movement of factory tools and machinery. The process can be used to control a range of complex machinery, from grinders and lathes to mills and routers. 
