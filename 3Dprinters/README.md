@@ -69,16 +69,12 @@ The lab offers 3D Printing Consultation appointments for students who want advic
 * Allow 3-5 days for your submission to be processed and printed; 5-7 days during busy periods.
 * Students will be notified when their 3D print is finished and ready for pick-up. 
 
-## * 3D Printing Helpful Resources
-
-[Modeling Guide](/Tutorials&Templates/3Dprinters/ModelingGuide/README.md)
-
-[Cura Slicing Guide](/Tutorials&Templates/3Dprinters/CuraSlicer/README.md)
+## 3D Printing Helpful Resources
 
 
 * 3D Printing Template
-* 3D Modeling for 3D Printing Tutorial / Best Practice Guide
-* 3D Printing Time/Cost Check Cura Slicing Guide
+* [3D Modeling for 3D Printing Guide](/Tutorials&Templates/3Dprinters/ModelingGuide/README.md)
+* 3D Printing Time/Cost Check [Cura Slicing Guide](/Tutorials&Templates/3Dprinters/CuraSlicer/README.md)
 * 3D Printing File Submission Tutorial / Pre-Submission Checklist
 * 3D Printing [Technical User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/3DPrinters.md)
 
