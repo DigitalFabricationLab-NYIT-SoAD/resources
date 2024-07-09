@@ -2,11 +2,11 @@
 
 3D Printing:
 
-1. [Modeling for 3D Printing](/Tutorials&Templates/3DPrinters/ModelingGuide/README.md)
+1. [Modeling for 3D Printing](/Tutorials&Templates/3Dprinters/ModelingGuide)
 
-2. [Template](/Tutorials&Templates/3Dprinters/2024TemplateNYIT.3dm) 
+2. [Template](/Tutorials&Templates/3Dprinters/2024TemplateNYIT.3dm)
 
-3. [Slicing a model in Cura](/Tutorials&tTemplates/3DPrinters/CuraSlicer/README.md)
+3. [Slicing a model in Cura](/Tutorials&Templates/3Dprinters/CuraSlicer)
 
 ## Watch our local printer run!
 
