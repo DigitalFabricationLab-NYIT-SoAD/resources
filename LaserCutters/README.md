@@ -1,21 +1,35 @@
-NOT FINISHED
 
-CLAIRE AND EMILY ESTABLISHING:
+[< - TAKE ME BACK HOME ](/README.md)
 
-* RULES FOR BUILDING A GOOD FILE
+# Laser Cutting
 
-* RULES FOR GETTING AN APPOINTMENT
-## Laser Cut How To
+**The SoAD Fab Lab is *changing* Laser Cutting for students in Fall 2024. Students will now be able to laser cut by *signing up for a laser cutting appointment.***
 
-Major Changes: Each Studnet
-Please refer to this simple guide:
+Reminders:
+* Plan ahead and sign-up *early* for an in-person Laser Cutting Training Appointment if you will be laser cutting during the semester
+* Laser cutting cardboard is now *banned* in the SoAD Fab Lab
 
-[New Laser Cutting Standards](https://nyinstituteoftechnology-my.sharepoint.com/:w:/g/personal/afinke05_nyit_edu/EX4u2Ko3dutDkSyIW3U_AI8BQ_WN4fxu0Q0tHVR-vxGqLw?e=y767EZ)
+## SoAD Fab Lab Laser Cutting Rules
 
-## Sign-Up System
+### Required Orientation / Training
+1. Students must complete the online SoAD Fab Lab Orientation (link) before using the lab space
+2. Students must sign-up for an in-person Laser Cutting Training Appointment ***before*** signing up for your first Laser Cutting Appointment
 
-[Appointment Sign Up for Manhattan Lasers](https://outlook.office365.com/owa/calendar/booking-LaserCuttingNYITManhattan@nyinstituteoftechnology.onmicrosoft.com/bookings/)
+### Appointment Sign-Ups
+1. Students are allowed to 
 
+### During your Appointment
+
+
+### Approved Materials
+
+**Sign up for a Laser Cutting Appointment / Training [Here](https://outlook.office365.com/owa/calendar/booking-LaserCuttingNYITManhattan@nyinstituteoftechnology.onmicrosoft.com/bookings/)**
+
+## SoAD Fab Lab Laser Cutting Guidelines
+
+### Appointment Cancellations / No Shows
+
+## Laser Cutting Helpful Resources
 
 *Want to know more?*
 Check out this Detailed User Guide:
