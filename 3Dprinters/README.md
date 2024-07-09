@@ -34,7 +34,7 @@ Use this [3D Modeling for 3D Printing Guide](https://digitalfabricationlab-nyit-
 1. Under 1000g of print material
 2. Under 24hr total print time
 
-Use this  [Cura Slicing Guide](Tutorials&Templates/3Dprinters) to check your material use / print time
+Use this  [Cura Slicing Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/CuraSlicer/) to check your material use / print time
  
 ### File Submission
 
@@ -72,12 +72,11 @@ The lab offers 3D Printing Consultation appointments for students who want advic
 
 ## 3D Printing Helpful Resources
 
-
 * 3D Printing Template
-* [3D Modeling for 3D Printing Guide](/Tutorials&Templates/3Dprinters/ModelingGuide/README.md)
-* 3D Printing Time/Cost Check [Cura Slicing Guide](/Tutorials&Templates/3Dprinters/CuraSlicer/README.md)
-* 3D Printing File Submission Tutorial / Pre-Submission Checklist
-* 3D Printing [Technical User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/3DPrinters.md)
+* [3D Modeling for 3D Printing Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/ModelingGuide/)
+* 3D Printing Time/Cost Check [Cura Slicing Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/CuraSlicer/)
+* 3D Printing Speed Reading: [Speed](https://support.ultimaker.com/s/article/1667411313568)
+* 3D Printing Support: [Support Settings](https://support.ultimaker.com/s/article/1667417606331)
 
   
 * Watch our local printer run!
