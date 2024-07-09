@@ -1,7 +1,7 @@
 
 [< - TAKE ME BACK HOME ](/README.md)
 
-#CNC Milling
+# CNC Milling
 
 **Students can use the CNC machines by signing up for CAM Setup and Cut appointments**
 
@@ -25,10 +25,10 @@ Reminders:
 ***File Requirements***
 
 *3D Model must be:*
-- [x] In a Rhino 7 file (max 150kb)
-- [x] Only the geometry that you wish to cut on the CNC
-- [x] Modeled at full scale (actual size you want the object to be when it comes off the mill)
-- [x] Fit into the machine maximum dimensions and maximum tool lengths: Techno CNC (48 x 48 x 4 in) and Carvey (12 x 8 x 2 in)
+1. In a Rhino 7 file (max 150kb)
+2. Only the geometry that you wish to cut on the CNC
+3. Modeled at full scale (actual size you want the object to be when it comes off the mill)
+4. Fit into the machine maximum dimensions and maximum tool lengths: Techno CNC (48 x 48 x 4 in) and Carvey (12 x 8 x 2 in)
 
 Use the CNC Template File (LINK) to set up your 3D Model
 
@@ -56,10 +56,11 @@ Use the CNC Template File (LINK) to set up your 3D Model
 * Students will schedule their Machining Appointment at the end of their CAM Setup Appointment with the CNC Technician
 
 ## CNC Helpful Resources
+
 * CNC Intro Guide
+  
 * CNC Template File
+  
 * Stock Material Vendor List
-* CNC User Guide
-
-
-[CNCmills User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md)
+  
+* [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md)
