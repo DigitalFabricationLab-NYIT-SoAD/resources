@@ -26,7 +26,7 @@ The lab will print anything that follows these rules.  Any files submitted to th
 3. Larger than 1 mm (1/16 in)
 4. Complex geometry that cannot be easily built using alternative material / method 
 
-Use this [3D Modeling for 3D Printing Guide](/Tutorials&Templates/3Dprinters/ModelingGuide/) as a reference
+Use this [3D Modeling for 3D Printing Guide](/Tutorials&Templates/3Dprinters/ModelingGuide) as a reference
    
 ### Material Use / Print Time
  
