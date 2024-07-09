@@ -13,6 +13,10 @@ Reminders:
 
 The lab will print anything that follows these rules.  Any files submitted to the Job Queue that do not comply with the following rules will be rejected. 
 
+### Required Orientation / Training
+1. Students must complete the online SoAD Fab Lab Orientation (link) before using the lab space
+2. Students can sign up for a 3D Printing Consultation Appointment to be trained on 3D Printing best practice
+
 ### 3D Model Requirements
 
 *Geometry must be:*
@@ -45,8 +49,6 @@ Use this  [Cura Slicing Guide](/Tutorials&Templates/3Dprinters/CuraSlicer/README
 Use this 3D Printing Template for file submissions
 
 **Submit your file to the 3D Printing Job Queue _here_**
-	
-## SoAD Fab Lab 3D Printing Guidelines
 
 ### Print Failures
 
