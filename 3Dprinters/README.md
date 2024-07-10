@@ -8,22 +8,22 @@ Reminders:
 * Anything can be 3D modeled, but not everything can be 3D printed. *It is the responsibility of the student to design their 3D model to be 3D printed.*
 * All students must review and submit files according to the *SoAD Fab Lab 3D Printing Rules and Guidelines.* 
 
-## SoAD Fab Lab 3D Printing Rules
+## 3D Printing Standards
 
-The lab will print anything that follows these rules.  Any files submitted to the Job Queue that do not comply with the following rules will be rejected. 
+The lab will print anything that follows these standards.  Any files submitted to the Job Queue that do not comply with the following standards will be rejected. 
 
 ### Required Orientation / Training
-1. Students must complete the online SoAD Fab Lab Orientation (link) before using the lab space
-2. Students can sign up for a 3D Printing Consultation Appointment to be trained on 3D Printing best practice
+* Students must complete the online SoAD Fab Lab Orientation (link) before using the lab space
+* Students can sign up for a 3D Printing Consultation Appointment to be trained on 3D Printing best practice
 
 ### 3D Model Requirements
 
 *Geometry must be:*
  
-1. Closed polysurface / mesh
-2. Not non-manifold
-3. Larger than 1 mm (1/16 in)
-4. Complex geometry that cannot be easily built using alternative material / method 
+* Closed polysurface / mesh
+* Not non-manifold
+* Larger than 1 mm (1/16 in)
+* Complex geometry that cannot be easily built using alternative material / method 
 
 Use this [3D Modeling for 3D Printing Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/ModelingGuide/) as a reference
    
@@ -31,8 +31,8 @@ Use this [3D Modeling for 3D Printing Guide](https://digitalfabricationlab-nyit-
  
 *3D Prints must be:*
 
-1. Under 1000g of print material
-2. Under 24hr total print time
+* Under 1000g of print material
+* Under 24hr total print time
 
 Use this  [Cura Slicing Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/CuraSlicer/) to check your material use / print time
  
@@ -40,10 +40,10 @@ Use this  [Cura Slicing Guide](https://digitalfabricationlab-nyit-soad.github.io
 
 *Files submissions must be:*
 
-1. Rhino 7 (.3dm) file
-2. Units in millimeters
-3. Geometry nested into a single printer build volume: 310 x 220 x 280 mm (12 x 9 x 11 in)
-4. One file per student per day
+* Rhino 7 (.3dm) file
+* Units in millimeters
+* Geometry nested into a single printer build volume: 310 x 220 x 280 mm (12 x 9 x 11 in)
+* One file per student per day
 
 Use this 3D Printing Template for file submissions
 
@@ -60,11 +60,11 @@ Use this 3D Printing Template for file submissions
 The lab offers 3D Printing Consultation appointments for students who want advice on creating, editing or repairing their 3D print files. 
 * We recommend students to sign up for consultations before submitting a 3D print file into the Job Queue.
 * Consultation does not equal job submission to queue. Students will still have to submit their file to the queue after the consultation.
-* Students interested in using the Wasp and Resin Printers must  make a consultation appointment 
+* Students interested in using the Wasp and Resin Printers must  make a consultation appointment.
 
 ### Payment
-* Students will be charged $0.05 per gram of the 3D print before the print is started
-* 3D prints will not be started on a printer until payment is made
+* Students will be charged $0.05 per gram of the 3D print before the print is started.
+* 3D prints will not be started on a printer until payment is made.
 
 ### Timeline
 * Allow 3-5 days for your submission to be processed and printed; 5-7 days during busy periods.
@@ -75,10 +75,8 @@ The lab offers 3D Printing Consultation appointments for students who want advic
 * 3D Printing Template
 * [3D Modeling for 3D Printing Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/ModelingGuide/)
 * 3D Printing Time/Cost Check [Cura Slicing Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/CuraSlicer/)
-* 3D Printing Speed Reading: [Speed](https://support.ultimaker.com/s/article/1667411313568)
-* 3D Printing Support: [Support Settings](https://support.ultimaker.com/s/article/1667417606331)
-
-  
+* 3D Printing [Speed Reading](https://support.ultimaker.com/s/article/1667411313568)
+* 3D Printing [Support Settings](https://support.ultimaker.com/s/article/1667417606331)
 * Watch our local printer run!
 	Only available on the network on the Manhattan Campus 
 	[Link to printer 5](http://192.168.166.33/print_jobs)
