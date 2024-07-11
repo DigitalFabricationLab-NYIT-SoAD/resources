@@ -6,7 +6,9 @@
 
 2. [Template](/Tutorials&Templates/3Dprinters/2024TemplateNYIT.3dm)
 
-3. [Slicing a model in Cura](/Tutorials&Templates/3Dprinters/CuraSlicer)
+3. [Template Download](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/ModelingGuide/2024TemplateNYIT.3dm)
+
+4. [Slicing a model in Cura](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/Tutorials&Templates/3Dprinters/CuraSlicer)
 
 ## Watch our local printer run!
 
