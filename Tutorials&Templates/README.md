@@ -8,9 +8,11 @@
 
 3. [Template Download](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/ModelingGuide/2024TemplateNYIT.3dm)
 
-4. [New download attempt]({{ site.url }}/Tutorials&Templates/3Dprinters/ModelingGuide/2024TemplateNYIT.3dm)
+4. [Template File](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EYdI5pSW7gBEqY3XiM4vNBUBCvB8zlfL3ARrdGD7H-hb9g?download=1)
 
-5.  [Slicing a model in Cura](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/Tutorials&Templates/3Dprinters/CuraSlicer)
+5. [Cura Default Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EbouiW7vc0dHkELPlRN5e20BUlDckUIrzU68MyBVNr9OSw?download=1)
+
+6. [Slicing a model in Cura](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/Tutorials&Templates/3Dprinters/CuraSlicer)
    
 
 ## Watch our local printer run!
