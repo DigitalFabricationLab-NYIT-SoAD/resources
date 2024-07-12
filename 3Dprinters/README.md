@@ -16,6 +16,10 @@ The lab will print anything that follows these standards.  Any files submitted t
 * Students must complete the online SoAD Fab Lab Orientation (link) before using the lab space
 * Students can sign up for a 3D Printing Consultation Appointment to be trained on 3D Printing best practice
 
+### Timeline
+* Allow 3-5 days for your submission to be processed and printed; 5-7 days during busy periods.
+* Students will be notified when their 3D print is finished and ready for pick-up.
+
 ### 3D Model Requirements
 
 *Geometry must be:*
@@ -64,11 +68,7 @@ The lab offers 3D Printing Consultation appointments for students who want advic
 
 ### Payment
 * Students will be charged $0.05 per gram of the 3D print before the print is started.
-* 3D prints will not be started on a printer until payment is made.
-
-### Timeline
-* Allow 3-5 days for your submission to be processed and printed; 5-7 days during busy periods.
-* Students will be notified when their 3D print is finished and ready for pick-up. 
+* 3D prints will not be started on a printer until payment is made. 
 
 ## 3D Printing Helpful Resources
 
