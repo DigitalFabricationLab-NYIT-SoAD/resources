@@ -7,33 +7,40 @@
 
 Reminders:
 * *CNC machining is a complex fabrication process, we recommend starting early!* As a rule of thumb, allow 1-2 weeks to complete the entire process (model design/edits for CNC, CAM programming, material prep/acquisition, and cut time).
+
 * Digital 3D models are built from essentially nothing in empty space. The approach of CNC machining is the opposite; it is a process of subtractive manufacturing, where a tool carves into a stock material to leave behind the desired object. 
 
 ## CNC Machining Process / Standards
 Any students interested in CNC Machining must read and follow the standards below.
 
 ### Required Orientation / Training
-1. Students must complete the online SoAD Fab Lab Orientation (LINK) before using the lab space
-2. Students must review the CNC User Guide (LINK) before attending their first CAM appointment. 
+1. Students must complete the online **SoAD Fab Lab Orientation** (LINK) before using the lab space
+   
+2. Students must review the **CNC User Guide** (LINK) before attending their first CAM appointment.
+    
 3. If you have never used a CNC router before, we recommend you come into the lab for a quick consultation. Bring your model pulled up on your laptop and we can talk about the best approach for what you are trying to make.
 
 ### Timeline
 * If a student is interested in CNC machining their model, we recommend starting the consultation / preparation process **1-2 weeks** before you want to be finished with the cut.
+  
 * File setup and material retrieval take the most time; this is the responsibility of the student. The more prepared a student is for their CAM Appointment, the quicker the entire CNC process will be. 
 
 ### Step 1: CAM Appointments 
-File setup and material retrieval take the most time in CNC Machining; this is the responsibility of the student. To make the best use of the lab’s time (and yours), schedule your CAM appointment when you have a pretty solid idea of what you want to cut and how you want to go about it. 
+*File setup and material retrieval take the most time in CNC Machining; this is the responsibility of the student.* To make the best use of the lab’s time (and yours), schedule your CAM appointment when you have a pretty solid idea of what you want to cut and how you want to go about it. 
 
 ***File Requirements***
 
-*It is the responsibility of the student to bring a digital model to their CAM Appointment that complies with the following rules:*
+It is the responsibility of the student to bring a digital model to their CAM Appointment that complies with the following rules:
 
 * Cut geometry situated within the bounding box of either the Techno CNC template (48 x 48 in) or the Carvey CNC template (12 x 8 in)
+  
 * Rhino 7 (.3dm) file
+  
 * On a flash drive (USB)
+  
 * 150 KB maximum file size
 
-Any geometry that is not ready for CAM programming will be rejected and the student will have to reschedule the appointment before they are able to cut. 
+*Any geometry that is not ready for CAM programming will be rejected and the student will have to reschedule the appointment before they are able to cut.* 
 
 Use the CNC Template File (LINK) to set up your 3D Model
 
@@ -66,10 +73,12 @@ Use the Vendor List (LINK) to see stock material sellers in the area
 
 *Students will schedule their Machining Appointment at the end of their CAM Setup Appointment with the CNC Technician. File cut time will be determined during the CAM Appointment. Cut times can take anywhere from 10 minutes (Carvey) to 3+ hours (Techno).*
 
-**Appointment Requirements**
+***Appointment Requirements***
 
 * You must have already completed your CAM appointment with no file issues. You will know this step is completed when your CAM file is saved (by the CNC Technician) on the CNC computer in the shop
+  
 * Bring in your stock, ready to cut. (NO wet or uncured glue, paint, etc.)
+  
 * For safety reasons, at least one student must be present in the CNC room to monitor the cut the entire time a job is running.
 
 **Sign up for a CNC Cut Appointment [Here](https://outlook.office365.com/owa/calendar/booking-TechnoCNCCut@nyinstituteoftechnology.onmicrosoft.com/bookings/)**
