@@ -1,45 +1,51 @@
 
 [< - TAKE ME BACK HOME ](/README.md)
 
-# CNC Milling
+# CNC Machining
 
-**Students can use the CNC machines by signing up for CAM Setup and Cut appointments**
+**Students can use the SoAD Fab Lab's 48" x 48" TechnoCNC Router and 12" x 8" Carvey CNC Router by attending a CAM Appointment followed by a Cut Appointment.**
 
 Reminders:
-* CNC milling is an involved process - allow 1-2 weeks for any CNC project
-* If gluing layered stock material, glue *must be fully dry* before your machine appointment
+* CNC machining is a complex fabrication process, we recommend starting early! As a rule of thumb, allow 1-2 weeks to complete the entire process (model design/edits for CNC, CAM programming, material prep/acquisition, and cut time).
+* Digital 3D models are built from essentially nothing in empty space. The approach of CNC machining is the opposite; it is a process of subtractive manufacturing, where a tool carves into a stock material to leave behind the desired object. 
 
-## CNC Milling Standards
+## CNC Machining Process / Standards
+Any students interested in CNC Machining must read and follow the standards below.
 
 ### Required Orientation / Training
 * Students must complete the online SoAD Fab Lab Orientation (LINK) before using the lab space
-* Students must sign-up for an in-person CAM Setup Appointment to be able to sign-up for a Cut Appointment
-* The lab recommends all students to read the CNC Intro Guide (LINK) before their first CNC Appointments
+* Students must review the CNC User Guide (LINK) before attending their first CAM appointment. 
+* If you have never used a CNC router before, we recommend you come into the lab for a quick consultation. Bring your model pulled up on your laptop and we can talk about the best approach for what you are trying to make.
 
-### CAM Setup Appointments
-* Students will work with a CNC Technician to  Appointment
-* Consultation appointments are set for 30 minutes, but might be shorter / longer depending on the file 
-* Students are required to bring their 3D Model file on a USB to their CNC Consultation Appointment
-* Students will need to know what stock material they wish to use (it is recommended to buy your stock material *after* your CAM Setup Appointment)
+### Timeline
+* If a student is interested in CNC machining their model, we recommend starting the consultation / preparation process **1-2 weeks** before you want to be finished with the cut.
+* File setup and material retrieval take the most time; this is the responsibility of the student. The more prepared a student is for their CAM Appointment, the quicker the entire CNC process will be. 
+
+### Step 1: CAM Appointments 
+File setup and material retrieval take the most time in CNC Machining; this is the responsibility of the student. To make the best use of the lab’s time (and yours), schedule your CAM appointment when you have a pretty solid idea of what you want to cut and how you want to go about it. 
 
 ***File Requirements***
+*It is the responsibility of the student to bring a digital model to their CAM Appointment that complies with the following rules:*
 
-*3D Model must be:*
-1. In a Rhino 7 file (max 150kb)
-2. Only the geometry that you wish to cut on the CNC
-3. Modeled at full scale (actual size you want the object to be when it comes off the mill)
-4. Fit into the machine maximum dimensions and maximum tool lengths: Techno CNC (48 x 48 x 4 in) and Carvey (12 x 8 x 2 in)
+* Cut geometry situated within the bounding box of either the Techno CNC template (48 x 48 in) or the Carvey CNC template (12 x 8 in)
+* Rhino 7 (.3dm) file
+* On a flash drive (USB)
+* 150 KB maximum file size
+
+Any geometry that is not ready for CAM programming will be rejected and the student will have to reschedule the appointment before they are able to cut. 
 
 Use the CNC Template File (LINK) to set up your 3D Model
 
-***Stock Material***
+***Approved Materials***
+Students are responsible for providing their own stock material for cutting. Work with the CNC technician and/or staff to determine the best type of stock material for your geometry/applications. 
 
-*Accepted CNC stock material:*
+*Approved materials for CNC cutting include:*
+
 * Wood
    * Hardwood (*not* dimensional lumber like 2x4's, 4x4's, etc.)
    * Plywood (comes in various grades, consult with CNC Technician *before* purchasing)
 * Foam
-   * Extruded polystyrene (aka purple or pink foam, often used as insulation panels)
+   * Extruded polystyrene (XPS) (purple/pink insulation foam)
    * HDU (High Density Urethane)
       * Low Density - pink / salmon
       * Mid Density - beige
@@ -47,20 +53,29 @@ Use the CNC Template File (LINK) to set up your 3D Model
 * Plastics
    * Acrylic
    * Many types of plastics that *cannot* be cut on the laser cutter *can* be cut on the CNC
+
+If you are gluing up sheets of material to reach the desired stock thickness, the glue must be completely dry before your Cut Appointment. We recommend following these stock glue-up guidelines/tips. 
  
-  Use the Vendor List (LINK) to see stock material sellers in the area
+Use the Vendor List (LINK) to see stock material sellers in the area
 
-**Sign up for a CAM Setup Appointment [Here](https://outlook.office365.com/owa/calendar/booking-TechnoCNCCut@nyinstituteoftechnology.onmicrosoft.com/bookings/)**
+**Sign up for a CAM Appointment [Here](https://outlook.office365.com/owa/calendar/booking-TechnoCNCCut@nyinstituteoftechnology.onmicrosoft.com/bookings/)**
 
-### Machining Appointments
-* Students will schedule their Machining Appointment at the end of their CAM Setup Appointment with the CNC Technician
+### Step 2: CNC Cut Appointments 
+*Students will schedule their Machining Appointment at the end of their CAM Setup Appointment with the CNC Technician. File cut time will be determined during the CAM Appointment. Cut times can take anywhere from 10 minutes (Carvey) to 3+ hours (Techno).*
+
+**Appointment Requirements**
+* You must have already completed your CAM appointment with no file issues. You will know this step is completed when your CAM file is saved (by the CNC Technician) on the CNC computer in the shop
+* Bring in your stock, ready to cut. (NO wet or uncured glue, paint, etc.)
+* For safety reasons, at least one student must be present in the CNC room to monitor the cut the entire time a job is running.
+
+**Sign up for a CNC Cut Appointment [Here](https://outlook.office365.com/owa/calendar/booking-TechnoCNCCut@nyinstituteoftechnology.onmicrosoft.com/bookings/)**
 
 ## CNC Helpful Resources
 
-* CNC Intro Guide
+* [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md)
   
 * CNC Template File
   
 * Stock Material Vendor List
   
-* [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md)
+
