@@ -28,8 +28,7 @@ Students are responsible to be done cutting and cleaned up at the end of their a
   
 * Bookings open 7 days beforehand
   
-* Students can book up to 3 laser appointments per week
-  
+* Students can book up to 3 laser appointments per week  
   * Students signing up for more than 3 laser appointments will have all extra appointments cancelled
 
 **Cancellations / No-Shows**
