@@ -14,11 +14,11 @@ Reminders:
 Any students interested in CNC Machining must read and follow the standards below.
 
 ### Required Orientation / Training
-1. Students must complete the online **SoAD Fab Lab Orientation** (LINK) before using the lab space
+* Students must complete the online **SoAD Fab Lab Orientation** (LINK) before using the lab space
    
-2. Students must review the **CNC User Guide** (LINK) before attending their first CAM appointment.
+* Students must review the **CNC User Guide** (LINK) before attending their first CAM appointment.
     
-3. If you have never used a CNC router before, we recommend you come into the lab for a quick consultation. Bring your model pulled up on your laptop and we can talk about the best approach for what you are trying to make.
+* If you have never used a CNC router before, we recommend you come into the lab for a quick consultation. Bring your model pulled up on your laptop and we can talk about the best approach for what you are trying to make.
 
 ### Timeline
 * If a student is interested in CNC machining their model, we recommend starting the consultation / preparation process **1-2 weeks** before you want to be finished with the cut.
@@ -67,7 +67,7 @@ If you are gluing up sheets of material to reach the desired stock thickness, *t
  
 Use the Vendor List (LINK) to see stock material sellers in the area
 
-**Sign up for a CAM Appointment [Here](https://outlook.office365.com/owa/calendar/booking-TechnoCNCCut@nyinstituteoftechnology.onmicrosoft.com/bookings/)**
+***Sign up for a CAM Appointment [Here](https://outlook.office365.com/owa/calendar/booking-TechnoCNCCut@nyinstituteoftechnology.onmicrosoft.com/bookings/)***
 
 ### Step 2: CNC Cut Appointments 
 
