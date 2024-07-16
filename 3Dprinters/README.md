@@ -85,7 +85,10 @@ The lab offers 3D Printing Consultation appointments for students who want advic
 
 * Students will be charged $0.05 per gram of the 3D print before the print is started.
   
-* 3D prints will not be started on a printer until payment is made. 
+* 3D prints will not be started on a printer until payment is made.
+
+* The lab will determine a successful / unsuccessful print and whether a student will be charged or not.
+  * we don't charge for good experiments
 
 ## 3D Printing Helpful Resources
 
