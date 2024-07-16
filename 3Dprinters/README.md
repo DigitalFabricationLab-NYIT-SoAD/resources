@@ -2,7 +2,7 @@
 
 # 3D Printing
 
-**Students can use the SoAD Fab Lab's Ultimaker 3D printers by submitting a 3D model to the 3D Printing Job Queue.**
+**Students can use the SoAD Fab Lab's *Ultimaker 3D Printers* by submitting a 3D model to the 3D Printing Job Queue.**
 
 Reminders:
 * Anything can be 3D modeled, but not everything can be 3D printed. *It is the responsibility of the student to design their 3D model to be 3D printed.*
@@ -11,7 +11,7 @@ Reminders:
 
 ## 3D Printing Process / Standards
 
-The lab will print anything that follows these standards.  Any files submitted to the Job Queue that do not comply with the following standards will be rejected. 
+The lab will print any file submitted to the 3D Printing Job Queue that follows the lab's process and standards standards.  Any submitted files that do not comply with the following process and standards will be rejected. 
 
 ### Required Orientation / Training
 * Students must complete the online SoAD Fab Lab Orientation (link) before using the lab space.
