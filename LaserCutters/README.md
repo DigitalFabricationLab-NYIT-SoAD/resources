@@ -3,7 +3,7 @@
 
 # Laser Cutting
 
-**The SoAD Fab Lab is *changing* Laser Cutting for students in Fall 2024. Students will now be able to laser cut by *signing up for a laser cutting appointment.***
+**The SoAD Fab Lab is *changing* Laser Cutting for students in Fall 2024. Students will now be able to laser cut by signing up for a laser cutting appointment.**
 
 Reminders:
 * *Laser Cutting Training Appointments are required for all students who plan on laser cutting during the Fall 2024 semester.* Plan ahead and sign-up **early** for an in-person Laser Cutting Training Appointment to ensure access to the laser cutters.
@@ -15,9 +15,9 @@ Reminders:
 ### Required Orientation / Training
 * Students must complete the online SoAD Fab Lab Orientation (link) before using the lab space
    
-* Students must sign-up for an in-person Laser Cutting Training Appointment ***before*** signing up for your first Laser Cutting Appointment
+* Students must sign-up for an in-person Laser Cutting Training Appointment **before** signing up for your first Laser Cutting Appointment
 
-Sign up for a Laser Cutting Training Appointment here (LINK) 
+***Sign up for a Laser Cutting Training Appointment here (LINK)*** 
 
 ### Laser Cutting Appointments 
 Students are responsible to be done cutting and cleaned up at the end of their appointment time. The more preparation completed ahead of time, the more time can be spent laser cutting during your appointment. 
