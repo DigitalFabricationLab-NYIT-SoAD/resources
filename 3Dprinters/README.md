@@ -46,22 +46,6 @@ Use this [3D Modeling for 3D Printing Guide](https://digitalfabricationlab-nyit-
 * Under 24hr total print time
 
 Use this  [Cura Slicing Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/CuraSlicer/) to check your material use / print time
- 
-### File Submission
-
-*Files submissions must be:*
-
-* Rhino 7 (.3dm) file
-  
-* Units in millimeters
-  
-* Geometry nested into a single printer build volume: 310 x 220 x 280 mm (12 x 9 x 11 in)
-  
-* One file per student per day
-
-Use this 3D Printing Template (LINK) for file submissions
-
-**Submit your file to the 3D Printing Job Queue _here_**
 
 ### Print Failures
 
@@ -89,6 +73,22 @@ The lab offers 3D Printing Consultation appointments for students who want advic
 
 * The lab will determine a successful / unsuccessful print and whether a student will be charged or not.
   * we don't charge for good experiments
+ 
+### File Submission
+
+*Files submissions must be:*
+
+* Rhino 7 (.3dm) file
+  
+* Units in millimeters
+  
+* Geometry nested into a single printer build volume: 310 x 220 x 280 mm (12 x 9 x 11 in)
+  
+* One file per student per day
+
+Use this 3D Printing Template (LINK) for file submissions
+
+**Submit your file to the 3D Printing Job Queue [Here](https://www.nyit.edu/architecture/fabrication_labs/queue_job)**
 
 ## 3D Printing Helpful Resources
 
