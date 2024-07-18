@@ -32,13 +32,13 @@ Manhattan 10am-5pm M-F
 
 Old Westbury 10am-7pm M-F 
 
-## Quick Links 
+## Quick Links For Students
 
 [Tutorials & Templates](/Tutorials&Templates/README.md)
 
-### Sign-Up System
+[Account Registration](https://www.nyit.edu/architecture/fabrication_labs/view_queue)
 
-[Appointment Sign Up for Manhattan Lasers](https://outlook.office365.com/owa/calendar/booking-LaserCuttingNYITManhattan@nyinstituteoftechnology.onmicrosoft.com/bookings/)
+[Appointments and Job Submissions](https://www.nyit.edu/architecture/fabrication_labs/view_queue)
 
 ## About Us
 
