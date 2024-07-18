@@ -1,6 +1,4 @@
 # Welcome to the NYIT SoAD Fabrication Lab Resource Page. 
-
-[LIVE WEBSITE](https://digitalfabricationlab-nyit-soad.github.io/resources/)  
   
 ## Lab Rules 
   
@@ -45,6 +43,8 @@ Old Westbury 10am-7pm M-F
 [Staff and Contact](https://www.nyit.edu/architecture/fabrication_labs)
 
 ![dancinglogo](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/148252301/be4e5a50-a9a7-4056-97b1-b1c2e7531dc2)
+
+[LIVE LINK FOR SITE IF YOU ARE LOST CLICK HERE](https://digitalfabricationlab-nyit-soad.github.io/resources/)  
 
 
 
