@@ -1,4 +1,4 @@
-# Welcome to the NYIT SoAD Fabrication Lab Resource Page. 
+# Welcome to the NYIT SoAD Fabrication Lab Resource Page!
   
 ## Lab Rules 
   
