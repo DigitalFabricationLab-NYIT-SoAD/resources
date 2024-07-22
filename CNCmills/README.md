@@ -1,5 +1,4 @@
 
-[< - TAKE ME BACK HOME ](/README.md)
 
 # CNC Machining
 
@@ -10,23 +9,28 @@ Reminders:
 
 * Digital 3D models are built from essentially nothing in empty space. The approach of CNC machining is the opposite; it is a process of subtractive manufacturing, where a tool carves into a stock material to leave behind the desired object. 
 
+
 ## CNC Machining Process / Standards
 Any students interested in CNC Machining must read and follow the standards below.
 
+
 ### Required Orientation / Training
-* Students must complete the online **SoAD Fab Lab Orientation** (LINK) before using the lab space
+* Students must complete the online [SoAD Fab Lab Orientation](https://forms.office.com/Pages/ResponsePage.aspx?id=cxNWGqGj7UunwoFBBJGiFNb937yciTdPowD-pQyEMWRUOTBEODNTN0EwT1AyMldQU0pVOTNJQVBLUS4u&origin=Invitation&channel=0) before using the lab space
    
-* Students must review the **CNC User Guide** (LINK) before attending their first CAM appointment.
+* Students must review the **[CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md)** before attending their first CAM appointment.
     
 * If you have never used a CNC router before, we recommend you come into the lab for a quick consultation. Bring your model pulled up on your laptop and we can talk about the best approach for what you are trying to make.
+
 
 ### Timeline
 * If a student is interested in CNC machining their model, we recommend starting the consultation / preparation process **1-2 weeks** before you want to be finished with the cut.
   
 * File setup and material retrieval take the most time; this is the responsibility of the student. The more prepared a student is for their CAM Appointment, the quicker the entire CNC process will be. 
 
+
 ### Step 1: CAM Appointments 
 *File setup and material retrieval take the most time in CNC Machining; this is the responsibility of the student.* To make the best use of the lab’s time (and yours), schedule your CAM appointment when you have a pretty solid idea of what you want to cut and how you want to go about it. 
+
 
 ***File Requirements***
 
@@ -42,7 +46,8 @@ It is the responsibility of the student to bring a digital model to their CAM Ap
 
 *Any geometry that is not ready for CAM programming will be rejected and the student will have to reschedule the appointment before they are able to cut.* 
 
-Use the CNC Template File (LINK) to set up your 3D Model
+Use the CNC Template File to set up your 3D Model
+
 
 ***Approved Materials***
 
@@ -69,9 +74,11 @@ Use the Vendor List (LINK) to see stock material sellers in the area
 
 ***Sign up for a CAM Appointment [Here](https://outlook.office365.com/owa/calendar/booking-TechnoCNCCut@nyinstituteoftechnology.onmicrosoft.com/bookings/)***
 
+
 ### Step 2: CNC Cut Appointments 
 
 *Students will schedule their Machining Appointment at the end of their CAM Setup Appointment with the CNC Technician. File cut time will be determined during the CAM Appointment. Cut times can take anywhere from 10 minutes (Carvey) to 3+ hours (Techno).*
+
 
 ***Appointment Requirements***
 
@@ -83,12 +90,13 @@ Use the Vendor List (LINK) to see stock material sellers in the area
 
 **Sign up for a CNC Cut Appointment [Here](https://outlook.office365.com/owa/calendar/booking-TechnoCNCCut@nyinstituteoftechnology.onmicrosoft.com/bookings/)**
 
+
 ## CNC Helpful Resources
 
 * [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md)
   
 * CNC Template File
   
-* Stock Material Vendor List
+* Materials Vendor List
   
 
