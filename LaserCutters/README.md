@@ -1,5 +1,5 @@
 
-[< - TAKE ME BACK HOME ](/README.md)
+[< - TAKE ME BACK HOME ](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/README.md)
 
 # Laser Cutting
 
