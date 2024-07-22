@@ -100,3 +100,4 @@ Use the Vendor List (LINK) to see stock material sellers in the area
 * Materials Vendor List
   
 
+[Take Me Back Home](https://digitalfabricationlab-nyit-soad.github.io/resources/) - [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) - [3D Printing](https://digitalfabricationlab-nyit-soad.github.io/resources/3Dprinters/) - [Wood Shop](https://digitalfabricationlab-nyit-soad.github.io/resources/ShopTools/)  
