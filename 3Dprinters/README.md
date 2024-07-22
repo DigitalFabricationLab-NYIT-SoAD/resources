@@ -11,7 +11,7 @@ Reminders:
 
 ## 3D Printing Process / Standards
 
-The lab will print any file submitted to the 3D Printing Job Queue that follows the lab's process and standards standards.  Any submitted files that do not comply with the following process and standards will be rejected. 
+The lab will print any file submitted to the 3D Printing Job Queue that follows the lab's process and standards.  Any submitted files that do not comply with the following process and standards will be rejected. 
 
 ### Required Orientation / Training
 * Students must complete the online SoAD Fab Lab Orientation (link) before using the lab space.
