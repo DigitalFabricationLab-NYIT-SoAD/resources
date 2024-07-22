@@ -1,4 +1,4 @@
-[< - TAKE ME BACK HOME ](/README.md)
+[<- TAKE ME BACK HOME](https://digitalfabricationlab-nyit-soad.github.io/resources/)
 
 # 3D Printing
 
@@ -108,6 +108,5 @@ Use this 3D Printing Template (LINK) for file submissions
 	Only available on the network on the Manhattan Campus 
 	[Link to printer 5](http://192.168.166.33/print_jobs)
 
-
-
+[<- TAKE ME BACK HOME](https://digitalfabricationlab-nyit-soad.github.io/resources/)
 
