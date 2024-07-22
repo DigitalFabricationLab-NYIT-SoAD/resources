@@ -2,27 +2,31 @@
   
 ## Lab Rules 
   
-  * Top priority is safety. 
+1. Top priority is safety. 
   
-  * Clean up after yourself. 
+2. Clean up after yourself. 
   
-  * If in doubt, ask for help.
+3. If in doubt, ask for help.
   
-  * Respect staff, student workers, each other, and the space/machines/tools 
+4. Respect staff, student workers, each other, and the space/machines/tools 
   
-  * The lab is a shared space - put your name/date/contact info on all materials and tools do not leave the shop 
+5. The lab is a shared space - put your name/date/contact info on all materials and tools do not leave the shop 
   
-  * Students must complete the Lab Orientation before using any machines/tools 
+***Students must complete the Lab Orientation before using any machines/tools***
 
-## Fab Lab Equipment 
+## Fab Lab Machine Pages
 
-[LaserCutters](LaserCutters/README.md)
+[Laser Cutting](LaserCutters/README.md)
 
-[CNCmills](CNCmills/README.md)
+[CNC Machining](CNCmills/README.md)
 
-[3Dprinters](3Dprinters/README.md)
+[3D Printing](3Dprinters/README.md)
 
-[Wood Shop Tools](ShopTools/README.md)
+[Wood Shop](ShopTools/README.md)
+
+Robotics Lab
+
+Plot Shop
 
 ## Hours 
 
