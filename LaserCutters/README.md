@@ -1,5 +1,4 @@
 
-[< - TAKE ME BACK HOME ](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/README.md)
 
 # Laser Cutting
 
@@ -10,14 +9,16 @@ Reminders:
 
 * Laser cutting cardboard is now *banned* in the SoAD Fab Lab
 
+
 ## SoAD Fab Lab Laser Cutting Process / Standards
 
+
 ### Required Orientation / Training
-* Students must complete the online SoAD Fab Lab Orientation (link) before using the lab space
+* Students must complete the online [SoAD Fab Lab Orientation](https://forms.office.com/Pages/ResponsePage.aspx?id=cxNWGqGj7UunwoFBBJGiFNb937yciTdPowD-pQyEMWRUOTBEODNTN0EwT1AyMldQU0pVOTNJQVBLUS4u&origin=Invitation&channel=0) before using the lab space
    
 * Students must sign-up for an in-person Laser Cutting Training Appointment **before** signing up for your first Laser Cutting Appointment
 
-***Sign up for a Laser Cutting Training Appointment here (LINK)*** 
+***Sign up for a Laser Cutting Training Appointment [Here](https://outlook.office365.com/book/booking-SoADLaser@nyinstituteoftechnology.onmicrosoft.com/)*** 
 
 ### Laser Cutting Appointments 
 Students are responsible to be done cutting and cleaned up at the end of their appointment time. The more preparation completed ahead of time, the more time can be spent laser cutting during your appointment. 
@@ -58,4 +59,6 @@ Students are responsible for providing their own material for cutting and it mus
   
 * [Laser Cutting Detailed User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/LaserCutters.md)
 
+* Materials Vendor List
 
+[Take Me Back Home](https://digitalfabricationlab-nyit-soad.github.io/resources/) - [3D Printing](https://digitalfabricationlab-nyit-soad.github.io/resources/3Dprinters/) - [CNC Machining](https://digitalfabricationlab-nyit-soad.github.io/resources/CNCmills/) - [Wood Shop](https://digitalfabricationlab-nyit-soad.github.io/resources/ShopTools/)  
