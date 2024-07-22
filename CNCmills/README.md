@@ -17,7 +17,7 @@ Any students interested in CNC Machining must read and follow the standards belo
 ### Required Orientation / Training
 * Students must complete the online [SoAD Fab Lab Orientation](https://forms.office.com/Pages/ResponsePage.aspx?id=cxNWGqGj7UunwoFBBJGiFNb937yciTdPowD-pQyEMWRUOTBEODNTN0EwT1AyMldQU0pVOTNJQVBLUS4u&origin=Invitation&channel=0) before using the lab space
    
-* Students must review the **[CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md)** before attending their first CAM appointment.
+* Students must review the [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md) before attending their first CAM appointment.
     
 * If you have never used a CNC router before, we recommend you come into the lab for a quick consultation. Bring your model pulled up on your laptop and we can talk about the best approach for what you are trying to make.
 
