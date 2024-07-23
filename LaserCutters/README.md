@@ -38,11 +38,11 @@ Students are responsible to be done cutting and cleaned up at the end of their a
 * Appointments will be cancelled if student does not show up 10 minutes into their appointment time and the rest of the student's appointments for the week will be cancelled
 
 **Approved Materials**
-Students are responsible for providing their own material for cutting and it must have the original material label / sticker. Material must be under 32" x 20" x ¼" max. 
+Students are responsible for providing their own material for cutting and it must have the original material label / sticker. Material must be under 32 in x 20 in x ¼ in max. 
 
-* Chipboard
-* Basswood
 * Acrylic
+* Basswood
+* Chipboard
 * Matte Board
 * Museum Board
 * Paper
