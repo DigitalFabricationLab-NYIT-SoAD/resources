@@ -24,9 +24,9 @@
 
 [Wood Shop](ShopTools/README.md)
 
-Robotics Lab
+[Robot Lab](RobotLab/README.md)
 
-Plot Shop
+[Plot Shop](PlotShop/README.md)
 
 ## Hours 
 
