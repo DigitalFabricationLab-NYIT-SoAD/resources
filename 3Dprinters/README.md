@@ -96,12 +96,13 @@ Use this  [Cura Slicing Guide](https://digitalfabricationlab-nyit-soad.github.io
 
 Use this 3D Printing Template (LINK) for file submissions
 
-**Submit your file to the 3D Printing Job Queue [Here](https://www.nyit.edu/architecture/fabrication_labs/queue_job)**
+Submit your file to the 3D Printing Job Queue 
+([Appointments and Job Submissions](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/))
 
 
 ## 3D Printing Helpful Resources
 
-* 3D Printing Template (LINK)
+* [3D Printing Template](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/ModelingGuide/2024TemplateNYIT.3dm)
   
 * [3D Modeling for 3D Printing Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/ModelingGuide/)
   
