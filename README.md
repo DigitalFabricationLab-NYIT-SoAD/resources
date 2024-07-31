@@ -40,8 +40,6 @@ Old Westbury 10am-7pm M-F
 
 [Account Registration](https://www.nyit.edu/architecture/fabrication_labs/view_queue)
 
-[Appointments and Job Submissions](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
-
 ## About Us
 
 [Staff and Contact](https://www.nyit.edu/architecture/fabrication_labs)
