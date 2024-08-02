@@ -88,7 +88,7 @@ Welcome to the School of Architecture and Design Fabrication Lab Appointments an
 * Students must complete the online [SoAD Fab Lab Orientation](https://forms.office.com/Pages/ResponsePage.aspx?id=cxNWGqGj7UunwoFBBJGiFNb937yciTdPowD-pQyEMWRUOTBEODNTN0EwT1AyMldQU0pVOTNJQVBLUS4u&origin=Invitation&channel=0) before using the lab space
 * Students must review the [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md) before attending their first CAM appointment.
 * If you have never used a CNC router before, we recommend you come into the lab for a quick consultation. Bring your model pulled up on your laptop and we can talk about the best approach for what you are trying to make.
-* * Review the lab's [CNC Machining](https://digitalfabricationlab-nyit-soad.github.io/resources/CNCmills/) page before signing up for an appointment
+* Review the lab's [CNC Machining](https://digitalfabricationlab-nyit-soad.github.io/resources/CNCmills/) page before signing up for an appointment
 
 **How to Sign up for an Appointment**
 * Students may sign up for a CNC CAM Appointment here (LINK)
