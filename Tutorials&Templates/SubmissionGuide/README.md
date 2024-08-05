@@ -32,6 +32,8 @@ Welcome to the School of Architecture and Design Fabrication Lab Appointments an
   * Professors Name
   * Project Notes (note the number of sheets and material to purchase here)
 * Select your campus Fabrication Lab
+ * Manhattan
+ * Old Westbury
 * Select the type of machine you need to use 
   * Laser Cutter – File upload / material purchase *only* (does not reserve a laser appointmet - appointments must be made here (LINK))
 * Select material (available while supplies last - students are limited to purchasing 6 sheets of material per appointment)
