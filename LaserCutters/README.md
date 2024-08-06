@@ -14,7 +14,7 @@ Reminders:
 
 
 ### Required Orientation / Training
-* Students must complete the online [SoAD Fab Lab Orientation](https://forms.office.com/Pages/ResponsePage.aspx?id=cxNWGqGj7UunwoFBBJGiFNb937yciTdPowD-pQyEMWRUOTBEODNTN0EwT1AyMldQU0pVOTNJQVBLUS4u&origin=Invitation&channel=0) before using the lab space
+* Students must complete the [SoAD Fab Lab Orientation](https://forms.office.com/Pages/ResponsePage.aspx?id=cxNWGqGj7UunwoFBBJGiFNb937yciTdPowD-pQyEMWRUOTBEODNTN0EwT1AyMldQU0pVOTNJQVBLUS4u&origin=Invitation&channel=0) before using the lab space for the first time
    
 * Students must sign-up for an in-person Laser Cutting Training Appointment **before** signing up for your first Laser Cutting Appointment
 
