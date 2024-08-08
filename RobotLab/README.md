@@ -26,12 +26,8 @@ S:~
 S:~
 
 
-Hey fadhil!
+Syntax Guide
 
-Heres that iamge:
-
-
-![HELLLO](https://github.com/user-attachments/assets/48e32ff8-c2bd-49b4-9cd0-4960491bb693)
-
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 
