@@ -2,6 +2,7 @@
   
 The Robotics Lab is a research lab, not a production shop, but can be visited during opening hours and faculty may inquire about ongoing projects or future classes to lab staff.
 
+
 Open Hours:
 
 Manhattan EGGC 1010:
@@ -23,5 +24,14 @@ TH:~
 F:~
 S:~
 S:~
+
+
+Hey fadhil!
+
+Heres that iamge:
+
+
+![HELLLO](https://github.com/user-attachments/assets/48e32ff8-c2bd-49b4-9cd0-4960491bb693)
+
 
 
