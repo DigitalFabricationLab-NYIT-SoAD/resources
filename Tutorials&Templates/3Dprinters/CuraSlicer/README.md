@@ -10,7 +10,7 @@ The Goal of this is to let you investigate the time and results of your printing
 
 [Link to other downloads](https://github.com/Ultimaker/Cura/releases/tag/5.7.2-RC2)
 
-2. Import the profile of the Utlimaker S5:
+2. Import the Utlimaker S5/S7 Printer:
 
 		Select the printer tab and click add printer:
 
@@ -38,14 +38,12 @@ The Goal of this is to let you investigate the time and results of your printing
 
 4. Import the most up to date settings profile provided by NYIT Fab Lab.
 
-	Download Current file: [NYIT_Prototype.curaprofile](NYIT_PROTOTYPE.curaprofile)
-
+	Download Current file: [Cura Default Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EbouiW7vc0dHkELPlRN5e20BUlDckUIrzU68MyBVNr9OSw?download=1)
 
 		Import Setting and use it to "Slice" your model
 
 ![Screenshot 2024-06-28 101509](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/148252301/483872dc-6cb0-4b9d-baa6-792c84391278)
-
-
+ 	
 	
 Further Reading:
 
@@ -54,5 +52,14 @@ Further Reading:
 	
 	
 	
-3. Bring your .STL File you exported from RHINOCEROS into Ultimaker Cura 
+3. Bring your .STL File you exported from RHINOCEROS into Ultimaker Cura
+
+
+4. Click Slice!
+   
+	This should give a good estimate of how long/how much material your job will take!
+
+ 	We change $0.07 per gram.
+
+
 	
