@@ -10,3 +10,10 @@ Here are the direct links to those we have ready:
 [3Dprinters](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/3Dprinters.md)
 
 [ShopTools](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/ShopTools.md)
+
+
+# Bit.ly Links
+
+bit.ly/NYITLABS
+
+bit.ly/nyitfablab
