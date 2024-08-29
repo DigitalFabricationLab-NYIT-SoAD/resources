@@ -47,7 +47,9 @@ The Goal of this is to let you investigate the time and results of your printing
 	
 Further Reading:
 
-[Overall](https://support.makerbot.com/s/article/1667337576882),[Importing](https://support.makerbot.com/s/article/1667411286867)
+[Overall Guides from ](https://support.makerbot.com/s/article/1667337576882)
+
+[Importing](https://support.makerbot.com/s/article/1667411286867)
 	
 	
 	
