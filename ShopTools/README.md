@@ -10,9 +10,12 @@ You are expected to follow the below rules at all times, even after your orienta
 
 ## Quiz
 
-[Quiz](https://forms.office.com/Pages/ResponsePage.aspx?id=cxNWGqGj7UunwoFBBJGiFNb937yciTdPowD-pQyEMWRUOTBEODNTN0EwT1AyMldQU0pVOTNJQVBLUS4u&origin=Invitation&channel=0)
+All students have been assigned a quiz in your Canvas portal.
 
-[Shop Training](bleh)
+You MUST complete the quiz before you complete in person shop training. 
+
+Be prepared to show proof of Quiz Completion to the shop supervisor to receive access to the shop.
+
 
 # Rules:
 
