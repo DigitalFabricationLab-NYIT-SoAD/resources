@@ -59,7 +59,7 @@ _We recommend all students to use the laser Cutting Template on the [Templates /
    * Use the How to _Purchase Material from the Lab_ guide on the [Appointments and File Submissions](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/) page
  
 
-***Sign up for a Laser Cutting Appointment / Training [Here](https://outlook.office365.com/owa/calendar/booking-LaserCuttingNYITManhattan@nyinstituteoftechnology.onmicrosoft.com/bookings/)***
+***Sign up for a Laser Cutting Appointment / Training on [EZBook](https://new.ezbook.com/NYIT)***
 
 ## Laser Cutting Helpful Resources
 
