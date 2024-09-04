@@ -60,6 +60,12 @@ Students are required to be finished cutting and cleaning up by the end of their
 ***Sign up for a Laser Cutting Appointment / Training [Here](https://outlook.office365.com/owa/calendar/booking-LaserCuttingNYITManhattan@nyinstituteoftechnology.onmicrosoft.com/bookings/)***
 
 ## Laser Cutting Helpful Resources
+
+Servicing the lasers:
+
+Replacing lenses:
+
+
 * [Templates Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/)
   
 [Take Me Back Home](https://digitalfabricationlab-nyit-soad.github.io/resources/) - [3D Printing](https://digitalfabricationlab-nyit-soad.github.io/resources/3Dprinters/) - [CNC Machining](https://digitalfabricationlab-nyit-soad.github.io/resources/CNCmills/) - [Wood Shop](https://digitalfabricationlab-nyit-soad.github.io/resources/ShopTools/)  
