@@ -5,7 +5,7 @@
 Laser Cutting:
 
 1. [Laser Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/Edrnl2BDK2pDirg6ch4AA4wB0ho-PgOg6iqs-CfuwpBaPw?&download=1)
-2. [EZ Book](https://new.ezbook.com/NYIT)
+2. Laser Cutting Simulation (coming soon!)
    
 3D Printing:
 
@@ -15,11 +15,14 @@ Laser Cutting:
 
 ## Tutorials:
 
-1. [Appointments and File Submission](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
+Laser Cutting:
 
+1. How to sign-up for [Appointments and File Submission](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
+
+3D 
 2. [3D Modeling for 3D printing](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/ModelingGuide/)
 
-3. [Slicing a model in Cura](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/Tutorials&Templates/3Dprinters/CuraSlicer)
+3. [Slicing in Cura](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/Tutorials&Templates/3Dprinters/CuraSlicer)
 
 4. Video Playlist coming soon...
    
