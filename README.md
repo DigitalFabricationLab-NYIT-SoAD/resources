@@ -16,7 +16,7 @@ _If you have any questions, feel free to come see us in the lab during open hour
   
 5. The lab is a shared space - put your name/date/contact info on all materials and tools do not leave the shop 
   
-***Students must complete the Lab Orientation before using any machines/tools***
+***Reminder: Students must complete the Lab Orientation before using any machines/tools***
 
 ## Fab Lab Machine Pages
 
