@@ -1,4 +1,8 @@
 # Welcome to the NYIT SoAD Fabrication Lab Resource Page!
+
+_Use this page to access any and all resources for the SoAD Fabrication Lab._
+
+_If you have any questions, feel free to come see us in the lab during open hours._
   
 ## Lab Rules 
   
@@ -18,9 +22,9 @@
 
 [Laser Cutting](LaserCutters/README.md)
 
-[CNC Machining](CNCmills/README.md)
-
 [3D Printing](3Dprinters/README.md)
+
+[CNC Machining](CNCmills/README.md)
 
 [Wood Shop](ShopTools/README.md)
 
@@ -30,9 +34,11 @@
 
 ## Hours 
 
-Manhattan 10am-5pm M-F 
+**Manhattan** - 
+Monday: 10am-5pm, Tuesday: 10am-5pm, Wednesday: 10am-5pm, Thursday: 10am-5pm, Friday: 10am-5pm
 
-Old Westbury 10am-7pm M-F 
+**Old Westbury** - 
+Monday: 10am-7pm, Tuesday: 10am-7pm, Wednesday: 10am-7pm, Thursday: 10am-5pm, Friday: 10am-7pm
 
 ## Quick Links For Students
 
