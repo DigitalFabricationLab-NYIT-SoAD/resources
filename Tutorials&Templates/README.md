@@ -5,6 +5,7 @@
 Laser Cutting:
 
 1. [Laser Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/Edrnl2BDK2pDirg6ch4AA4wB0ho-PgOg6iqs-CfuwpBaPw?&download=1)
+2. [EZ Book](https://new.ezbook.com/NYIT)
    
 3D Printing:
 
