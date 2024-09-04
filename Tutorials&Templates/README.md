@@ -15,7 +15,10 @@ Laser Cutting:
 ## Tutorials:
 
 1. [Appointments and File Submission](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
+
 2. [3D Modeling for 3D printing](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/ModelingGuide/)
+
 3. [Slicing a model in Cura](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/Tutorials&Templates/3Dprinters/CuraSlicer)
+
 4. Video Playlist coming soon...
    
