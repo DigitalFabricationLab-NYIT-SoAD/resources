@@ -21,13 +21,15 @@ Reminders:
 ### Laser Cutting Appointments 
 Students are required to be finished cutting and cleaning up by the end of their appointment time. The more a student prepares before their appointment, the more time can be spent laser cutting during their appointment. 
 
+_All appointment guidelines are on the [Appointments and File Submissions](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/) page_
+
 _We recommend all students to use the laser Cutting Template on the [Templates / Tutorials Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/) when prepping for laser appointments._
 
 **Appointment Sign-Ups**
 
-* Booking a Laser Cutting Appointment books a laser cutter for 25 minutes
+* Appointments are 25 minutes long
   
-* Appointments open 7 days beforehand
+* Sign-ups open 7 days beforehand
   
 * Students can book up to 3 laser appointments per week  
   * Students signing up for more than 3 laser appointments at once will have all extra appointments cancelled
