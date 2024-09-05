@@ -23,7 +23,7 @@
 
 ### CNC Machining
 
-1. [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md)
+1. CNC User Guide
 
 2. Techno CNC Template
 
