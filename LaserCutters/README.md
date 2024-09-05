@@ -68,5 +68,7 @@ _We recommend all students to use the Laser Cutting Template on the [Templates /
 ## Laser Cutting Helpful Resources
 
 * [Templates / Tutorials Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/)
+
+___
   
 [Take Me Back Home](https://digitalfabricationlab-nyit-soad.github.io/resources/) - [3D Printing](https://digitalfabricationlab-nyit-soad.github.io/resources/3Dprinters/) - [CNC Machining](https://digitalfabricationlab-nyit-soad.github.io/resources/CNCmills/) - [Wood Shop](https://digitalfabricationlab-nyit-soad.github.io/resources/ShopTools/)  
