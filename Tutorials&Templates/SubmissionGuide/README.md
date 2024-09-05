@@ -8,7 +8,9 @@ Welcome to the School of Architecture and Design Fabrication Lab Appointments an
 ## Signing up for a Laser Cutting Appointment
 
 **Before Signing up for a Laser Cutting Appointment**
-* Students must complete the online [SoAD Fab Lab Orientation](https://forms.office.com/Pages/ResponsePage.aspx?id=cxNWGqGj7UunwoFBBJGiFNb937yciTdPowD-pQyEMWRUOTBEODNTN0EwT1AyMldQU0pVOTNJQVBLUS4u&origin=Invitation&channel=0) before using the lab space
+* Students must complete the SoAD Fab Lab Orientation before using the lab space for the first time. This can be done online on Canvas or in-person on a walk-in basis
+   * Students without a Lab Sticker must also receive in-person shop training
+     
 *  Review the the lab's [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) page before making an appointment
 
 **How to Sign up for an Appointment**
@@ -47,8 +49,10 @@ Welcome to the School of Architecture and Design Fabrication Lab Appointments an
 ## Submitting a 3D Print File
 
 **Before Submitting a 3D Print File**
-* Students must complete the online [SoAD Fab Lab Orientation](https://forms.office.com/Pages/ResponsePage.aspx?id=cxNWGqGj7UunwoFBBJGiFNb937yciTdPowD-pQyEMWRUOTBEODNTN0EwT1AyMldQU0pVOTNJQVBLUS4u&origin=Invitation&channel=0) before using the lab space
-* Students must complete account [registration](https://www.nyit.edu/architecture/fabrication_labs/account_registration) to access the Queue Job page
+* Students must complete the SoAD Fab Lab Orientation before using the lab space for the first time. This can be done online on Canvas or in-person on a walk-in basis
+   * Students without a Lab Sticker must also receive in-person shop training
+     
+* Students must complete [account registration](https://www.nyit.edu/architecture/fabrication_labs/account_registration) to access the Queue Job page
 * Review the lab's [3D Printing](https://digitalfabricationlab-nyit-soad.github.io/resources/3Dprinters/) page before submitting a file
   * *Reminder: The lab will print any file submitted to the 3D Printing Job Queue that follows the lab's 3D Printing Process and Standards. Any submitted files that do not comply with the rules of the process and standards page will be rejected.*
    
@@ -87,9 +91,12 @@ Welcome to the School of Architecture and Design Fabrication Lab Appointments an
 ## Signing up for a CNC CAM Appointment
 
 **Before Signing up for a CNC CAM Appointment**
-* Students must complete the online [SoAD Fab Lab Orientation](https://forms.office.com/Pages/ResponsePage.aspx?id=cxNWGqGj7UunwoFBBJGiFNb937yciTdPowD-pQyEMWRUOTBEODNTN0EwT1AyMldQU0pVOTNJQVBLUS4u&origin=Invitation&channel=0) before using the lab space
+* Students must complete the SoAD Fab Lab Orientation before using the lab space for the first time. This can be done online on Canvas or in-person on a walk-in basis
+   * Students without a Lab Sticker must also receive in-person shop training
+     
 * Students must review the [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md) before attending their first CAM appointment.
 * If you have never used a CNC router before, we recommend you come into the lab for a quick consultation. Bring your model pulled up on your laptop and we can talk about the best approach for what you are trying to make.
+  
 * Review the lab's [CNC Machining](https://digitalfabricationlab-nyit-soad.github.io/resources/CNCmills/) page before signing up for an appointment
 
 **How to Sign up for an Appointment**
