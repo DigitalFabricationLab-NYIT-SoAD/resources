@@ -1,11 +1,11 @@
 # Wood Shop
 
-**All SoAD Students may use the shop after they have attended an orientation and training.**
+**All SoAD Students may use the shop after they have completed the SoAD Fab Lab Orientation and training.**
 
 Reminders:
-* These can be scheduled by your professor in your first year  if you missed it, you can attend a make up session.
+* Wood Shop training can be scheduled by your professor in your first year. If you missed it, you can attend a make up session.
 
-* At the end of your orientation, you will receive a sticker which allows you to use the shop under supervision by shop staff. 
+* At the end of your training, you will receive a sticker which allows you to use the shop under supervision by shop staff. 
 
 * You are expected to follow the below rules at all times, even after your orientation or you become comfortable with the tools.
 
