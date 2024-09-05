@@ -14,8 +14,8 @@ Any students interested in CNC Machining must read and follow the standards belo
 
 
 ### Required Orientation / Training
-* Students must complete the SoAD Fab Lab Orientation before using the lab space for the first time. This can be done online online or in person on a walk-in basis.
-	* Students without a Lab Sticker must also receive shop training
+* Students must complete the SoAD Fab Lab Orientation before using the lab space for the first time. This can be done online on Canvas or in-person on a walk-in basis
+   * Students without a Lab Sticker must also receive in-person shop training 
    
 * Students must review the [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md) before attending their first CAM appointment.
     
