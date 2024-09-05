@@ -17,7 +17,7 @@ The lab will print any file submitted to the 3D Printing Job Queue that follows 
 
 ### Required Orientation / Training
 * Students must complete the SoAD Fab Lab Orientation before using the lab space for the first time. This can be done online online or in person on a walk-in basis.
-	* Students without a Lab Sticker must also receive lab training
+	* Students without a Lab Sticker must also receive shop training
 
 ### Timeline
 * Allow 3-5 days for your submission to be processed and printed; 5-7 days during busy periods.
