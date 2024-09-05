@@ -23,13 +23,15 @@
 
 ### CNC Machining
 
-1. Techno CNC Template
+1. [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md)
 
-2. Carvey Template
+2. Techno CNC Template
 
-3. [CNC Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
+3. Carvey Template
 
-_______________________________
+4. [CNC Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
+
+___
 
 _Video Playlist coming soon..._
    
