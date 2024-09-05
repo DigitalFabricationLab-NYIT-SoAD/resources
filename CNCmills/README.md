@@ -15,7 +15,8 @@ Any students interested in CNC Machining must read and follow the standards belo
 
 
 ### Required Orientation / Training
-* Students must complete the online [SoAD Fab Lab Orientation](https://forms.office.com/Pages/ResponsePage.aspx?id=cxNWGqGj7UunwoFBBJGiFNb937yciTdPowD-pQyEMWRUOTBEODNTN0EwT1AyMldQU0pVOTNJQVBLUS4u&origin=Invitation&channel=0) before using the lab space
+* Students must complete the SoAD Fab Lab Orientation before using the lab space for the first time. This can be done online online or in person on a walk-in basis.
+	* Students without a Lab Sticker must also receive shop training
    
 * Students must review the [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md) before attending their first CAM appointment.
     
@@ -88,7 +89,7 @@ Use the Vendor List (LINK) to see stock material sellers in the area
   
 * For safety reasons, at least one student must be present in the CNC room to monitor the cut the entire time a job is running.
 
-**Sign up for a CNC Cut Appointment [Here](https://outlook.office365.com/owa/calendar/booking-TechnoCNCCut@nyinstituteoftechnology.onmicrosoft.com/bookings/)**
+**Sign up for a CNC Cut Appointment [EZBook](https://outlook.office365.com/owa/calendar/booking-TechnoCNCCut@nyinstituteoftechnology.onmicrosoft.com/bookings/)**
 
 
 ## CNC Helpful Resources
