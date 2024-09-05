@@ -1,5 +1,4 @@
 
-
 # CNC Machining
 
 **Students can use the SoAD Fab Lab's *TechnoCNC Router (48" x 48")* and *Carvey CNC Router (12" x 8")* by attending a CAM Appointment followed by a CNC Cut Appointment.**
@@ -99,6 +98,7 @@ Use the Vendor List (LINK) to see stock material sellers in the area
 * CNC Template File
   
 * Materials Vendor List
-  
+
+  ___
 
 [Take Me Back Home](https://digitalfabricationlab-nyit-soad.github.io/resources/) - [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) - [3D Printing](https://digitalfabricationlab-nyit-soad.github.io/resources/3Dprinters/) - [Wood Shop](https://digitalfabricationlab-nyit-soad.github.io/resources/ShopTools/)  
