@@ -9,7 +9,7 @@ Reminders:
 
 * Laser Cutting is not available for First Year undergraduate students
 
-* Laser cutting cardboard is now *banned*
+* Laser Cutting cardboard is now *banned*
 
 
 ## SoAD Fab Lab Laser Cutting Process / Standards
