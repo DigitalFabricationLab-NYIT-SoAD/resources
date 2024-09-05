@@ -93,7 +93,7 @@ Submit your file to the 3D Printing Job Queue on the
 	Only available on the network on the Manhattan Campus 
 	[Link to printer 5](http://192.168.166.33/print_jobs)
 
-
+___
 
 
 [Take Me Back Home](https://digitalfabricationlab-nyit-soad.github.io/resources/) - [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) - [CNC Machining](https://digitalfabricationlab-nyit-soad.github.io/resources/CNCmills/) - [Wood Shop](https://digitalfabricationlab-nyit-soad.github.io/resources/ShopTools/)
