@@ -7,7 +7,9 @@
 Reminders:
 * Laser Cutting Training is required for _all students_ who plan on laser cutting during the Fall 2024 semester
 
-* Laser cutting cardboard is now *banned* in the SoAD Fab Lab
+* Laser Cutting is not available for First Year undergraduate students
+
+* Laser cutting cardboard is now *banned*
 
 
 ## SoAD Fab Lab Laser Cutting Process / Standards
