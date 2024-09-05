@@ -1,12 +1,13 @@
-# ShopTools Tool Guide
+# Wood Shop
 
-All SoAD Students may use the shop after they have attended an orientation.
+**All SoAD Students may use the shop after they have attended an orientation and training.**
 
-These can be scheduled by your professor in your first year  if you missed it, you can attend one of make up sessions.
+Reminders:
+* These can be scheduled by your professor in your first year  if you missed it, you can attend a make up session.
 
-At the end of your orientation, you will receive a sticker which allows you to use the shop under supervision by shop staff. 
+* At the end of your orientation, you will receive a sticker which allows you to use the shop under supervision by shop staff. 
 
-You are expected to follow the below rules at all times, even after your orientation or you become comfortable with the tools.
+* You are expected to follow the below rules at all times, even after your orientation or you become comfortable with the tools.
 
 ## Quiz
 
@@ -141,5 +142,6 @@ Other banned materials... or things
 	
 	If you haven't slept and aren't thinking clearly, etc. 
 
-[ShopTools User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/ShopTools.md)
+___
 
+[Take Me Back Home](https://digitalfabricationlab-nyit-soad.github.io/resources/) - [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) - [3D Printing](https://digitalfabricationlab-nyit-soad.github.io/resources/3Dprinters/) - [CNC Machining](https://digitalfabricationlab-nyit-soad.github.io/resources/CNCmills/)
