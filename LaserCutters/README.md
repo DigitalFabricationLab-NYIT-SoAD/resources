@@ -15,6 +15,7 @@ Reminders:
 
 ### Required Orientation / Training
 * Students must complete the SoAD Fab Lab Orientation before using the lab space for the first time. This can be done online online or in person on a walk-in basis
+   * Students without a Lab Sticker must also receive lab training   
    
 * Students must complete the Laser Cutting Training. This can be done in a _group training_ pre-organized by a faculty member or in an _individual training_ during a student's first appointment
 
