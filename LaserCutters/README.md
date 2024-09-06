@@ -37,9 +37,9 @@ Reminders:
   
 **Cancellations / No-Shows**
 
-* Students can cancel appointments up to 1 hour before scheduled laser cut time.
+* Students can cancel appointments up to 2 hours before scheduled laser cut time.
   
-* Appointments will be cancelled if student does not show up 10 minutes into their appointment time and the rest of the student's appointments for the week will be cancelled.
+* Appointments will be cancelled if student does not show up 10 minutes into their appointment time.
 
 **Materials**
 
