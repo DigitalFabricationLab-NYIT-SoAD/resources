@@ -16,25 +16,23 @@ Reminders:
 
 
 ### Required Orientation / Training
-* Students must complete the SoAD Fab Lab Orientation before using the lab space for the first time. This can be done online on Canvas or in-person on a walk-in basis
-   * Students without a Lab Sticker must also receive in-person shop training   
+* Students must complete the SoAD Fab Lab Canvas Orientation visting the lab space this semester.
+  
+* Students *without* a Lab Sticker must receive in-person shop training before gaining access to any NYIT SoAD Labs
    
 * Students must complete the Laser Cutting Training. This can be done in a _group training_ pre-organized by a faculty member or in an _individual training_ during a student's first appointment
 
 ### Laser Cutting Appointments
-Students are required to be finished cutting and cleaning up by the end of their appointment time. The more a student prepares before their appointment, the more time can be spent laser cutting during their appointment.
-
-_All appointment guidelines are on the [Appointments and File Submissions Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)_
-
-_We recommend all students to use the Laser Cutting Template on the [Templates / Tutorials Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/) when prepping for laser appointments._
 
 **Appointment Sign-Ups**
+
+* Students are required to be finished cutting and cleaning up by the end of their appointment time. The more a student prepares before their appointment, the more time can be spent laser cutting during their appointment.
 
 * Appointments are 25 minutes long
   
 * Sign-ups open 7 days beforehand
   
-* Students can book up to 3 laser appointments per week  
+* Students can book up to 3 laser appointments per week
 
 **Cancellations / No-Shows**
 
@@ -61,9 +59,12 @@ _We recommend all students to use the Laser Cutting Template on the [Templates /
    
 * If students are planning to purchase material from the lab, they must:
    * Use the How to _Purchase Material from the Lab_ guide on the [Appointments and File Submissions](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/) page
- 
 
-***Sign up for a Laser Cutting Appointment / Training on [EZBook](https://new.ezbook.com/NYIT)***
+**Appointment Bookings**
+
+_We recommend all students to use the Laser Cutting Template on the [Templates / Tutorials Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/) when prepping for laser appointments._
+
+_All appointment scheduling links are on the [Appointments and File Submissions Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)_
 
 ## Laser Cutting Helpful Resources
 
