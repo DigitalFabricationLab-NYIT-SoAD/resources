@@ -6,7 +6,7 @@ This page has the guidelines for the following:
 
 1. How to register your EZ Book Appointment for Laser Cutting Appointments
    
-2. How to Sign-up for an Appointment
+2. How to Sign-up for a Laser Cutting Appointment
    
 3. How to Purchase Material from the Lab for Laser Cutting
    
@@ -22,15 +22,20 @@ This page has the guidelines for the following:
 
  ![tempsnip](https://github.com/user-attachments/assets/a95634f1-71b4-4703-9047-c5b3157b8628)
 
-* EZ Book Page Link [EZBook](https://new.ezbook.com/NYIT)
+* [EZ Book Account Registration](https://new.ezbook.com/NYIT)
 
 
-## 2. How to Sign up for an Appointment
+## 2. How to Sign-up for a Laser Cutting Appointment
 
-* If a student is signing up for their first Laser Cutting Appointment, they will be required to dedicate 15-20 minutes of their appointment to training with a Student Worker
-  * The more prepared a student is for their first appointment, the quicker the training will be
-  * The lab recommends students to fully review the the [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) page *before* attending their first Laser Cutting Appointment
-    
+* The lab recommends students to fully review the the [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) page *before* attending their first Laser Cutting Appointment
+
+* Appointments are 25 minutes long
+  
+* Sign-ups open 7 days beforehand
+  
+* Students can book up to 2 laser appointments per week
+  
+* *Sign up for an appointment on [EZ Book](https://new.ezbook.com/NYIT)
 
 ## 3. How to Purchase Material from the Lab for Laser Cutting
 
