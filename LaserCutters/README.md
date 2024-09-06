@@ -5,11 +5,11 @@
 **The SoAD Fab Lab is *changing* Laser Cutting for students in Fall 2024. Students will now be able to laser cut by signing up for a laser cutting appointment.**
 
 Reminders:
-* Laser Cutting Training is required for _all students_ who plan on laser cutting during the Fall 2024 semester
+* Laser Cutting Training is required for _all students_ who plan on laser cutting during the Fall 2024 semester.
 
-* Laser Cutting appointments are available for students from Second Year Undergrad through the Master's Program
+* Laser Cutting appointments are available for students from Second Year Undergrad through the Master's Program.
 
-* Laser Cutting cardboard is now *banned*
+* Laser Cutting cardboard is now *banned*.
 
 
 ## SoAD Fab Lab Laser Cutting Process / Standards
@@ -18,27 +18,28 @@ Reminders:
 ### Required Orientation / Training
 * Students must complete the SoAD Fab Lab Canvas Orientation visting the lab space this semester.
   
-* Students *without* a Lab Sticker must receive in-person shop training before gaining access to any NYIT SoAD Labs
+* Students *without* a SoAD Lab Sticker must come into the lab to sign a waiver before gaining access to any NYIT SoAD Labs.
    
-* Students must complete the Laser Cutting Training. This can be done in a _group training_ pre-organized by a faculty member or in an _individual training_ during a student's first appointment
+* Students must complete the Laser Cutting Training. This can be done in a _group training_ pre-organized by a faculty member or in an _individual training_ during a student's first appointment.
 
 ### Laser Cutting Appointments
 
-**Appointment Sign-Ups**
+**General Information**
 
-* Students are required to be finished cutting and cleaning up by the end of their appointment time. The more a student prepares before their appointment, the more time can be spent laser cutting during their appointment.
-
-* Appointments are 25 minutes long
+* One appointment reserves one laser cutter for 25 minutes
   
-* Sign-ups open 7 days beforehand
+* If a student is signing up for their first Laser Cutting Appointment, they will be required to dedicate 15-20 minutes of their appointment to training with a Student Worker
+      
+* Students are responsible for preparing their Rhino file and material before their laser cutting appointment
+  * The more a student prepares before their appointment, the more time can be spent laser cutting during their appointment.
   
-* Students can book up to 3 laser appointments per week
-
+* Students are required to be finished cutting and cleaning up by the end of their appointment time. 
+  
 **Cancellations / No-Shows**
 
-* Students can cancel appointments up to 1 hour before scheduled laser cut time
+* Students can cancel appointments up to 1 hour before scheduled laser cut time.
   
-* Appointments will be cancelled if student does not show up 10 minutes into their appointment time and the rest of the student's appointments for the week will be cancelled
+* Appointments will be cancelled if student does not show up 10 minutes into their appointment time and the rest of the student's appointments for the week will be cancelled.
 
 **Materials**
 
