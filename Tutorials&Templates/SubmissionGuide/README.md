@@ -1,31 +1,29 @@
-# Appointments and File Submission
+# Appointments and File Submission Page
 
 Welcome to the School of Architecture and Design Fabrication Lab Appointments and File Submission page. This page has the guidelines for the following: 
+* *How to register your EZ Book Appointment for Laser Cutting Appointments*
 * *Signing up for Laser Cutting Appointments*
+* *How to Purchase Material from the Lab*
 * *Submitting 3D Print Files*
 * *Signing up for CNC CAM Appointments*
 
-## Signing up for a Laser Cutting Appointment
 
-**Before Signing up for a Laser Cutting Appointment**
-* Students must complete the SoAD Fab Lab Orientation before using the lab space for the first time. This can be done online on Canvas or in-person on a walk-in basis
-   * Students without a Lab Sticker must also receive in-person shop training
-     
-*  Review the the lab's [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) page before making an appointment
 
-**How to Sign up for an Appointment**
-* Students may sign up for a Laser Cutting Appointment here (LINK)
+## How to register your EZ Book Account for Laser Cutting**
+* First time sign-ups MUST click the Forgot Password link on the below link and reset your password:
+
+ ![tempsnip](https://github.com/user-attachments/assets/a95634f1-71b4-4703-9047-c5b3157b8628)
+
+* EZ Book Page Link [EZBook](https://new.ezbook.com/NYIT)
+
+
+## How to Sign up for an Appointment
 * If a student is signing up for their first Laser Cutting Appointment, they will be required to dedicate 15-20 minutes of their appointment to training with a Student Worker
   * The more prepared a student is for their first appointment, the quicker the training will be
   * The lab recommends students to fully review the the [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) page *before* attending their first Laser Cutting Appointment
+    
 
-**Laser Cutting Appointment Rules**
-* Booking an appointment reserves a laser cutter for 25 minutes
-* Appointments are available 7 days out
-* Students can book up to 3 appoinments per week
-* Students can cancel appointments up to 1 hour before scheduled laser cut time
-
-**How to Purchase Material from the Lab**
+## How to Purchase Material from the Lab
 * Students planning on buying material from the lab must submit a lasercutting job on the [Queue Job](https://www.nyit.edu/architecture/fabrication_labs/queue_job) page
 * Fill in the following information: 
   * Project Name
