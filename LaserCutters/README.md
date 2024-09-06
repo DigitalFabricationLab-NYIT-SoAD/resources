@@ -7,7 +7,7 @@
 Reminders:
 * Laser Cutting Training is required for _all students_ who plan on laser cutting during the Fall 2024 semester
 
-* Laser Cutting appointments are available for students from Second Year undergrad through the Master's Program
+* Laser Cutting appointments are available for students from Second Year Undergrad through the Master's Program
 
 * Laser Cutting cardboard is now *banned*
 
