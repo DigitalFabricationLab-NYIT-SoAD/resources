@@ -1,15 +1,23 @@
 # Appointments and File Submission Page
 
-Welcome to the School of Architecture and Design Fabrication Lab Appointments and File Submission page. This page has the guidelines for the following: 
-* *How to register your EZ Book Appointment for Laser Cutting Appointments*
-* *Signing up for Laser Cutting Appointments*
-* *How to Purchase Material from the Lab*
-* *Submitting 3D Print Files*
-* *Signing up for CNC CAM Appointments*
+Welcome to the School of Architecture and Design Fabrication Lab Appointments and File Submission page. 
+
+This page has the guidelines for the following: 
+
+1. How to register your EZ Book Appointment for Laser Cutting Appointments
+   
+2. Signing up for Laser Cutting Appointments
+   
+3. How to Purchase Material from the Lab for Laser Cutting
+   
+4. Submitting 3D Print Files
+   
+5. Signing up for CNC CAM Appointments
 
 
 
-## How to register your EZ Book Account for Laser Cutting**
+## How to register your EZ Book Account for Laser Cutting
+
 * First time sign-ups MUST click the Forgot Password link on the below link and reset your password:
 
  ![tempsnip](https://github.com/user-attachments/assets/a95634f1-71b4-4703-9047-c5b3157b8628)
@@ -18,12 +26,14 @@ Welcome to the School of Architecture and Design Fabrication Lab Appointments an
 
 
 ## How to Sign up for an Appointment
+
 * If a student is signing up for their first Laser Cutting Appointment, they will be required to dedicate 15-20 minutes of their appointment to training with a Student Worker
   * The more prepared a student is for their first appointment, the quicker the training will be
   * The lab recommends students to fully review the the [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) page *before* attending their first Laser Cutting Appointment
     
 
 ## How to Purchase Material from the Lab
+
 * Students planning on buying material from the lab must submit a lasercutting job on the [Queue Job](https://www.nyit.edu/architecture/fabrication_labs/queue_job) page
 * Fill in the following information: 
   * Project Name
@@ -46,16 +56,14 @@ Welcome to the School of Architecture and Design Fabrication Lab Appointments an
     
 ## Submitting a 3D Print File
 
-**Before Submitting a 3D Print File**
-* Students must complete the SoAD Fab Lab Orientation before using the lab space for the first time. This can be done online on Canvas or in-person on a walk-in basis
-   * Students without a Lab Sticker must also receive in-person shop training
-     
 * Students must complete [account registration](https://www.nyit.edu/architecture/fabrication_labs/account_registration) to access the Queue Job page
-* Review the lab's [3D Printing](https://digitalfabricationlab-nyit-soad.github.io/resources/3Dprinters/) page before submitting a file
-  * *Reminder: The lab will print any file submitted to the 3D Printing Job Queue that follows the lab's 3D Printing Process and Standards. Any submitted files that do not comply with the rules of the process and standards page will be rejected.*
-   
-**How to Submit a File**
 
+* Review the lab's [3D Printing](https://digitalfabricationlab-nyit-soad.github.io/resources/3Dprinters/) page before submitting a file
+  
+**Reminder: The lab will print any file submitted to the 3D Printing Job Queue that follows the lab's 3D Printing Process and Standards.**
+
+**Any submitted files that do not comply with the rules of the process and standards page will be rejected.**
+    
 * Open the [Queue Job](https://www.nyit.edu/architecture/fabrication_labs/queue_job) page and sign into your NYIT account
 * Fill in the following information: 
   * Project Name
