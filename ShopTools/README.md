@@ -1,21 +1,20 @@
 # Wood Shop
 
-**All SoAD Students may use the shop after they have completed the SoAD Fab Lab Orientation and training.**
+**All SoAD Students may use the shop after they have completed the SoAD Fab Lab Orientation and In-Person Shop Training.**
 
 Reminders:
-* Wood Shop training can be scheduled by your professor in your first year. If you missed it, you can attend a make up session.
 
-* At the end of your training, you will receive a sticker which allows you to use the shop under supervision by shop staff. 
 
 * You are expected to follow the below rules at all times, even after your orientation or you become comfortable with the tools.
 
-## Quiz
+## Require Orientation / Training
 
-All students have been assigned a quiz in your Canvas portal.
+* Students must complete the SoAD Fab Lab Canvas Orientation visting the lab space this semester.
+  
+* Students *without* a SoAD Lab Sticker must come into the lab to sign a waiver before gaining access to any NYIT SoAD Labs.
 
-You MUST complete the quiz before you complete in person shop training. 
-
-Be prepared to show proof of Quiz Completion to the shop supervisor to receive access to the shop.
+* Students must complete In-Person Wood Shop Training before using any shop tools / machinery
+	* Wood Shop training can be scheduled by your professor in your first year. If you missed it, you can attend a make up session.
 
 
 # Rules:
