@@ -6,17 +6,17 @@ This page has the guidelines for the following:
 
 1. How to register your EZ Book Appointment for Laser Cutting Appointments
    
-2. Signing up for Laser Cutting Appointments
+2. How to Sign-up for an Appointment
    
 3. How to Purchase Material from the Lab for Laser Cutting
    
-4. Submitting 3D Print Files
+4. How to Submit 3D Print Files
    
-5. Signing up for CNC CAM Appointments
+5. How to Sign-up for CNC CAM Appointments
 
 
 
-## How to register your EZ Book Account for Laser Cutting
+## 1. How to register your EZ Book Account for Laser Cutting
 
 * First time sign-ups MUST click the Forgot Password link on the below link and reset your password:
 
@@ -25,14 +25,14 @@ This page has the guidelines for the following:
 * EZ Book Page Link [EZBook](https://new.ezbook.com/NYIT)
 
 
-## How to Sign up for an Appointment
+## 2. How to Sign up for an Appointment
 
 * If a student is signing up for their first Laser Cutting Appointment, they will be required to dedicate 15-20 minutes of their appointment to training with a Student Worker
   * The more prepared a student is for their first appointment, the quicker the training will be
   * The lab recommends students to fully review the the [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) page *before* attending their first Laser Cutting Appointment
     
 
-## How to Purchase Material from the Lab
+## 3. How to Purchase Material from the Lab for Laser Cutting
 
 * Students planning on buying material from the lab must submit a lasercutting job on the [Queue Job](https://www.nyit.edu/architecture/fabrication_labs/queue_job) page
 * Fill in the following information: 
@@ -54,7 +54,7 @@ This page has the guidelines for the following:
   * This file is a place-holder for material purchase - it does not need to be the student's final laser cut file   
   * File name NYITusername_projectname_mmddyy
     
-## Submitting a 3D Print File
+## 4. How to Submit 3D Print Files
 
 * Students must complete [account registration](https://www.nyit.edu/architecture/fabrication_labs/account_registration) to access the Queue Job page
 
@@ -94,19 +94,15 @@ This page has the guidelines for the following:
 * Ready for Pick-Up
   * 3D Print is complete and is ready for pick-up on the provided shelf #.
 
-## Signing up for a CNC CAM Appointment
+## 5. How to Sign-up for CNC CAM Appointments
 
-**Before Signing up for a CNC CAM Appointment**
-* Students must complete the SoAD Fab Lab Orientation before using the lab space for the first time. This can be done online on Canvas or in-person on a walk-in basis
-   * Students without a Lab Sticker must also receive in-person shop training
-     
-* Students must review the [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md) before attending their first CAM appointment.
-* If you have never used a CNC router before, we recommend you come into the lab for a quick consultation. Bring your model pulled up on your laptop and we can talk about the best approach for what you are trying to make.
-  
+**Before Signing-up for a CNC CAM Appointment**
+
 * Review the lab's [CNC Machining](https://digitalfabricationlab-nyit-soad.github.io/resources/CNCmills/) page before signing up for an appointment
+  
+* Students may sign up for a CNC CAM Appointment in the lab
 
-**How to Sign up for an Appointment**
-* Students may sign up for a CNC CAM Appointment here (LINK)
+* Students must review the [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md) before attending their first CAM appointment.
 
 **CNC CAM Appointment Rules**
 * Students are responsible to bring a digital model to their CAM Appointment that complies with the following rules
