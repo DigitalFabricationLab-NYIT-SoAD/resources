@@ -73,7 +73,7 @@ If you are gluing up sheets of material to reach the desired stock thickness, *t
  
 Use the Vendor List (LINK) to see stock material sellers in the area
 
-***Sign up for a CAM Appointment [Here](https://outlook.office365.com/owa/calendar/booking-TechnoCNCCut@nyinstituteoftechnology.onmicrosoft.com/bookings/)***
+***Visit the Fab Lab on your campus to sign up for a CAM Appointment***
 
 
 ### Step 2: CNC Cut Appointments 
@@ -89,16 +89,16 @@ Use the Vendor List (LINK) to see stock material sellers in the area
   
 * For safety reasons, at least one student must be present in the CNC room to monitor the cut the entire time a job is running.
 
-**Sign up for a CNC Cut Appointment [EZBook](https://outlook.office365.com/owa/calendar/booking-TechnoCNCCut@nyinstituteoftechnology.onmicrosoft.com/bookings/)**
+***Cut Appointments will be scheduled during CAM Appointments***
 
 
 ## CNC Helpful Resources
 
 * [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md)
   
-* CNC Template File
+* CNC Template File (Coming soon!)
   
-* Materials Vendor List
+* Materials Vendor List (Coming soon!)
 
   ___
 
