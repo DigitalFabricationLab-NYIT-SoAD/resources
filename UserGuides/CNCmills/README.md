@@ -30,37 +30,37 @@ Choose what type of stock material you want your object to be made of
 
 Some materials that machine great are  
 
-Wood  
-
-Hardwood (NOT dimensional lumber, 2x4s, 4x4s, etc)  
-
-Plywood (this comes in various grades)   
-
-Plastics  
-
-Acrylic  
-
-Polycarbonate  
-
-Foam  
-
-Extruded polystyrene (aka purple or pink foam, often used as insulation panels)  
-
-HDU (High Density Urethane). Comes in 3 different densities  
-
-Low density – pink/salmon  
-
-Med density – beige  
-
-High density – pale green  
-
-For all other materials, check with the fablab first!!!  
-
-You may need to glue up layers of material to achieve the desired stock material thickness.  
+  Wood  
+  
+  Hardwood (NOT dimensional lumber, 2x4s, 4x4s, etc)  
+  
+  Plywood (this comes in various grades)   
+  
+  Plastics  
+  
+  Acrylic  
+  
+  Polycarbonate  
+  
+  Foam  
+  
+  Extruded polystyrene (aka purple or pink foam, often used as insulation panels)  
+  
+  HDU (High Density Urethane). Comes in 3 different densities  
+  
+  Low density – pink/salmon  
+  
+  Med density – beige  
+  
+  High density – pale green  
+  
+  For all other materials, check with the fablab first!!!  
+  
+  You may need to glue up layers of material to achieve the desired stock material thickness.  
 
 The type of glue and clamping method you should use depends on your material size and type. Work with the fablab to hone in on the best approach, but remember, the quality of the glue-up highly impacts the quality of the final output and ultimately falls within your responsibility  
 
-GLUE MUST BE DRY BEFORE THE STOCK GOES ON THE MILL   
+GLUE MUST BE DRY BEFORE THE STOCK GOES ON THE MILL. Typically, at least 24 hours are needed.
 
 File Setup... You will need...  
 
@@ -81,14 +81,14 @@ Finishing refers to the final, more delicate or detailed toolpaths/operations.
 ### Some common operations and their uses  
 
 2 ½ D  
-
-Profile – Outside tangent edge of bit cuts on the inside or outside of a closed curve, to the desired cut depth.  
-
-Pocket – Bit carves out the area inside a closed curve, to the desired cut depth  
-
-Drill – Bit makes a hole at a point or the center point of a circle, to the desired cut depth.  
-
-Engrave – Center of bit follows the Rhino-drawn line geometry in 3D space  
+  
+  Profile – Outside tangent edge of bit cuts on the inside or outside of a closed curve, to the desired cut depth.  
+  
+  Pocket – Bit carves out the area inside a closed curve, to the desired cut depth  
+  
+  Drill – Bit makes a hole at a point or the center point of a circle, to the desired cut depth.  
+  
+  Engrave – Center of bit follows the Rhino-drawn line geometry in 3D space  
 
 3D   
 
@@ -99,46 +99,46 @@ Horizontal Roughing – Generates a series of stepped pockets that carve out the
 
 Parallel Finishing – Generates parallel contours across the modeled 3D geometry in one direction, with tool stepover percentage defined to achieve desired finish quality  
 
-!(PFINISH)[CNCmills/finishing.gif]
+!(PFINISH)[/resources/CNCmills/finishing.gif]
 
 ### Some common tool types and their uses (each available in a range of lengths and diameters)  
 
-Endmill  
+  Endmill  
 
-Up Cut (UC) -- leaves a nice finish on the bottom edge of the material 
-
-Down Cut (DC) -- leaves a nice finish on the top edge of the material 
-
-Compression – leaves a nice finish on both the top and bottom edges of the material  
-
-Ballmill – typically used in 3D surface finishing passes  
-
-Drill – used for hole-making ONLY (cannot move laterally in material)  
-
-V-Bit – Used for carving/engrave detailing 
-
-Use these custom combinations of these tools and operations to achieve desired geometry/finish quality 
+  Up Cut (UC) -- leaves a nice finish on the bottom edge of the material 
+  
+  Down Cut (DC) -- leaves a nice finish on the top edge of the material 
+  
+  Compression – leaves a nice finish on both the top and bottom edges of the material  
+  
+  Ballmill – typically used in 3D surface finishing passes  
+  
+  Drill – used for hole-making ONLY (cannot move laterally in material)  
+  
+  V-Bit – Used for carving/engrave detailing 
+  
+  Use these custom combinations of these tools and operations to achieve desired geometry/finish quality 
 
 ## PART 3: MACHINING  
 
-Techno CNC – vacuum bed hold-down  
-
-Max Stock Dimensions: 48" x 48" x 4"  
-
-Post: WinCNC  
-
-Standard Toolset:  
-
-¼" ballmill  
-
-¼" compression endmill  
-
-3/8" DC endmill  
-
-¼" O flute (single flute) endmill  
-
-½" UC endmill  
-
-½" straight flute endmill  
-
-3/8" UC long endmill (3.5" flute length)  
+  Techno CNC – vacuum bed hold-down  
+  
+  Max Stock Dimensions: 48" x 48" x 4"  
+  
+  Post: WinCNC  
+  
+  Standard Toolset:  
+  
+  ¼" ballmill  
+  
+  ¼" compression endmill  
+  
+  3/8" DC endmill  
+  
+  ¼" O flute (single flute) endmill  
+  
+  ½" UC endmill  
+  
+  ½" straight flute endmill  
+  
+  3/8" UC long endmill (3.5" flute length)  
