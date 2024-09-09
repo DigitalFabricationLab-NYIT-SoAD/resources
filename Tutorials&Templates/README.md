@@ -6,7 +6,9 @@
 
 2. [Laser Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
-3. Laser Cutting Simulation (coming soon!)
+3. [Laser Cutting Simulation (NYC)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/r/personal/ewilli14_nyit_edu/Documents/OPENFORALL/Laser%20Cutting%20Simulation%20MA.ppsx?download=1)
+
+4. [Laser Cutting Simulation (OW)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/r/personal/ewilli14_nyit_edu/Documents/OPENFORALL/Laser%20Cutting%20Simulation%20OW.ppsx?download=1)
 
    
 ### 3D Printing:
@@ -25,9 +27,9 @@
 
 1. CNC User Guide
 
-2. Techno CNC Template
+2. [Techno CNC Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/r/personal/ewilli14_nyit_edu/Documents/OPENFORALL/Techno_CNC_TEMPLATE.3dm?download=1)
 
-3. Carvey Template
+3. [Carvey Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/r/personal/ewilli14_nyit_edu/Documents/OPENFORALL/Carvey_CNC_TEMPLATE.3dm?download=1)
 
 4. [CNC Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
