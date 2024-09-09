@@ -63,9 +63,9 @@ Reminders:
 
 **Appointment Bookings**
 
-_We recommend all students to use the Laser Cutting Template on the [Templates / Tutorials Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/) when prepping for laser appointments._
+* We recommend all students to use the Laser Cutting Template on the [Templates / Tutorials Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/) when prepping for laser appointments.
 
-_All appointment scheduling links are on the [Appointments and File Submissions Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)_
+* _All appointment scheduling links are on the [Appointments and File Submissions Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)_
 
 ## Laser Cutting Helpful Resources
 
