@@ -8,7 +8,7 @@
 
 3. [Laser Cutting Simulation (NYC)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/r/personal/ewilli14_nyit_edu/Documents/OPENFORALL/Laser%20Cutting%20Simulation%20MA.ppsx?download=1)
 
-4. [Laser Cutting Simulation (OW)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/r/personal/ewilli14_nyit_edu/Documents/OPENFORALL/Laser%20Cutting%20Simulation%20OW.ppsx?download=1)
+4. [Laser Cutting Simulation (OW)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/EWVpWGshp01PsMZGDyc8gaQBK8thXYI_1R-DZo8-2cqTNw?download=1)
 
    
 ### 3D Printing:
