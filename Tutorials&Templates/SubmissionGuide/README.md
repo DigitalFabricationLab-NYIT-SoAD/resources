@@ -42,7 +42,7 @@ This page has the guidelines for the following:
   
 * Students can book up to 2 laser appointments per week
   
-* *Sign up for an appointment on [EZ Book](https://new.ezbook.com/NYIT)
+* Sign up for an appointment on [EZ Book](https://new.ezbook.com/NYIT)
 
 ## 3. How to Purchase Material from the Lab for Laser Cutting
 
