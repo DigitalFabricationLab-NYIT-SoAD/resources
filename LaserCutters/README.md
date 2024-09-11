@@ -30,7 +30,7 @@ Reminders:
   
 * If a student is signing up for their first Laser Cutting Appointment, they will be required to dedicate 15-20 minutes of their appointment to training with a Student Worker
       
-* Students are responsible for preparing their Rhino file and material before their laser cutting appointment
+* Students are responsible for bringing their prepped Rhino file on a USB and material cut-to-size to their laser cutting appointment.
   * The more a student prepares before their appointment, the more time can be spent laser cutting during their appointment.
   
 * Students are required to be finished cutting and cleaning up by the end of their appointment time. 
