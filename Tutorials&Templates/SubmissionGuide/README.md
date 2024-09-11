@@ -18,9 +18,16 @@ This page has the guidelines for the following:
 
 ## 1. How to register your EZ Book Account for Laser Cutting
 
-* First time sign-ups MUST click the Forgot Password link on the below link and reset your password:
+* All students have EZ Book accounts: **Logon Name = NYIT email**
+  
+* First time sign-ups MUST click the **Forgot Password** link on the below link and reset your password:
 
  ![tempsnip](https://github.com/user-attachments/assets/a95634f1-71b4-4703-9047-c5b3157b8628)
+
+* After reseting your password, login to EZ Book with **Site Name = NYIT**:
+   
+![Screenshot (27)](https://github.com/user-attachments/assets/972c1d46-26ba-4b8b-9534-fb29fe97705c)
+
 
 * [EZ Book Account Registration](https://new.ezbook.com/NYIT)
 
