@@ -38,7 +38,7 @@ _If you have any questions, feel free to come see us in the lab during open hour
 Monday: 10am-5pm, Tuesday: 10am-5pm, Wednesday: 10am-5pm, Thursday: 10am-5pm, Friday: 10am-5pm
 
 **Old Westbury** - 
-Monday: 10am-7pm, Tuesday: 10am-7pm, Wednesday: 10am-7pm, Thursday: 10am-5pm, Friday: 10am-7pm
+Monday: 10am-7pm, Tuesday: 10am-7pm, Wednesday: 10am-7pm, Thursday: 10am-5pm, Friday: 10am-6pm
 
 ## Quick Links For Students
 
