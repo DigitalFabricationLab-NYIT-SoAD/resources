@@ -40,4 +40,4 @@ Once your 3D model follows the requirements above, follow the next step to check
 
 ![Correct](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/174038140/59764372-49d2-448f-9db4-b016f28249e6)
 
-[Next Step: Cura Slicing Guide](/Tutorials&Templates/3Dprinters/CuraSlicer/README.md) 
+[Next Step: Cura Slicing Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/CuraSlicer/) 
