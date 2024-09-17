@@ -59,9 +59,9 @@ This page has the guidelines for the following:
 * Select the type of machine you need to use 
   * Laser Cutter – File upload / material purchase *only* (does not reserve a laser appointmet - appointments must be made here (LINK))
 * Select material (available while supplies last - students are limited to purchasing 6 sheets of material per appointment)
-  * 2-Ply Chipboard (size / price)
-  * 4-Ply Chipboard (size / price)
-  * Museum Board (size / price)
+  * 2-Ply Chipboard (32 x 20 x 1/16 in / $2.00)
+  * 4-Ply Chipboard (32 x 20 x 1/8 in / $4.00)
+  * Matboard (32 x 20 x 1/16 in / $5.00)
 * Upload your file
   * This file is a place-holder for material purchase - it does not need to be the student's final laser cut file   
   * File name NYITusername_projectname_mmddyy
