@@ -17,7 +17,7 @@
 
 2. [3D Modeling for 3D printing](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/ModelingGuide/)
 
-3. [Slicing in Cura](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/Tutorials&Templates/3Dprinters/CuraSlicer)
+3. [Slicing in Cura](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/CuraSlicer/)
 
 4. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EbouiW7vc0dHkELPlRN5e20BUlDckUIrzU68MyBVNr9OSw?download=1)
 
