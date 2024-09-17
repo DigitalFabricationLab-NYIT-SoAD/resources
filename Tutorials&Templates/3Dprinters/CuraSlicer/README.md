@@ -2,15 +2,15 @@
 
 The Goal of this is to let you investigate the time and results of your printing job before you come into the lab.
 
-1. Download the correct version of Ultimaker Cura listed below. We recommend uninstalling other versions so as not to cause any confusion.
+**1. Download the correct version of Ultimaker Cura listed below. We recommend uninstalling other versions so as not to cause any confusion.**
 
 	Current Version Lab is using: 5.7.2
 
-[Windows](https://github.com/Ultimaker/Cura/releases/download/5.7.2-RC2/UltiMaker-Cura-5.7.2-win64-X64.exe)
+	* [Windows](https://github.com/Ultimaker/Cura/releases/download/5.7.2-RC2/UltiMaker-Cura-5.7.2-win64-X64.exe)
 
-[Link to other downloads](https://github.com/Ultimaker/Cura/releases/tag/5.7.2-RC2)
+	* [Link to other downloads](https://github.com/Ultimaker/Cura/releases/tag/5.7.2-RC2)
 
-2. Import the Utlimaker S5/S7 Printer:
+**2. Import the Utlimaker S5/S7 Printer:**
 
 		Select the printer tab and click add printer:
 
@@ -36,23 +36,15 @@ The Goal of this is to let you investigate the time and results of your printing
 
 
 
-4. Import the most up to date settings profile provided by NYIT Fab Lab.
+**4. Import the most up to date settings profile provided by NYIT Fab Lab.**
 
-	Download Current file: [Cura Default Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EbouiW7vc0dHkELPlRN5e20BUlDckUIrzU68MyBVNr9OSw?download=1)
+	* Download Current file: [Cura Default Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EbouiW7vc0dHkELPlRN5e20BUlDckUIrzU68MyBVNr9OSw?download=1)
 
 		Import Setting and use it to "Slice" your model
 
 ![Screenshot 2024-06-28 101509](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/148252301/483872dc-6cb0-4b9d-baa6-792c84391278)
  	
-	
-Further Reading:
 
-[Overall Guides from ](https://support.makerbot.com/s/article/1667337576882)
-
-[Importing](https://support.makerbot.com/s/article/1667411286867)
-	
-	
-	
 	
 3. Bring your .STL File you exported from RHINOCEROS into Ultimaker Cura
 
@@ -61,7 +53,14 @@ Further Reading:
    
 	This should give a good estimate of how long/how much material your job will take!
 
- 	We change $0.07 per gram.
+ 	We charge $0.07 per gram.
+
+*Further Reading:*
+
+* [Overall Guides from Ultimaker](https://support.makerbot.com/s/article/1667337576882)
+
+* [Importing](https://support.makerbot.com/s/article/1667411286867)
+	
 
 
 	
