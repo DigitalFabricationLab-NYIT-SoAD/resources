@@ -47,7 +47,7 @@ Reminders:
    * Acrylic
    * Basswood
    * Chipboard
-   * Mat Board
+   * Matboard
    * Museum Board
    * Paper
 
