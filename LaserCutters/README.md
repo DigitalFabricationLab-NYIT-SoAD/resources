@@ -59,13 +59,13 @@ Reminders:
    * Be cut to the correct size
    
 * If students are planning to purchase material from the lab, they must:
-   * Use the How to _Purchase Material from the Lab_ guide on the [Appointments and File Submissions](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/) page
+   * Use the [_How to Purchase Material from the Lab Guide_](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
 **Appointment Bookings**
 
-* We recommend all students to use the Laser Cutting Template on the [Templates / Tutorials Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/) when prepping for laser appointments.
+* We recommend all students to use the [Laser Cutting Template](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/) when prepping for laser appointments.
 
-* _All appointment scheduling links are on the [Appointments and File Submissions Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)_
+* All appointment scheduling links are on the [Appointments and File Submissions Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
 ## Laser Cutting Helpful Resources
 
