@@ -46,10 +46,10 @@ The Goal of this is to let you investigate the time and results of your printing
  	
 
 	
-3. Bring your .STL File you exported from RHINOCEROS into Ultimaker Cura
+**5. Bring your .STL File you exported from RHINOCEROS into Ultimaker Cura**
 
 
-4. Click Slice!
+**6. Click Slice!**
    
 	This should give a good estimate of how long/how much material your job will take!
 
