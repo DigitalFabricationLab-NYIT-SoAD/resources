@@ -2,8 +2,7 @@
 
 **All SoAD Students may use the shop after they have completed the SoAD Fab Lab Orientation and In-Person Shop Training.**
 
-Reminders:
-
+Reminders: 
 
 * You are expected to follow the below rules at all times, even after your orientation or you become comfortable with the tools.
 
@@ -21,14 +20,15 @@ Reminders:
 
 **1. SAFETY**
 
-	Dress Code:
 
+* Dress Code:
+	
 	Closed toed shoes 
-
+	
 	No loose clothing, hair, (we have hair ties) jewelry 
-
+	
 	No headphones 
-
+	
 	Safety glasses must be worn 
 
 * Additional PPE (Personal Protective Equipment) will be required for job-specific tasks 
