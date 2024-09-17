@@ -4,7 +4,7 @@ The Goal of this is to let you investigate the time and results of your printing
 
 **1. Download the correct version of Ultimaker Cura listed below. We recommend uninstalling other versions so as not to cause any confusion.**
 
-	Current Version Lab is using: 5.7.2
+* Current Version Lab is using: 5.7.2
 
 	* [Windows](https://github.com/Ultimaker/Cura/releases/download/5.7.2-RC2/UltiMaker-Cura-5.7.2-win64-X64.exe)
 
