@@ -31,6 +31,6 @@ S:~
 S:~
 
 
-[Admin Login](web.nyit.edu/app/plot_shop/)
+[Admin Login](https://web.nyit.edu/app/plot_shop/)
 
 
