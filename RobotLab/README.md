@@ -1,30 +1,39 @@
-# Welcome to the NYIT SoAD Fab Lab Robotics Page:
+# NYiT School of Architecture and Design Robotics Labs:
   
-The Robotics Lab is a research lab, not a production shop, but can be visited during opening hours and faculty may inquire about ongoing projects or future classes to lab staff.
+We currently have two fully operational robotics labs on both campuses. Both labs cover interactive robotics and robotics fabrication. It is a research based facility. Please submit your robotics research proposal through the link below for evaluation and orientation schedules. 
 
 
-Open Hours:
+## Manhattan Robotics Fabrication Lab
 
-Manhattan EGGC 1010:
+M - W - Th - F  10am - 5pm
 
-M:~
-T:~
-W:~
-TH:~
-F:~
-S:~
-S:~
+- Kuka Agilus KR6 R900
+- Kuka LBR iisy 6 R1300
+- Interactive educational robots (big Max and Max Junior)
 
-Long Island Ed Hall:
+### Robotics Operations Availability
 
-M:~
-T:~
-W:~
-TH:~
-F:~
-S:~
-S:~
+- Hot Wire cutting 
+- Paste 3D printing 
+- Pick and place assembly operation  
 
+
+## Old Westbury Robotics Fabrication Lab
+
+M - T - Th - F  10am - 5pm
+
+- Kuka Agilus KR10 R100
+- Kuka LBR iiwa 14 R820
+
+### Robotics Operations Availability
+
+- Hot wire cutting 
+- Clay 3D printing 
+- Six axes milling 
+
+Independent new research is encouraged. Please submit your proposals in the link below:
+
+https://forms.gle/gGr9nKgvzgqeSPoS8
 
 Syntax Guide
 
