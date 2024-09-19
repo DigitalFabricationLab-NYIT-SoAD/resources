@@ -35,8 +35,3 @@ Independent new research is encouraged. Please submit your proposals in the link
 
 https://forms.gle/gGr9nKgvzgqeSPoS8
 
-Syntax Guide
-
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-
