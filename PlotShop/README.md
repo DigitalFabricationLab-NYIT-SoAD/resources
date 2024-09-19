@@ -2,7 +2,7 @@
   
 There have been some changes to how the plot shop is run and managed and we appreciate your patience. We are now have *open hours* where you can come in and run your print. 
 
-**Students must FIRST submit files to the queue, THEN visit the plot shop in-person during open hours to get their files printed.**
+**Students must FIRST submit files to the queue, THEN visit the plot shop/FabLab in-person during open hours to get their files printed.**
 
 Here is a link to the queue: [https://www.nyit.edu/its/plotting_service](https://www.nyit.edu/its/plotting_service)
 
@@ -16,13 +16,13 @@ Pricing:
     36" x 72" : $21.00
 
 
-Plot Shop hours are the same as the FabLab hours for each location.
+Plot Shop hours are the same as the FabLab hours for each location. *Check in with FabLab staff first to get access to the plot shop.*
 
 Manhattan EGGC 1010:
 
 * Monday-Friday: 10am - 5pm
 
-Long Island Ed Hall:
+Long Island Ed Hall: 
 
 * Monday-Wednesday: 10am - 7pm
 * Thursday: 10am - 5pm
