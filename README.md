@@ -32,6 +32,12 @@ _If you have any questions, feel free to come see us in the lab during open hour
 
 [Plot Shop](PlotShop/README.md)
 
+## Quick Links For Students
+
+[Tutorials & Templates](/Tutorials&Templates/README.md)
+
+[Account Registration](https://www.nyit.edu/architecture/fabrication_labs/view_queue)
+
 ## Hours 
 
 **Manhattan** - 
@@ -39,12 +45,6 @@ Monday: 10am-5pm, Tuesday: 10am-5pm, Wednesday: 10am-5pm, Thursday: 10am-5pm, Fr
 
 **Old Westbury** - 
 Monday: 10am-7pm, Tuesday: 10am-7pm, Wednesday: 10am-7pm, Thursday: 10am-5pm, Friday: 10am-5pm
-
-## Quick Links For Students
-
-[Tutorials & Templates](/Tutorials&Templates/README.md)
-
-[Account Registration](https://www.nyit.edu/architecture/fabrication_labs/view_queue)
 
 ## About Us
 
