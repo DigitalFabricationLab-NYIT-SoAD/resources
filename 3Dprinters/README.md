@@ -20,24 +20,6 @@ The lab will print any file submitted to the 3D Printing Job Queue that follows 
   
 * Students *without* a SoAD Lab Sticker must come into the lab to sign a waiver before gaining access to any NYIT SoAD Labs.
 
-### Timeline
-* Allow 3-5 days for your submission to be processed and printed; 5-7 days during busy periods.
-  
-* Students will be notified when their 3D print is finished and ready for pick-up.
-
-### Payment
-
-* Students will be charged $0.07 per gram of the 3D print before the print is started.
-  * 3D prints will not be started on a printer until payment is made.
- 
-### Print Failures
-
-3D printing is a fail-prone process. Prints fail regularly due to *machine* and *design* error. 
-
-* 3D prints that fail due to *machine errors* will be reprinted with no charge to the student.
-  
-* 3D prints that fail due to *design errors* will not be reprinted and the student will not be refunded for the material used. Students who want to reprint failed files must make necessary edits to the 3D model and resubmit to the Job Queue.
-
   
  ### 3D Model Requirements
 
@@ -46,6 +28,8 @@ The lab will print any file submitted to the 3D Printing Job Queue that follows 
 * Closed polysurface / mesh
   
 * Not non-manifold
+
+* Flat bottom objects aligned / oriented to the CPlane 
   
 * Larger than 1 mm (1/16 in)
   
@@ -80,6 +64,27 @@ Use this  [Cura Slicing Guide](https://digitalfabricationlab-nyit-soad.github.io
 
 Submit your file to the 3D Printing Job Queue on the 
 ([Appointments and Job Submissions](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)) page
+
+
+### Timeline
+* Allow 3-5 days for your submission to be processed and printed; 5-7 days during busy periods.
+  
+* Students will be notified when their 3D print is finished and ready for pick-up.
+
+
+### Payment
+
+* Students will be charged $0.07 per gram of the 3D print before the print is started.
+  * 3D prints will not be started on a printer until payment is made.
+
+ 
+### Print Failures
+
+3D printing is a fail-prone process. Prints fail regularly due to *machine* and *design* error. 
+
+* 3D prints that fail due to *machine errors* will be reprinted with no charge to the student.
+  
+* 3D prints that fail due to *design errors* will not be reprinted and the student will not be refunded for the material used. Students who want to reprint failed files must make necessary edits to the 3D model and resubmit to the Job Queue.
 
 
 ## 3D Printing Helpful Resources
