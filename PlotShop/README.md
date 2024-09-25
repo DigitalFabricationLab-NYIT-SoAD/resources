@@ -18,15 +18,7 @@ Pricing:
 
 Plot Shop hours are the same as the FabLab hours for each location. *Check in with FabLab staff first to get access to the plot shop.*
 
-Manhattan EGGC 1010:
 
-* Monday-Friday: 10am - 5pm
-
-Long Island Ed Hall: 
-
-* Monday-Wednesday: 10am - 7pm
-* Thursday: 10am - 5pm
-* Friday: 10am - 6pm
 
 
 
