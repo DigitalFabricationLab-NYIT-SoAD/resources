@@ -1,4 +1,4 @@
-# NYiT School of Architecture and Design Robotics Labs:
+# NYIT School of Architecture and Design Robotics Labs:
   
 We currently have two fully operational robotics labs on both campuses. Both labs cover interactive robotics and robotics fabrication. It is a research based facility. Please submit your robotics research proposal through the link below for evaluation and orientation schedules. 
 
