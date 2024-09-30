@@ -89,7 +89,7 @@ Come into the lab to ask about our recommended material vendors in the area
   
 * For safety reasons, at least one student must be present in the CNC room to monitor the cut the entire time a job is running.
 
-***Cut Appointments will be scheduled during CAM Appointments***
+***Cut Appointments will be scheduled with Fab Lab Staff during CAM Appointments***
 
 
 ## CNC Helpful Resources
