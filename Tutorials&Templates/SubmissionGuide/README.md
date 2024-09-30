@@ -114,7 +114,7 @@ This page has the guidelines for the following:
   
 * Students may sign up for a CNC CAM Appointment in the lab
 
-* Students must review the [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md) before attending their first CAM appointment.
+* Students must review the [CNC User Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/UserGuides/CNCmills) before attending their first CAM appointment.
 
 **CNC CAM Appointment Rules**
 * Students are responsible to bring a digital model to their CAM Appointment that complies with the following rules
