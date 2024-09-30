@@ -1,4 +1,4 @@
-# CNCMills
+# CNC User Guide
 
 INTENDED USE: Complex 2D and 3D geometry 
 
@@ -16,13 +16,13 @@ TYPICAL ACTUAL RUN TIME ON MACHINE: 1 – 3 hours
 
 ## Intro  
 
-Computer Numerical Control (CNC) Machining is a manufacturing process in which pre-programmed computer software dictates the movement of factory tools and machinery. The process can be used to control a range of complex machinery, from grinders and lathes to mills and routers.  
+* Computer Numerical Control (CNC) Machining is a manufacturing process in which pre-programmed computer software dictates the movement of factory tools and machinery. The process can be used to control a range of complex machinery, from grinders and lathes to mills and routers.  
 
-CNC Machines and 3D printers read Geometric Code (G-code) in order to perform operations. The instructions provided by G-codes tell the machine tool how to move in the (X, Y, Z) cartesian coordinate system.   
+* CNC Machines and 3D printers read Geometric Code (G-code) in order to perform operations. The instructions provided by G-codes tell the machine tool how to move in the (X, Y, Z) cartesian coordinate system.   
 
-G-code is written in Computer Aided Manufacturing (CAM) software. In our case, this software is RhinoCAM and is a plug-in to Rhino. 
+* G-code is written in Computer Aided Manufacturing (CAM) software. In our case, this software is RhinoCAM and is a plug-in to Rhino. 
 
-CNC Machining is process of subtractive manufacturing, where a tool carves into a stock material to leave behind the desired object.  
+* CNC Machining is process of subtractive manufacturing, where a tool carves into a stock material to leave behind the desired object.  
 
 
 ## PART 1: PRE-FABRICATION (finalization of design decisions for manufacturing)  
