@@ -95,12 +95,12 @@ Finishing refers to the final, more delicate or detailed toolpaths/operations.
 
 * Horizontal Roughing – Generates a series of stepped pockets that carve out the negative space around the modeled 3D geometry 
 
-!(HROUGH)[CNCmills/HorizontalRoughing.gif]
+![HorizontalRoughing](https://github.com/user-attachments/assets/be660e56-f7ac-4ad9-8f52-5234ecd17e17)
 
 
 * Parallel Finishing – Generates parallel contours across the modeled 3D geometry in one direction, with tool stepover percentage defined to achieve desired finish quality  
 
-!(PFINISH)[/resources/CNCmills/finishing.gif]
+![finishing](https://github.com/user-attachments/assets/5d14bd53-4790-4f56-a5e1-8c01389dd93e)
 
 ### Some common tool types and their uses (each available in a range of lengths and diameters)  
 
