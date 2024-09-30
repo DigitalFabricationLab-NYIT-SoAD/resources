@@ -47,7 +47,7 @@ It is the responsibility of the student to bring a digital model to their CAM Ap
 
 *Any geometry that is not ready for CAM programming will be rejected and the student will have to reschedule the appointment before they are able to cut.* 
 
-Use the CNC Template File to set up your 3D Model
+Use the CNC Template File on the [Templates and Tutorials](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/) page to set up your 3D Model
 
 
 ***Approved Materials***
@@ -71,12 +71,12 @@ Students are responsible for providing their own stock material for cutting. Wor
 
 If you are gluing up sheets of material to reach the desired stock thickness, *the glue must be completely dry before your Cut Appointment.* We recommend following these stock glue-up guidelines/tips. 
  
-Use the Vendor List (LINK) to see stock material sellers in the area
+Come into the lab to ask about our recommended material vendors in the area
 
 ***Book a CAM Appointment via EZBook or visit the Fab Lab on your campus to review your CNC file with a staff member***
 
 
-### Step 2: CNC Cut Appointments 
+### Step 2: CNC Cut Appointments
 
 *Students will schedule their Machining Appointment at the end of their CAM Setup Appointment with the CNC Technician. File cut time will be determined during the CAM Appointment. Cut times can take anywhere from 10 minutes (Carvey) to 3+ hours (Techno).*
 
@@ -96,9 +96,7 @@ Use the Vendor List (LINK) to see stock material sellers in the area
 
 * [CNC User Guide](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/UserGuides/CNCmills.md)
   
-* CNC Template File (Coming soon!)
-  
-* Materials Vendor List (Coming soon!)
+* [Templates and Tutorials](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/)
 
   ___
 
