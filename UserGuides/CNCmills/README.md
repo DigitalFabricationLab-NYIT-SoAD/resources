@@ -24,51 +24,52 @@ G-code is written in Computer Aided Manufacturing (CAM) software. In our case, t
 
 CNC Machining is process of subtractive manufacturing, where a tool carves into a stock material to leave behind the desired object.  
 
+
 ## PART 1: PRE-FABRICATION (finalization of design decisions for manufacturing)  
 
-Choose what type of stock material you want your object to be made of 
+### Choose what type of stock material you want your object to be made of
 
-Some materials that machine great are  
+Some materials that machine great are: 
 
-  Wood  
+* Wood  
   
-  Hardwood (NOT dimensional lumber, 2x4s, 4x4s, etc)  
+* Hardwood (NOT dimensional lumber, 2x4s, 4x4s, etc)  
   
-  Plywood (this comes in various grades)   
+* Plywood (this comes in various grades)   
   
-  Plastics  
+* Plastics  
   
-  Acrylic  
+* Acrylic  
   
-  Polycarbonate  
+* Polycarbonate  
   
-  Foam  
+* Foam  
   
-  Extruded polystyrene (aka purple or pink foam, often used as insulation panels)  
+* Extruded polystyrene (aka purple or pink foam, often used as insulation panels)  
   
-  HDU (High Density Urethane). Comes in 3 different densities  
+* HDU (High Density Urethane). Comes in 3 different densities  
   
-  Low density – pink/salmon  
+* Low density – pink/salmon  
   
-  Med density – beige  
+* Med density – beige  
   
-  High density – pale green  
+* High density – pale green  
   
-  For all other materials, check with the fablab first!!!  
+* For all other materials, check with the fablab first!!!  
   
-  You may need to glue up layers of material to achieve the desired stock material thickness.  
+### You may need to glue up layers of material to achieve the desired stock material thickness.
 
 The type of glue and clamping method you should use depends on your material size and type. Work with the fablab to hone in on the best approach, but remember, the quality of the glue-up highly impacts the quality of the final output and ultimately falls within your responsibility  
 
 GLUE MUST BE DRY BEFORE THE STOCK GOES ON THE MILL. Typically, at least 24 hours are needed.
 
-File Setup... You will need...  
+### File Setup... You will need...
 
-Rhino 7 file  
+* Rhino 7 file  
 
-Contains only the geometry that you wish to cut on the CNC, modeled at full scale, "full scale" here meaning the actual size you want the object to be when it comes off the mill.  
+* Contains only the geometry that you wish to cut on the CNC, modeled at full scale, "full scale" here meaning the actual size you want the object to be when it comes off the mill.  
 
-150 KB maximum file size. Smaller file sizes will be much easier to manage in RhinoCAM. RhinoCAM has to do a lot of processing to generate and regenerate toolpaths, so smaller files will be easier to maneuver, make toolpath changes to/iterate upon, etc.   
+* 150 KB maximum file size. Smaller file sizes will be much easier to manage in RhinoCAM. RhinoCAM has to do a lot of processing to generate and regenerate toolpaths, so smaller files will be easier to maneuver, make toolpath changes to/iterate upon, etc.   
 
 ## PART 2: FILE SETUP / CAM  
 
@@ -80,65 +81,65 @@ Finishing refers to the final, more delicate or detailed toolpaths/operations.
 
 ### Some common operations and their uses  
 
-2 ½ D  
+**2 ½ D** 
   
-  Profile – Outside tangent edge of bit cuts on the inside or outside of a closed curve, to the desired cut depth.  
+* Profile – Outside tangent edge of bit cuts on the inside or outside of a closed curve, to the desired cut depth.  
   
-  Pocket – Bit carves out the area inside a closed curve, to the desired cut depth  
+* Pocket – Bit carves out the area inside a closed curve, to the desired cut depth  
   
-  Drill – Bit makes a hole at a point or the center point of a circle, to the desired cut depth.  
+* Drill – Bit makes a hole at a point or the center point of a circle, to the desired cut depth.  
   
-  Engrave – Center of bit follows the Rhino-drawn line geometry in 3D space  
+* Engrave – Center of bit follows the Rhino-drawn line geometry in 3D space  
 
-3D   
+**3D**   
 
-Horizontal Roughing – Generates a series of stepped pockets that carve out the negative space around the modeled 3D geometry 
+* Horizontal Roughing – Generates a series of stepped pockets that carve out the negative space around the modeled 3D geometry 
 
 !(HROUGH)[CNCmills/HorizontalRoughing.gif]
 
 
-Parallel Finishing – Generates parallel contours across the modeled 3D geometry in one direction, with tool stepover percentage defined to achieve desired finish quality  
+* Parallel Finishing – Generates parallel contours across the modeled 3D geometry in one direction, with tool stepover percentage defined to achieve desired finish quality  
 
 !(PFINISH)[/resources/CNCmills/finishing.gif]
 
 ### Some common tool types and their uses (each available in a range of lengths and diameters)  
 
-  Endmill  
+* Endmill 
 
-  Up Cut (UC) -- leaves a nice finish on the bottom edge of the material 
+  * Up Cut (UC) -- leaves a nice finish on the bottom edge of the material 
   
-  Down Cut (DC) -- leaves a nice finish on the top edge of the material 
+  * Down Cut (DC) -- leaves a nice finish on the top edge of the material 
   
-  Compression – leaves a nice finish on both the top and bottom edges of the material  
+* Compression – leaves a nice finish on both the top and bottom edges of the material  
   
-  Ballmill – typically used in 3D surface finishing passes  
+* Ballmill – typically used in 3D surface finishing passes
   
-  Drill – used for hole-making ONLY (cannot move laterally in material)  
+* Drill – used for hole-making ONLY (cannot move laterally in material)  
   
-  V-Bit – Used for carving/engrave detailing 
+* V-Bit – Used for carving/engrave detailing 
   
-  Use these custom combinations of these tools and operations to achieve desired geometry/finish quality 
+*Use these custom combinations of these tools and operations to achieve desired geometry/finish quality*
 
 ## PART 3: MACHINING  
 
-  Techno CNC – vacuum bed hold-down  
+**Techno CNC – vacuum bed hold-down**
   
-  Max Stock Dimensions: 48" x 48" x 4"  
+* Max Stock Dimensions: 48" x 48" x 4"  
   
-  Post: WinCNC  
+* Post: WinCNC  
   
-  Standard Toolset:  
+* Standard Toolset:  
   
-  ¼" ballmill  
+  * ¼" ballmill  
   
-  ¼" compression endmill  
+  * ¼" compression endmill  
   
-  3/8" DC endmill  
+  * 3/8" DC endmill  
   
-  ¼" O flute (single flute) endmill  
+  * ¼" O flute (single flute) endmill  
   
-  ½" UC endmill  
+  * ½" UC endmill  
   
-  ½" straight flute endmill  
+  * ½" straight flute endmill  
   
-  3/8" UC long endmill (3.5" flute length)  
+  * 3/8" UC long endmill (3.5" flute length)  
