@@ -18,11 +18,6 @@ _If you have any questions, feel free to come see us in the lab during open hour
   
 ***Reminder: Students must complete the Lab Orientation before using any machines/tools***
 
-## Quick Links For Students
-
-[Tutorials & Templates](/Tutorials&Templates/README.md)
-
-[Account Registration](https://www.nyit.edu/architecture/fabrication_labs/view_queue)
 
 ## Fab Lab Machine Pages
 
@@ -37,6 +32,14 @@ _If you have any questions, feel free to come see us in the lab during open hour
 [Robot Lab](RobotLab/README.md)
 
 [Plot Shop](PlotShop/README.md)
+
+
+## Quick Links For Students
+
+[Tutorials & Templates](/Tutorials&Templates/README.md)
+
+[Account Registration](https://www.nyit.edu/architecture/fabrication_labs/view_queue)
+
 
 ## Hours 
 
