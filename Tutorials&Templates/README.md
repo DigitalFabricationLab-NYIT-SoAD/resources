@@ -2,13 +2,13 @@
 
 ### Laser Cutting:
 
-1. [Laser Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/Edrnl2BDK2pDirg6ch4AA4wB0ho-PgOg6iqs-CfuwpBaPw?&download=1)
+1. [Laser Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EQEFIA9WVxtDk00xBGfe5CoBLPXriTSwtbBhDi1xdzPO_w?download=1)
+   
+3. [Laser Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
-2. [Laser Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
+4. [Laser Cutting Simulation (NYC)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/EYjUk_cku9xApmUVwOmet8QBbQx3i4ZM_ObMpJs9Plumrg?download=1)
 
-3. [Laser Cutting Simulation (NYC)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/EYjUk_cku9xApmUVwOmet8QBbQx3i4ZM_ObMpJs9Plumrg?download=1)
-
-4. [Laser Cutting Simulation (OW)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/EWVpWGshp01PsMZGDyc8gaQBK8thXYI_1R-DZo8-2cqTNw?download=1)
+5. [Laser Cutting Simulation (OW)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/EWVpWGshp01PsMZGDyc8gaQBK8thXYI_1R-DZo8-2cqTNw?download=1)
 
    
 ### 3D Printing:
