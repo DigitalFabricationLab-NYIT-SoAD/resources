@@ -38,7 +38,9 @@ _If you have any questions, feel free to come see us in the lab during open hour
 
 [Tutorials & Templates](/Tutorials&Templates/README.md)
 
-[Account Registration](https://www.nyit.edu/architecture/fabrication_labs/view_queue)
+[Submit to the Queue (3D Printing, material purchasing)](https://www.nyit.edu/architecture/fabrication_labs/view_queue)
+
+[EZBook - appointment booking (Laser Cutting, CNC)](https://new.ezbook.com/NYIT)
 
 
 ## Hours 
