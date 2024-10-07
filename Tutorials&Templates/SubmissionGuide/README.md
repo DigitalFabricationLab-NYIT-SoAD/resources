@@ -57,14 +57,13 @@ This page has the guidelines for the following:
   * Manhattan
   * Old Westbury
 * Select the type of machine you need to use 
-  * Laser Cutter – File upload / material purchase *only* (does not reserve a laser appointmet - appointments must be made here (LINK))
+  * Laser Cutter – File upload / material purchase *only* (does not reserve a laser appointment - appointments must be made on [EZ Book](https://new.ezbook.com/NYIT))
 * Select material (available while supplies last - students are limited to purchasing 6 sheets of material per appointment)
   * 2-Ply Chipboard (32 x 20 x 1/16 in / $2.00)
-  * **[MA - SOLD OUT]** 4-Ply Chipboard (32 x 20 x 1/8 in / $4.00)
+  * 4-Ply Chipboard (32 x 20 x 1/8 in / $4.00) **[MA - SOLD OUT]**
   * 2-Ply White Matboard (32 x 20 x 1/16 in / $5.00)
 * Upload your file
   * This file is a place-holder for material purchase - it does not need to be the student's final laser cut file   
-  * File name NYITusername_projectname_mmddyy
     
 ## 4. How to Submit 3D Print Files
 
@@ -99,12 +98,10 @@ This page has the guidelines for the following:
   * 3D Print File cannot be printed. The file is either rejected or has failed on the printer. Reason for rejection / failure and helpful resources will be provided. Any resubmission will go back into the queue as submitted.
 * Waiting for Funds
   * Student has insufficient funds for 3D Print. Student must add funds for 3D Print to start. 
-* Paid
+* Charged
   * Student has been charged for 3D Print. Print will start as soon as a printer is available.
-* Processing
-  * 3D Print has started on a printer.
-* Ready for Pick-Up
-  * 3D Print is complete and is ready for pick-up on the provided shelf #.
+* Ready for Pick-Up / Shelf/Bin #
+  * 3D Print is complete and is ready for pick-up in the designated bin.
 
 ## 5. How to Sign-up for CNC CAM Appointments
 
@@ -112,7 +109,7 @@ This page has the guidelines for the following:
 
 * Review the lab's [CNC Machining](https://digitalfabricationlab-nyit-soad.github.io/resources/CNCmills/) page before signing up for an appointment
   
-* Students may sign up for a CNC CAM Appointment in the lab
+* Students may sign up for a CNC CAM Appointment on [EZ Book](https://new.ezbook.com/NYIT)
 
 * Students must review the [CNC User Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/UserGuides/CNCmills) before attending their first CAM appointment.
 
