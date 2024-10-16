@@ -14,6 +14,8 @@ This page has the guidelines for the following:
    
 5. How to Sign-up for CNC CAM Appointments
 
+***Reminder: Always cancel your appointments if you can no longer make it. All appointments can be cancelled by students on EZ Book.***
+
 
 
 ## 1. How to register your EZ Book Account for Laser Cutting
