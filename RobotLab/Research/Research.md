@@ -1,5 +1,8 @@
 # Slider Driven Auger
-This project uses a few distinct components to control a auger that can mounted on a robot.
+
+As the lab builds out it's Clay 3D printing work, it became necessary to prototpye a driver controll system.
+
+This project uses a few distinct components to control a auger that can be mounted on a robot.
 
 Basic Components:
 
@@ -7,7 +10,7 @@ Basic Components:
 2. Polulu Tic Microcontroller 36v4
 4. Two Sets of Jumper Wires
 5. Potentiometer Slider
-6. Power Supply
+6. Power Supply with Barrell Jack adapter
 
 ## Basic Set up
 This photo contains the visual of the above components:
@@ -21,9 +24,6 @@ These Photos show the somewhat primititve testing wiring harnesses:
 
 This is our wiring guide:
 
-![Computer [Converted] copy no pictures.pdf](https://github.com/user-attachments/files/17438926/Computer.Converted.copy.no.pictures.pdf)
 
 
-Here is our guide for wiring:
-
-
+[Computer [Converted] copy no pictures.pdf](https://github.com/user-attachments/files/17438995/Computer.Converted.copy.no.pictures.pdf)
