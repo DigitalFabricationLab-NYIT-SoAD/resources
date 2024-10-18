@@ -14,7 +14,8 @@ Basic Components:
 
 ## Basic Set up
 This photo contains the visual of the above components:
-![IMG_7890](https://github.com/user-attachments/assets/17634023-4734-433b-83d7-6704a24a77cb)
+![IMG_7890](https://github.com/user-attachments/assets/0d922300-8d95-4503-a5db-d737d3d558c2)
+
 
 These Photos show the somewhat primititve testing wiring harnesses:
 
