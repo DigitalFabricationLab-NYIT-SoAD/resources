@@ -59,7 +59,7 @@ This page has the guidelines for the following:
   * Manhattan
   * Old Westbury
 * Select the type of machine you need to use 
-  * Laser Cutter – File upload / material purchase *only* (does not reserve a laser appointment - appointments must be made on [EZ Book](https://new.ezbook.com/NYIT))
+  * Laser Cutter – Material purchase *only* (does not reserve a laser appointment - appointments must be made on [EZ Book](https://new.ezbook.com/NYIT))
 * Select material (available while supplies last - students are limited to purchasing 6 sheets of material per appointment)
   * 2-Ply Chipboard (32 x 20 x 1/16 in / $2.00)
   * 4-Ply Chipboard (32 x 20 x 1/8 in / $4.00) **[MA - SOLD OUT]**
