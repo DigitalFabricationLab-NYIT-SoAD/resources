@@ -87,6 +87,11 @@ Submit your file to the 3D Printing Job Queue on the
 * 3D prints that fail due to *design errors* will not be reprinted and the student will not be refunded for the material used. Students who want to reprint failed files must make necessary edits to the 3D model and resubmit to the Job Queue.
 
 
+## Resin Printing
+Students interested in using the lab's Resin Printers must bring their digital file to the lab to discuss with staff.
+* Resin printing costs $0.30 per milliliter of resin used
+
+
 ## 3D Printing Helpful Resources
 
 * [Templates / Tutorials Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/)
