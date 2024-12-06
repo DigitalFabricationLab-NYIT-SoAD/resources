@@ -63,7 +63,7 @@ ___
 
 [EZBook - appointment booking (Laser Cutting, CNC)](https://new.ezbook.com/NYIT)
 
-
+STAFF - [Queue login](https://web.nyit.edu/architecture/fabrication_labs_admin/) 
 ## Hours 
 
 **Manhattan** - 
