@@ -54,6 +54,8 @@ ___
 
 [Plot Shop](PlotShop/README.md)
 
+[Vacuum Forming](VacuumForming/README.md)
+
 
 ## Quick Links For Students
 
