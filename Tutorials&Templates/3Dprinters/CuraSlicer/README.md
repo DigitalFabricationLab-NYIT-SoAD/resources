@@ -38,7 +38,7 @@ The Goal of this is to let you investigate the time and results of your printing
 
 **4. Import the most up to date settings profile provided by NYIT Fab Lab.**
 
-* Download Current file: [Cura Default Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EbouiW7vc0dHkELPlRN5e20BUlDckUIrzU68MyBVNr9OSw?download=1)
+* Download Current file: [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/ERd5ClA_Zj1Co_Fy7yNHi0gBYCjXDu_CCiZCE5f1I3jx_w?download=1)
 
 		Import Setting and use it to "Slice" your model
 
