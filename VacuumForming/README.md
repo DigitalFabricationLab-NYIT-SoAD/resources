@@ -20,6 +20,7 @@ Reminders:
   
 * Students must attend the vacuum former at all times. Leaving material in the oven area and walking away is a fire hazard!
 
+
 ## Additional Links
 
 
