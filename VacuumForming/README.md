@@ -24,6 +24,6 @@ Reminders:
 ## Additional Links
 
 
-* Formech 508 DT Vacuum Former – https://www.formech.com/product/formech-508dt-vacuum-former-2 This is the model we have in the shop. Check out the instructional video on this page that walks through operating the machine. 
+* [Formech 508 DT Vacuum Former](https://www.formech.com/product/formech-508dt-vacuum-former-2) - This is the model we have in the shop. Check out the instructional video on this page that walks through operating the machine. 
   
-* Overview / Intro to vacuum forming - https://advancedplastiform.com/comprehensive-guide-to-vacuum-forming/   
+* [Overview / Intro to vacuum forming](https://advancedplastiform.com/comprehensive-guide-to-vacuum-forming/)   
