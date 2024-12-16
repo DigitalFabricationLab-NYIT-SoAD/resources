@@ -18,7 +18,7 @@ Reminders:
 
 * Students must program their own Rhino model for CNC Machining via *RhinoCAM* (available on select FabLab computers) or *FreeMILL* (available for download [here](https://mecsoft.com/downloads/demos/)... select "FreeMILL" as your product of interest). 
 
-* Here is a Carvey Rhino Template and tool library for RhinoCAM 
+* [Here](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/CarveyMiniCNC/NYIT_Carvey_CNC_template.3dm) is a Carvey Rhino Template and tool library for RhinoCAM 
 
 * Students will need to install and run [gSender](https://sienci.com/gsender/?srsltid=AfmBOorix9vvRB6lHw--0FJkMFbHveEQ-IJ-zYPYso9l_wRc6BgCQQ-j) on their laptops to operate the machine. 
 
