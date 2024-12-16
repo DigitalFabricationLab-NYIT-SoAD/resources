@@ -56,6 +56,8 @@ ___
 
 [Vacuum Forming](VacuumForming/README.md)
 
+[Carvey Mini CNC Machine](CarveyMiniCNC/README.md)
+
 
 ## Quick Links For Students
 
