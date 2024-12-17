@@ -5,25 +5,6 @@ _Use this page to access any and all resources for the SoAD Fabrication Lab._
 _If you have any questions, feel free to come see us in the lab during open hours._
 
 
-## Extended FabLab Hours for Final Reviews
-
-**Manhattan Fabrication Lab**
-* Monday 12/02 - Friday 12/06 (week): 9:30am-6:30pm
-* Saturday 12/07 - Sunday 12/08 (weekend): 11:00am-4:00pm
-* Monday 12/09 - Friday 12/13 (week): 10:00am-5:00pm (normal hours)
-   
-**Manhattan Plot Shop (same as MA FabLab unless noted below)**
-* Monday 12/09 - Friday 12/13 (week): 8:30am-5:00pm
-* Sunday 12/15: 5:00pm-7:00pm  
-___
-
-**Old Westbury Fabrication Lab**
-* Monday 12/02 - Friday 12/06 (week): 10:00am-7:00pm
-* Saturday 12/07 - Sunday 12/08 (weekend): 12:00pm-5:00pm
-* Monday 12/09 - Friday 12/13 (week): 10:00am-7:00pm
-   
-**Old Westbury Plot Shop (same as OW FabLab)**
-
 
 ## Lab Rules 
   
