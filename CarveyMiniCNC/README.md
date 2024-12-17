@@ -8,7 +8,7 @@ Reminders:
 
 * Students are responsible for setting up their own Rhino and RhinoCAM files. Student workers and staff are available to support as needed, but this availability depends on how busy the lab is at the time. 
 
-* Students can use the school license of RhinoCAM to set up their files by making a CAM Appointment via EZBook.  
+* Students can use the school license of RhinoCAM to set up their files by making a CAM Appointment via [EZBook](https://new.ezbook.com/NYIT).  
 
 * Foam is the only material that can be processed on this machine at this time. (XPS and HDU)  
 
