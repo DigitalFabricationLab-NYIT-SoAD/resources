@@ -6,7 +6,7 @@
 
 Reminders: 
 
-* Students are responsible for setting up their own Rhino and RhinoCAM files. Student Workers and Staff are available to support as needed, but this availability depends on how busy the lab is at the time. 
+* Students are responsible for setting up their own Rhino and RhinoCAM files. Student workers and staff are available to support as needed, but this availability depends on how busy the lab is at the time. 
 
 * Students can use the school license of RhinoCAM to set up their files by making a CAM Appointment via EZBook.  
 
@@ -24,9 +24,9 @@ Reminders:
 
 * The post to run files via gSender is "X-Carve GRBL" 
 
-* Students will need USB (NOT USB-c) capabilities on their laptop in order to connect to the machine. If your laptop only has a USB-c connection, you will need to bring your own adapter for this connection. 
+* Students will need USB (NOT USB-C) capabilities on their laptop in order to connect to the machine. If your laptop only has a USB-C connection, you will need to bring your own adapter for this connection. 
 
-* Students must work with a Staff member or Student Worker when running their first file. Staff will train the student how to safely operate the machine, including jogging, loading materials, changing tools, setting home, and running files. 
+* Students must work with a staff member or student worker when running their first file. Staff will train the student how to safely operate the machine, including jogging, loading materials, changing tools, setting home, and running files. 
 
 * For safety reasons, students must attend the machine at all times. 
 
