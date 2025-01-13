@@ -44,6 +44,6 @@ Link to download [FreeMILL](https://mecsoft.com/downloads/demos/) for Rhino... t
 
 Link to download [gSender](https://sienci.com/gsender/?srsltid=AfmBOorix9vvRB6lHw--0FJkMFbHveEQ-IJ-zYPYso9l_wRc6BgCQQ-j) 
 
-gSender Configuration Best Practices *(coming soon)* 
+[gSender Configuration Best Practices](Tutorials&Templates/Carvey/gSenderConfig/README.md)
 
 [Carvey Rhino template and tool library](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/CarveyMiniCNC/NYIT_Carvey_CNC_template.3dm) (for students interested in setting up their files via RhinoCAM) 
