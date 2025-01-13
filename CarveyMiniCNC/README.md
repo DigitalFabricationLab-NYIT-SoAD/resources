@@ -34,7 +34,7 @@ Reminders:
 
 PART 1: How to Set Up a CNC File Using Rhino FreeMILL *(coming soon)* 
 
-PART 2: How to Run a Job on Carvey Using GSender *(coming soon)*
+PART 2: How to Run a Job on Carvey Using gSender *(coming soon)*
  
 
 ## Additional Resources 
@@ -46,4 +46,4 @@ Link to download [gSender](https://sienci.com/gsender/?srsltid=AfmBOorix9vvRB6lH
 
 gSender Configuration Best Practices *(coming soon)* 
 
-[Carvey Rhino Template and tool library](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/CarveyMiniCNC/NYIT_Carvey_CNC_template.3dm) (for students interested in setting up their files via RhinoCAM) 
+[Carvey Rhino template and tool library](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/CarveyMiniCNC/NYIT_Carvey_CNC_template.3dm) (for students interested in setting up their files via RhinoCAM) 
