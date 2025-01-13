@@ -13,6 +13,7 @@ Reminders:
 
 ## General Overview and Safety 
 
+
 * Foam is the only material that can be processed on this machine at this time. (XPS aka pink/purple foam and HDU) 
 
 * Students should always have their programmed file verified by a staff member or qualified student worker before cutting.  
@@ -23,14 +24,19 @@ Reminders:
 
 * Students are responsible for all clean-up after use. 
 
-* The FabLab is not responsible for lost files on publicly-used computers. If you are using our computer to setup your CAM files, always save a backup! 
+* The FabLab is not responsible for lost files on publicly-used computers. If you are using our computer to setup your CAM files, always save a backup!
 
-## When you have finished your model and are ready to program and cut, please follow these two step-by-step guides: 
+
+*When you have finished your digital model and are ready to program and cut, please follow this two-part step-by-step set of instructions...* 
+
+## Carvey Mini CNC Operating Procedure 
+
 
 PART 1: How to Set Up a CNC File Using Rhino FreeMILL *(coming soon)* 
 
 PART 2: How to Run a Job on Carvey Using GSender *(coming soon)*
  
+
 ## Additional Resources 
 
  
