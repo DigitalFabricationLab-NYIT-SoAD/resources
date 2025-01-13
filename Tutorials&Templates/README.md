@@ -33,6 +33,8 @@
 
 4. [CNC Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
+5. [gSender Configuration Best Practices](Tutorials&Templates/Carvey/gSenderConfig/README.md)
+
 ___
 
 _Video Playlist coming soon..._
