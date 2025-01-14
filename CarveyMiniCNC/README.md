@@ -40,7 +40,7 @@ Reminders:
 ## Additional Resources 
 
  
-Link to download [FreeMILL](https://mecsoft.com/downloads/demos/) for Rhino... to access the download, select "FreeMILL" as your product of interest. ***You do NOT need to pay for a full RhinoCAM license to run FreeMill**, but you WILL be downloading and installing the same program as the paid version.* 
+Link to download [FreeMILL](https://mecsoft.com/downloads/demos/) for Rhino... to access the download, select "FreeMILL" as your product of interest. ***You do NOT need to pay for a full RhinoCAM license to run FreeMILL**, but you WILL be downloading and installing the same program as the paid version.* 
 
 Link to download [gSender](https://sienci.com/gsender/?srsltid=AfmBOorix9vvRB6lHw--0FJkMFbHveEQ-IJ-zYPYso9l_wRc6BgCQQ-j) 
 
