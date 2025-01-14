@@ -34,7 +34,7 @@ Reminders:
 
 [PART 1: How to Set Up a CNC File Using Rhino FreeMILL](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/Part1/) 
 
-PART 2: How to Run a Job on Carvey Using gSender *(coming soon)*
+[PART 2: How to Run a Job on Carvey Using gSender](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/Part2/)
  
 
 ## Additional Resources 
