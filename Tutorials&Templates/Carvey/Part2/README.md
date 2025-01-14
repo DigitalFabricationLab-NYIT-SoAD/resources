@@ -1,12 +1,12 @@
 # PART 2: How to Run a Job on Carvey Using gSender  
 
-To begin this process, you must have three things prepared: (1.) stock material (shop-approved foam), (2.) a laptop with gSender installed and USB-A (standard) compatibility, and (3.) the .nc file from Part 1 saved on that laptop.  
+To begin this process, students must have three things prepared: 1.) stock material (XPS or HDU foam), 2.) a laptop with gSender installed and with USB compatibility, and 3.) the .nc file from Part 1 saved on that laptop.  
 
 **IMPORTANT REMINDERS:**  
 
-* If it is your first time using Carvey, you MUST follow this procedure with a staff member or qualified student worker in order to be trained on the machine. 
+* All first-timers MUST follow the following procedure with a staff member or qualified student worker in order to be trained on the machine. *It is the student's responsibility to alert a staff member to obtain this training.*
 
-* Even if it is not your first time using Carvey, *a staff member or qualified student worker must **double check your CAM programming and setup** and **be present with you** in order to start any cut.* 
+* For ALL Carvey jobs, *it is the student's responsibility* to alert a staff member or qualified worker to 1.) **double check CAM programming and setup** before cutting and 2.) **be present** at the start of the cut. 
 
 ## 1. Stock Setup 
 
