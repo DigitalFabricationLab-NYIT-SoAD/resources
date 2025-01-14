@@ -23,17 +23,25 @@
 
 5. [3D Printing File Submission Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
-### CNC Machining
+
+### CNC Machining:
 
 1. [CNC User Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/UserGuides/CNCmills)
 
-2. [Techno CNC Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EaL1t0IYd2BGne6z8LeIl2IB3EhZVdAclfzlQvkMItj2Rg?e=download=1)
+2. [CNC Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/) 
 
-3. [Carvey Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EWc4sloN-GlGp0cMFbIM7jsB99SMAVFuS58EfSLcUq38zg?download=1)
+3. [Techno CNC Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EaL1t0IYd2BGne6z8LeIl2IB3EhZVdAclfzlQvkMItj2Rg?e=download=1)
 
-4. [CNC Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
-5. [gSender Configuration Best Practices](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/gSenderConfig/)
+### Carvey Mini CNC Machine:
+
+1. [PART 1: How to Set Up a CNC File Using Rhino FreeMILL](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/Part1/)
+
+2. [PART 2: How to Run a Job on Carvey Using gSender](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/Part2/)
+
+3. [gSender Configuration Best Practices](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/gSenderConfig/)
+
+4. [Carvey Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EWc4sloN-GlGp0cMFbIM7jsB99SMAVFuS58EfSLcUq38zg?download=1)
 
 
 ___
