@@ -1,7 +1,7 @@
 
 # CNC Machining
 
-**Students can use the SoAD Fab Lab's *TechnoCNC Router (48" x 48")* and *Carvey CNC Router (12" x 8")* by attending a CAM Appointment followed by a CNC Cut Appointment.**
+**Students can use the SoAD Fab Lab's *TechnoCNC Router (48" x 48")* by attending a CAM Appointment followed by a CNC Cut Appointment. For information about how to use the *Carvey Mini CNC Router (12" x 8")*, click [here](CarveyMiniCNC/README.md)**
 
 Reminders:
 * *CNC machining is a complex fabrication process, we recommend starting early!* As a rule of thumb, allow 1-2 weeks to complete the entire process (model design/edits for CNC, CAM programming, material prep/acquisition, and cut time).
@@ -37,7 +37,7 @@ Any students interested in CNC Machining must read and follow the standards belo
 
 It is the responsibility of the student to bring a digital model to their CAM Appointment that complies with the following rules:
 
-* Cut geometry situated within the bounding box of either the Techno CNC template (48 x 48 in) or the Carvey CNC template (12 x 8 in)
+* Cut geometry situated within the bounding box in the Techno CNC template (48 x 48 in)
   
 * Rhino 7 (.3dm) file
   
@@ -78,7 +78,7 @@ Come into the lab to ask about our recommended material vendors in the area
 
 ### Step 2: CNC Cut Appointments
 
-*Students will schedule their Machining Appointment at the end of their CAM Setup Appointment with the CNC Technician. File cut time will be determined during the CAM Appointment. Cut times can take anywhere from 10 minutes (Carvey) to 3+ hours (Techno).*
+*Students will schedule their Machining Appointment at the end of their CAM Setup Appointment with the CNC Technician. File cut time will be determined during the CAM Appointment. Cut times can take anywhere from 20 minutes to 4+ hours.*
 
 
 ***Appointment Requirements***
