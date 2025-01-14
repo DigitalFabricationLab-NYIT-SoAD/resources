@@ -1,6 +1,6 @@
 # PART 1: How to Set Up a CNC File Using Rhino FreeMILL  
 
-To begin this setup process and to access FreeMILL, you should already have RhinoCAM installed on your computer. 
+To begin this setup process and to access FreeMILL, students should already have RhinoCAM installed on their computer. 
 
 *Remember, **You do NOT need to pay for a full RhinoCAM license to run FreeMILL**, but you WILL be downloading and installing the same program as the paid version.*
 
