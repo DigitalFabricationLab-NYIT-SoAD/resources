@@ -6,7 +6,7 @@ To begin this process, you must have three things prepared: (1.) stock material 
 
 * If it is your first time using Carvey, you MUST follow this procedure with a staff member or qualified student worker in order to be trained on the machine. 
 
-* Even if it is not your first time using Carvey, a staff member or qualified student worker must *double check your CAM programming and setup and be present with you in order to start any cut.* 
+* Even if it is not your first time using Carvey, *a staff member or qualified student worker must **double check your CAM programming and setup** and **be present with you** in order to start any cut.* 
 
 ## 1. Stock Setup 
 
