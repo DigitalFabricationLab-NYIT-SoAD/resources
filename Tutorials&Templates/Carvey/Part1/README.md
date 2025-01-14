@@ -2,6 +2,8 @@
 
 To begin this setup process and to access FreeMILL, you should already have RhinoCAM installed on your computer. 
 
+*Remember, **You do NOT need to pay for a full RhinoCAM license to run FreeMILL**, but you WILL be downloading and installing the same program as the paid version.*
+
 ## 1. Open Rhino File, Run FreeMILL, Set Cutting Direction 
 
 Select "Run FreeMILL." 
