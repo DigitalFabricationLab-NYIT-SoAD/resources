@@ -56,7 +56,7 @@ Next, unlock the machine controls in gSender by clicking the brown unlock button
 
 ## 5. Setting X, Y, and Z zero 
 
-Using your computer keyboard (and the shortcuts you set up from the [gSender Configuration Best Practices](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/gSenderConfig/)guide), navigate the tool to where you want the origin of your part to start. Remember: this is where the WORK ZERO coordinates system was placed in Step 3 of Part 1 (Southwest, highest Z).  
+Using your computer keyboard (and the shortcuts you set up from the [gSender Configuration Best Practices](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/gSenderConfig/) guide), navigate the tool to where you want the origin of your part to start. Remember: this is where the WORK ZERO coordinates system was placed in Step 3 of Part 1 (Southwest, highest Z).  
 
 Be careful not to plunge the tool into your stock! 
 
