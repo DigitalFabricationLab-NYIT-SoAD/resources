@@ -33,7 +33,7 @@
 3. [Techno CNC Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EaL1t0IYd2BGne6z8LeIl2IB3EhZVdAclfzlQvkMItj2Rg?e=download=1)
 
 
-### Carvey Mini CNC Machine:
+### Carvey Mini CNC Machining:
 
 1. [PART 1: How to Set Up a CNC File Using Rhino FreeMILL](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/Part1/)
 
