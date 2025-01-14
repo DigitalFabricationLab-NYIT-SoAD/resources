@@ -2,9 +2,9 @@
   
 There have been some changes to how the plot shop is run and managed and we appreciate your patience. We are now have *open hours* where you can come in and run your print. 
 
-**Students must FIRST submit files to the queue, THEN visit the plot shop/FabLab in-person during open hours to get their files printed.**
+**Students must FIRST submit files to the queue, THEN visit the Plot Shop/FabLab in-person during open hours to get their files printed.**
 
-Here is a link to the queue: [https://www.nyit.edu/its/plotting_service](https://www.nyit.edu/its/plotting_service)
+[Here](https://www.nyit.edu/its/plotting_service) is a link to the queue. 
 
 Please make sure you have enough funds in your account prior to printing.
 
