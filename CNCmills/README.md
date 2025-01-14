@@ -1,7 +1,7 @@
 
 # CNC Machining
 
-**Students can use the SoAD Fab Lab's *TechnoCNC Router (48" x 48")* by attending a CAM Appointment followed by a CNC Cut Appointment. For information about how to use the *Carvey Mini CNC Router (12" x 8")*, click [here](CarveyMiniCNC/README.md)**
+**Students can use the SoAD Fab Lab's *TechnoCNC Router (48" x 48")* by attending a CAM Appointment followed by a CNC Cut Appointment. For information about how to use the *Carvey Mini CNC Router (12" x 8")*, click [here](CarveyMiniCNC/README.md)**.
 
 Reminders:
 * *CNC machining is a complex fabrication process, we recommend starting early!* As a rule of thumb, allow 1-2 weeks to complete the entire process (model design/edits for CNC, CAM programming, material prep/acquisition, and cut time).
