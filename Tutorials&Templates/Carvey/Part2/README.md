@@ -2,11 +2,11 @@
 
 To begin this process, you must have three things prepared: (1.) stock material (shop-approved foam), (2.) a laptop with gSender installed and USB-A (standard) compatibility, and (3.) the .nc file from Part 1 saved on that laptop.  
 
-IMPORTANT REMINDERS:  
+**IMPORTANT REMINDERS:**  
 
 * If it is your first time using Carvey, you MUST follow this procedure with a staff member or qualified student worker in order to be trained on the machine. 
 
-* Even if it is not your first time using Carvey, a staff member or qualified student worker must double check your CAM programming and setup and be present with you in order to start any cut. 
+* Even if it is not your first time using Carvey, a staff member or qualified student worker must *double check your CAM programming and setup and be present with you in order to start any cut.* 
 
 ## 1. Stock Setup 
 
@@ -104,7 +104,7 @@ Jog the tool out of the way, then open the door to retrieve your part.
 
 ![9_clean_up](https://github.com/user-attachments/assets/7ab02113-e6a0-4014-a0bd-a33a6c3c53af)
 
-Clean up the interior of the machine using one of the shop vacuums. 
+Don't forget to **clean up the interior of the machine** using one of the shop vacuums and **put away all tools** when finished. 
 
 ## 10. Finishing/Trimming Your Model 
 
@@ -120,4 +120,4 @@ You can trim the edges using the band saw in the shop:
 
 ![12_finished_trimmed](https://github.com/user-attachments/assets/24180e64-8b75-40b7-8a70-d89863115b3e)
 
-Hope you found this guide helpful and *Happy Carving!*  
+We hope you found this guide helpful and *Happy Carving!*  
