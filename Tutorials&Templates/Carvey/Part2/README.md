@@ -14,6 +14,8 @@ Stock can be held down with either double-stick tape or reusable, screw-in, hold
 
 In any case, make sure the bed is clean and that the piece is held down squarely and firmly. 
 
+*Pictured below: stock (XPS foam), double-stick tape, and wrenches to tighten tool into spindle.*
+
 ![6_stock_setup](https://github.com/user-attachments/assets/d0d6fd4b-844d-4120-94c5-bd5591019ffd)
 
 You can use the grid lines on the bed to ensure that your piece is oriented properly (square) on the machine. (see below) 
