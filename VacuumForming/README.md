@@ -7,7 +7,7 @@
 Reminders:
 * In the world of thermoforming, many different types of plastics can be used. The specific machine we have at NYIT is best suited to form 1 mm (or thinner) polystyrene.
 
-* You are welcome to experiment with forming materials other than this, but remember that the success of your output depends on your willingness to repeatedly test and prototype your design.
+* Students are welcome to experiment with forming materials other than this, but it is good to remember that the success of the output depends one's willingness to repeatedly test and prototype the design.
 
 
 ## Policies, Tips, and Notes on Safety
