@@ -1,6 +1,6 @@
 # PART 1: How to Set Up a CNC File Using Rhino FreeMILL  
 
-To begin this setup process, you should already have RhinoCAM installed on your computer. 
+To begin this setup process and to access FreeMILL, you should already have RhinoCAM installed on your computer. 
 
 ## 1. Open Rhino File, Run FreeMILL, Set Cutting Direction 
 
