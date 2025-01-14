@@ -62,7 +62,13 @@ Be careful not to plunge the tool into your stock!
 
 ![7_set_part_zero](https://github.com/user-attachments/assets/46b1a184-c8f3-453d-b8b3-957b3666ef67)
 
-Note that we are zeroing the tool at a location set into the stock a bit and not at the exact corner of the foam. This is because we will trim out the object on the band saw later to give it cleaner edges. Double check your stock and object measurements to ensure that you are placing the origin of your part appropriately, so your object fits within your stock on all sides. 
+The red rectangle indicates where our part will fit within our (intentionally slightly oversized) stock material.
+
+Note that we are zeroing the tool at a location set into the stock a bit and not at the exact corner of the foam. 
+This is because we will trim out the object on the band saw later to give it cleaner edges. 
+
+
+Always double check your stock and object measurements to ensure that you are placing the origin of your part appropriately, so your object fits within your stock on all sides. 
 
  
 
