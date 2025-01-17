@@ -79,7 +79,7 @@ Use these settings for **1/8" end mills and ball mills**:
 
 Adjusting the Step Distance and Stepdown Distance affects the quality of your model as well as how long it will take to cut. (generally, higher quality = takes longer to cut, lower quality = takes less time to cut) 
 
-The Lab recommends setting the *Step Distance as **half** the diameter of your cutting tool* and the *Stepdown Distance as **equal** to the diameter of your cutting tool.* 
+The Lab recommends setting the *Step Distance as **half** the diameter of your cutting tool* and the *Stepdown Distance as **equal to** the diameter of your cutting tool.* 
  
 ![7_machining_operation_settings](https://github.com/user-attachments/assets/520c5820-28aa-4ce5-a26f-c7225b2b0d97)
 
