@@ -67,11 +67,11 @@ Students are responsible for providing their own stock material for cutting. Wor
    * Acrylic
    * Many types of plastics that *cannot* be cut on the laser cutter *can* be cut on the CNC
 
-If you are gluing up sheets of material to reach the desired stock thickness, *the glue must be completely dry before your Cut Appointment.* We recommend following these stock glue-up guidelines/tips. 
+If you are gluing up sheets of material to reach the desired stock thickness, *the glue must be completely dry before your Cut Appointment.*  
  
 Come into the lab to ask about our recommended material vendors in the area
 
-***Book a CAM Appointment via [EZBook](new.ezbook.com/NYIT) or visit the Fab Lab on your campus first to review your CNC file with a staff member***
+***Book a CAM Appointment via [EZBook](new.ezbook.com/NYIT)***
 
 
 ### Step 2: CNC Cut Appointments
