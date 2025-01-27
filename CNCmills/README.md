@@ -1,7 +1,9 @@
 
 # CNC Machining
 
-**Students can use the SoAD Fab Lab's *TechnoCNC 3-axis Router (48" x 48")* to generate complex geometry from a range of materials (foams, plastics, and wood) within a subtractive manufacturing framework. For information about how to use the *Carvey Mini CNC Router (12" x 8")*, click [here](https://digitalfabricationlab-nyit-soad.github.io/resources/CarveyMiniCNC/)**. 
+**Students can use the SoAD Fab Lab's *TechnoCNC 3-axis Router (48" x 48")* to generate complex geometry from a range of materials (foams, plastics, and wood) within a subtractive manufacturing framework.** 
+
+For information about how to use the *Carvey Mini CNC Router (12" x 8")*, click [here](https://digitalfabricationlab-nyit-soad.github.io/resources/CarveyMiniCNC/). 
 
 
 Reminders: 
