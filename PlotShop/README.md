@@ -7,6 +7,7 @@ There have been some changes to how the plot shop is run and managed and we appr
 [Here](https://www.nyit.edu/its/plotting_service) is a link to the queue. 
 
 Please make sure you have enough funds in your account prior to printing. All students, faculty, and staff must pay for plotting services. 
+
 Faculty & Staff should **not** use PCards to pay for plot shop services. 
 
 Pricing:
