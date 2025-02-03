@@ -69,7 +69,7 @@ GLUE MUST BE DRY BEFORE THE STOCK GOES ON THE MILL. Typically, at least 24 hours
 
 * Contains only the geometry that you wish to cut on the CNC, modeled at full scale, "full scale" here meaning the actual size you want the object to be when it comes off the mill.  
 
-* 150 KB maximum file size. Smaller file sizes will be much easier to manage in RhinoCAM. RhinoCAM has to do a lot of processing to generate and regenerate toolpaths, so smaller files will be easier to maneuver, make toolpath changes to/iterate upon, etc.   
+* 10,000 KB maximum file size, purged, save small, save geometry only. Smaller file sizes will be much easier to manage in RhinoCAM. RhinoCAM has to do a lot of processing to generate and regenerate toolpaths, so smaller files will be easier to maneuver, make toolpath changes to/iterate upon, etc.   
 
 ## PART 2: FILE SETUP / CAM  
 
