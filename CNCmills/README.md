@@ -43,7 +43,7 @@ It is the responsibility of the student to bring a digital model to their CAM Ap
   
 * On a flash drive (USB)
   
-* 10,000 KB maximum file size, purged, save small, save geometry only
+* 10,000 KB (10 MB) maximum file size, purged, save small, save geometry only
 
 *Any geometry that is not ready for CAM programming will be rejected and the student will have to reschedule the appointment before they are able to cut.* 
 
