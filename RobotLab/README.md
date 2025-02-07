@@ -37,3 +37,5 @@ https://forms.gle/gGr9nKgvzgqeSPoS8
 
 [Research](Research/Research.md)
 
+[Clay Printing Resources](ClayPrinting/README.md)
+
