@@ -21,6 +21,6 @@ Good luck and have fun!
 
 Note to refer for Cura Settings to update. 
 
-V1 is stored in the Cura Settings folder here.
+V1 is stored in the Cura Settings folder [Cura Set Up](CuraSettings/README.md).
 Notes I followed for Cornering Guides etc etc
 http://www.keep-art.co.uk/Journal/JK%20Guide%20to%20Clay%203D%20Printing.pdf
