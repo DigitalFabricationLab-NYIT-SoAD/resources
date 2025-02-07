@@ -30,7 +30,7 @@
 
 2. [CNC Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/) 
 
-3. [Techno CNC Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EaL1t0IYd2BGne6z8LeIl2IB3EhZVdAclfzlQvkMItj2Rg?e=download=1)
+3. [CNC Rhino Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/Ec4ldYjjz0tNjPIy1LHW5BQBjOdVZ9n-JXWRNxlFJF_ozA?download=1)
 
 
 ### Carvey Mini CNC Machining:
