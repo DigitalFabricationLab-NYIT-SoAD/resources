@@ -4,7 +4,7 @@
 
 1. [Laser Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EQEFIA9WVxtDk00xBGfe5CoBLPXriTSwtbBhDi1xdzPO_w?download=1)
    
-3. [Laser Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
+3. [Laser Appointment Sign-up / Purchasing Material Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
 4. [Laser Cutting Simulation (NYC)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/EYjUk_cku9xApmUVwOmet8QBbQx3i4ZM_ObMpJs9Plumrg?download=1)
 
