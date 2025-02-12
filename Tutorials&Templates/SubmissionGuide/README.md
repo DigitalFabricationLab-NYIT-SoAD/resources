@@ -64,6 +64,7 @@ This page has the guidelines for the following:
   * 2-Ply Chipboard (32 x 20 x 1/16 in / $2.00)
   * 4-Ply Chipboard (32 x 20 x 1/8 in / $4.00) **[MA - SOLD OUT]**
   * 2-Ply White Matboard (32 x 20 x 1/16 in / $5.00)
+  * 100 lb White Bristol Board (24 x 19 in / $2.00)
 * Upload your file
   * This file is a place-holder for material purchase - it does not need to be the student's final laser cut file   
     
