@@ -96,6 +96,13 @@ Come into the lab to ask about our recommended material vendors in the area
   
 * [Templates and Tutorials](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/)
 
+* Material Availability (MA):
+   * 1/2" Baltic Birch plywood, 48" x 48": $50
+   * 1" AC Pine plywood, 32" x 48": $36
+
+* Material Availability (OW): out of stock
+ 
+
   ___
 
 [Take Me Back Home](https://digitalfabricationlab-nyit-soad.github.io/resources/) - [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) - [3D Printing](https://digitalfabricationlab-nyit-soad.github.io/resources/3Dprinters/) - [Wood Shop](https://digitalfabricationlab-nyit-soad.github.io/resources/ShopTools/)  
