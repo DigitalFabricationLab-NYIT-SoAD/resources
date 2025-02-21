@@ -73,7 +73,7 @@ If you are gluing up sheets of material to reach the desired stock thickness, *t
  
 Come into the lab to ask about our recommended material vendors in the area
 
-***Book a CAM Appointment via [EZBook](https://new.ezbook.com/NYIT)***
+***Still unsure or want to learn more about CNC machining? Book a CAM Appointment via [EZBook](https://new.ezbook.com/NYIT)***
 
 
 ### Step 2: CNC Cut Appointments
