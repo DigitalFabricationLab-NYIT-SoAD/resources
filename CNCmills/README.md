@@ -1,7 +1,7 @@
 
 # CNC Machining
 
-**Students can use the SoAD Fab Lab's *TechnoCNC 3-axis Router (48" x 48")* to generate complex geometry from a range of materials (foams, plastics, and wood) within a subtractive manufacturing framework.** 
+**Students can use the SoAD Fab Lab's *TechnoCNC 3-axis Router (47" x 47")* to generate complex geometry from a range of materials (foams, plastics, and wood) within a subtractive manufacturing framework.** 
 
 For information about how to use the *Carvey Mini CNC Router (12" x 8")*, click [here](https://digitalfabricationlab-nyit-soad.github.io/resources/CarveyMiniCNC/). 
 
@@ -37,7 +37,7 @@ Any students interested in CNC Machining must read and follow the standards belo
 
 It is the responsibility of the student to bring a digital model to their CAM Appointment that complies with the following rules:
 
-* Cut geometry situated within the bounding box in the Techno CNC template (48 x 48 in)
+* Cut geometry situated within the bounding box in the Techno CNC template (47 x 47 in)
   
 * Rhino 7 (.3dm) file
   
