@@ -2,7 +2,7 @@
 
 ### Laser Cutting:
 
-1. [Laser Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EQEFIA9WVxtDk00xBGfe5CoBLPXriTSwtbBhDi1xdzPO_w?download=1)
+1. [Laser Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EQEFIA9WVxtDk00xBGfe5CoBPNOniP2MM5DV3epHY_G6sg?download=1)
    
 3. [Laser Appointment Sign-up / Purchasing Material Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
@@ -19,7 +19,7 @@
 
 3. [Slicing in Cura](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/CuraSlicer/)
 
-4. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/ERd5ClA_Zj1Co_Fy7yNHi0gBYCjXDu_CCiZCE5f1I3jx_w?download=1)
+4. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EVzReFkn8YdHitoV-DHkpykBfJsh3-fggMV78llRn1iQJA?download=1)
 
 5. [3D Printing File Submission Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
@@ -30,7 +30,8 @@
 
 2. [CNC Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/) 
 
-3. [CNC Rhino Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/Ec4ldYjjz0tNjPIy1LHW5BQBjOdVZ9n-JXWRNxlFJF_ozA?download=1)
+3. [CNC Rhino Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EaL1t0IYd2BGne6z8LeIl2IB3EhZVdAclfzlQvkMItj2Rg?download=1)
+
 4. [CNC Site Model Workshop Recording (ARCH202 - SP25)](https://nyinstituteoftechnology-my.sharepoint.com/:v:/g/personal/ewilli14_nyit_edu/EdjmjpAw0NZEiC3-bcRKN28BTQJUrvUyDDaRibH-zvWerw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KcRJBa)
 
 
