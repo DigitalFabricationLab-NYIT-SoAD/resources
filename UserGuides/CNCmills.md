@@ -124,7 +124,7 @@ Finishing refers to the final, more delicate or detailed toolpaths/operations.
 
 **Techno CNC – vacuum bed hold-down**
   
-* Max Stock Dimensions: 48" x 48" x 4"  
+* Max Stock Dimensions: 48" x 48" x 3 1/2"  
   
 * Post: WinCNC  
   
