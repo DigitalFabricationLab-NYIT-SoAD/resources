@@ -37,7 +37,7 @@ Any students interested in CNC Machining must read and follow the standards belo
 
 It is the responsibility of the student to bring a digital model to their CAM Appointment that complies with the following rules:
 
-* Cut geometry situated within the bounding box in the Techno CNC template (47 x 47 in)
+* Cut geometry situated within the bounding box in the Techno CNC template (47" x 47" x 3 1/2")
   
 * Rhino 7 (.3dm) file
   
