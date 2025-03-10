@@ -30,11 +30,11 @@ Any students interested in CNC Machining must read and follow the standards belo
 
 ### Before Your CAM Appointment: Select A Template, 2D or 3D 
 
-If you want your model to look something like the image below, set up your file using our [2D template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/ETwWFqEtOZ5EmYm-21woEDQBcFEZy116AueYW4fJYxBE9g?download=1). The file you bring in to your CAM Appointment should be all linework, like a laser cutter file. 
+If you want your model to look something like the image below, set up your file using our [2D template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/ETwWFqEtOZ5EmYm-21woEDQBZ4DsuVpxcuEa-ncv2RdPGw?download=1). The file you bring in to your CAM Appointment should be all linework, like a laser cutter file. 
 
 ![IMG_1100](https://github.com/user-attachments/assets/dcc8cc3b-22b4-4b48-b613-806c6e975606)
 
-If you want your model to look something like this image (below), set up your file using the [3D template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EfUffYdItdtBjurNDv4ZxlcBofSitYgpTkB6E2rk-RtcKg?download=1). This file should be all 3D volumes and surfaces, no linework and no meshes. 
+If you want your model to look something like this image (below), set up your file using the [3D template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EfUffYdItdtBjurNDv4ZxlcBrWgfC8iejX_Mu5OeOlaniw?download=1). This file should be all 3D volumes and surfaces, no linework and no meshes. 
 
 ![IMG_1101](https://github.com/user-attachments/assets/d44dfd06-0e32-4555-9abf-4e91ffe35fe6)
 
