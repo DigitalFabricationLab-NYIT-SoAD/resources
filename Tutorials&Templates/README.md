@@ -19,7 +19,7 @@
 
 3. [Slicing in Cura](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/CuraSlicer/)
 
-4. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EVzReFkn8YdHitoV-DHkpykBfJsh3-fggMV78llRn1iQJA?download=1)
+4. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/ERd5ClA_Zj1Co_Fy7yNHi0gBYCjXDu_CCiZCE5f1I3jx_w?download=1)
 
 5. [3D Printing File Submission Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
