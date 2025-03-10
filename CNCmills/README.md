@@ -28,7 +28,7 @@ Any students interested in CNC Machining must read and follow the standards belo
 * Students must attend a CNC workshop OR review the [CNC User Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/UserGuides/CNCmills) before attending their first CAM appointment.  
 
 
-### Before Your CAM Appointment: Select Your Template, 2D or 3D 
+### Before Your CAM Appointment: Select A Template, 2D or 3D 
 
 If you want your model to look something like the image below, set up your file using our [2D template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/ETwWFqEtOZ5EmYm-21woEDQBcFEZy116AueYW4fJYxBE9g?download=1). The file you bring in to your CAM Appointment should be all linework, like a laser cutter file. 
 
