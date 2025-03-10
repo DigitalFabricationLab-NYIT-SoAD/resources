@@ -12,9 +12,7 @@ Reminders:
 
 
 * At the SoAD FabLab, CNC Machining is a 2-step process consisting of a CAM Appointment and a Cut Appointment. **The Lab does not do same-day cuts.** 
-
-
-* File setup and material retrieval takes the most time; this is the responsibility of the student. The more prepared a student is for their CAM Appointment, the quicker the entire CNC process will be.  
+ 
  
 
 ## CNC Machining Process / Standards 
@@ -60,8 +58,8 @@ Students are responsible for providing their own stock material for cutting. Wor
    * Hardwood (*not* dimensional lumber like 2x4's, 4x4's, etc.)
    * Plywood (comes in various grades, consult with CNC Technician *before* purchasing)
 * Foam
-   * Extruded polystyrene (XPS) (purple/pink insulation foam)
-   * HDU (High Density Urethane)
+   * Extruded polystyrene (XPS) (purple/pink insulation foam) (Available for purchase at Home Depot, Lowe's, etc.) 
+   * HDU (High Density Urethane) (Available for purchase at The Compleat Sculptor on 6th Ave and 19th Street) 
       * Low Density - pink / salmon
       * Mid Density - beige
       * High Density - pale green
