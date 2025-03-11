@@ -30,9 +30,11 @@
 
 2. [CNC Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/) 
 
-3. [CNC Rhino Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EaL1t0IYd2BGne6z8LeIl2IB3EhZVdAclfzlQvkMItj2Rg?download=1)
+3. [2D CNC Rhino Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/ETwWFqEtOZ5EmYm-21woEDQBZ4DsuVpxcuEa-ncv2RdPGw?download=1)  
 
-4. [CNC Site Model Workshop Recording (ARCH202 - SP25)](https://nyinstituteoftechnology-my.sharepoint.com/:v:/g/personal/ewilli14_nyit_edu/EdjmjpAw0NZEiC3-bcRKN28BTQJUrvUyDDaRibH-zvWerw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KcRJBa)
+4.  [3D CNC Rhino Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EfUffYdItdtBjurNDv4ZxlcBrWgfC8iejX_Mu5OeOlaniw?download=1) 
+
+5. [CNC Site Model Workshop Recording (ARCH202 - SP25)](https://nyinstituteoftechnology-my.sharepoint.com/:v:/g/personal/ewilli14_nyit_edu/EdjmjpAw0NZEiC3-bcRKN28BTQJUrvUyDDaRibH-zvWerw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KcRJBa)
 
 
 ### Carvey Mini CNC Machining:
