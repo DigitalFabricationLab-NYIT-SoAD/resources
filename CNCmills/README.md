@@ -56,8 +56,6 @@ It is the responsibility of the student to bring a digital model to their CAM Ap
 
 *Any geometry that is not ready for CAM programming will be rejected and the student will have to reschedule the appointment before they are able to cut.* 
 
-Use the CNC Template File on the [Templates and Tutorials](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/) page to set up your 3D Model
-
 
 ***Approved Materials***
 
