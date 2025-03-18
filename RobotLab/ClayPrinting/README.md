@@ -23,6 +23,9 @@ Only the Power and Ground Wires need to be wired and they are marked correctly w
 2. Speed: This can be adjusted as a speed from 0 to 300. This is DIRECTLY related to the steps so if the speed is high but step is low, it will move very slowly. Write down what works for your material. You will need to reuse these settings.
 3. Direction: Forward and reverse! Set this by pressing the button for the direction you want it to move. Press in the knob and the machine will move constantly.
 
+Material must be loaded into the clear tube and then an extrusion test should be done before preparing a file for extrusion. Remember that the material may dry out and needs to be cleaned directly after use.
+
+
 Build a new machine profile into cura:
 ![WASP2040Extruder](https://github.com/user-attachments/assets/f0f48206-fad1-4e55-91fa-17996a01b22d)
 ![WASP2040Machine](https://github.com/user-attachments/assets/53244032-835f-416c-938d-514df9c212d2)
