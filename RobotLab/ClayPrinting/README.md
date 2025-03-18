@@ -13,7 +13,8 @@ Setting Up Plunger:
 The pluger takes 24v of input power.
 Only the Power and Ground Wires need to be wired and they are marked correctly with blue tape.
 ![PXL_20250318_185950239](https://github.com/user-attachments/assets/d4547665-5117-441b-b087-c6f2b6715fb3)
-![PXL_20250318_185950239](https://github.com/user-attachments/assets/51962943-6461-4629-8d87-9b48eb96c302)
+![PXL_20250318_185918462](https://github.com/user-attachments/assets/b659b0d4-0d5e-4030-85d0-53a477e4a78d)
+
 
 
 ### There are three settings that combine to make the "speed" at which the plunger moves.
