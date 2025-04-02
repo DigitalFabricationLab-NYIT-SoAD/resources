@@ -105,7 +105,9 @@ Come into the lab to ask about our recommended material vendors in the area
 
 * Material Availability (MA):
    * 1/2" Baltic Birch plywood, 48" x 48": $50
-   * 1" AC Pine plywood, 32" x 48": $36
+   * 1/2" Baltic Birch plywood, 8 1/2" x 48": $9 
+   * 3/4" Baltic Birch plywood, 48" x 48": $82 
+   * 1" AC Pine plywood, 32" x 48": $36 
 
 * Material Availability (OW): out of stock
  
