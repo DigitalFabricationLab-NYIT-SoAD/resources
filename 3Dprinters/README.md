@@ -89,7 +89,8 @@ Submit your file to the 3D Printing Job Queue on the
 
 ## Resin Printing
 Students interested in using the lab's Resin Printers must bring their digital file to the lab to discuss with staff.
-* Resin printing costs $0.30 per milliliter of resin used
+* Print cost: $0.30 per milliliter
+* Build volume: 130 mm x 130 mm x 180 mm tall (5" x 5" x 7" tall)
 
 
 ## 3D Printing Helpful Resources
