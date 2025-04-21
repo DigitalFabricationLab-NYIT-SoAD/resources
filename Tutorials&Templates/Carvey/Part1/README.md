@@ -41,49 +41,27 @@ Note the additional set of coordinates arrows, located at the top of the stock. 
 
 ## 4. Create Cutting Tool 
 
-Below are the approved tools for use on our Carvey CNC router. Use this for reference when setting up your tool: 
+For this example, we will use a 3/16" ball mill 
 
-![1_carvey_tools](https://github.com/user-attachments/assets/97e8d879-6550-49a1-b02b-fc1ae636a4c4)
+* Start tool setup by selecting the correct profile (ball mill) in the upper left corner of the window. 
 
-For this example, we will use a 3/16" end mill 
+* Input the dimensions of the tool as follows:  
 
-* Start tool setup by selecting the correct profile based on the diagrams located in the upper left corner of the window. 
-
-* The Holder Diameter will always be 0.75" and the Holder Length will always be 0.5" for this machine 
-
-* In general, the Tool Length should be equal to or greater than your stock thickness to prevent the tool holder from crashing into your part/stock while cutting. 
-
-3/16" End Mill*: 
-
-![5_create_tool_T1](https://github.com/user-attachments/assets/ca596ddb-3a1b-4388-a22f-ad8ab282f352)
-
-**For a 3/16" Ball Mill, change the profile type and use the same dimensions as above* 
-
-1/8" Ball Mill*: 
-
-![5_create_tool_T2](https://github.com/user-attachments/assets/26a6f7fe-19ae-4186-a2a9-18f7df726b89)
-
-**For a 1/8" End Mill, change the profile type and use the same dimensions as above* 
+ ![3_16_ball_tool](https://github.com/user-attachments/assets/8d0c56d1-778a-46f3-aafe-3132aa4fd20c)
 
 ## 5. Set Cutting Feeds and Speeds 
 
-Use these settings for **3/16" end mills and ball mills**: 
+Input the following settings: 
 
-![6_feeds_speeds_T1](https://github.com/user-attachments/assets/01f243ff-d2ba-4576-9b87-d6355cbbc794)
-
-Use these settings for **1/8" end mills and ball mills**: 
-
-![6_feeds_speeds_T2](https://github.com/user-attachments/assets/572be36c-3f9a-4dc2-b9b8-0121f6d6864d)
+![feeds_speeds](https://github.com/user-attachments/assets/792fdd80-8856-4dd0-a576-ecc2718916c4)
 
 ## 6. Create Machining Operation 
 
-Adjusting the Step Distance and Stepdown Distance affects the quality of your model as well as how long it will take to cut. (generally, higher quality = takes longer to cut, lower quality = takes less time to cut) 
+Input the following settings: 
 
-The Lab recommends setting the *Step Distance as **half** the diameter of your cutting tool* and the *Stepdown Distance as **equal to** the diameter of your cutting tool.* 
- 
-![7_machining_operation_settings](https://github.com/user-attachments/assets/520c5820-28aa-4ce5-a26f-c7225b2b0d97)
+![step_distance](https://github.com/user-attachments/assets/532cba37-5a80-494e-9bf8-a9f6bb92f329)
 
-Then click "Generate" to view the toolpaths 
+Then click "Generate" to view the toolpaths. 
 
 ![7_machining_operation_generate](https://github.com/user-attachments/assets/8ca02c29-c7e1-4cae-a99b-dfa9cf28ad86)
 
