@@ -4,13 +4,12 @@
 
 **Students can use the SoAD Fab Lab's *Ultimaker 3D Printers* by submitting a 3D model to the 3D Printing Job Queue.**
 
+![print_timelapse_wide](https://github.com/user-attachments/assets/5d6c5831-f58b-4e16-aa55-a16727ee265f)
+
 Reminders:
 * Anything can be 3D modeled, but not everything can be 3D printed. *It is the responsibility of the student to design their 3D model to be 3D printed.*
 
 * All students must review and submit files according to the SoAD Fab Lab 3D Printing Process / Standards
-  
-
-![print_timelapse_wide](https://github.com/user-attachments/assets/5d6c5831-f58b-4e16-aa55-a16727ee265f)
 
 
 ## 3D Printing Process / Standards
