@@ -48,7 +48,9 @@
 4. [Carvey Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EWc4sloN-GlGp0cMFbIM7jsB99SMAVFuS58EfSLcUq38zg?download=1)
 
 
-___
+### *NEW!* Model Making Tutorial Videos: 
 
-_Video Playlist coming soon..._
+How to Scale a Rhino Model - Two Methods:
+
+[![ZkfLTD_jHQ8](https://img.youtube.com/vi/ZkfLTD_jHQ8/0.jpg)](https://www.youtube.com/watch?v=ZkfLTD_jHQ8)
 
