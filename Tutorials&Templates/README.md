@@ -52,5 +52,5 @@
 
 How to Scale a Rhino Model - Two Methods:
 
-[![ZkfLTD_jHQ8](https://img.youtube.com/vi/ZkfLTD_jHQ8/0.jpg)](https://www.youtube.com/watch?v=ZkfLTD_jHQ8)
+[![ZkfLTD_jHQ8](https://img.youtube.com/vi/ZkfLTD_jHQ8/0.jpg)](https://www.youtube.com/watch?v=ZkfLTD_jHQ8){:target="_blank"}
 
