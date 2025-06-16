@@ -54,3 +54,6 @@ How to Scale a Rhino Model - Two Methods:
 
 [![ZkfLTD_jHQ8](https://img.youtube.com/vi/ZkfLTD_jHQ8/0.jpg)](https://www.youtube.com/watch?v=ZkfLTD_jHQ8)
 
+3D Print Prep Part 1 - What to Print and What NOT to Print
+
+[![h3NePY2-FyY](https://img.youtube.com/vi/h3NePY2-FyY/0.jpg)](https://www.youtube.com/watch?v=h3NePY2-FyY)
