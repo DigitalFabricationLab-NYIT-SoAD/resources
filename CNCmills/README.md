@@ -1,7 +1,7 @@
 
 # CNC Machining
 
-**Students can use the SoAD Fab Lab's *TechnoCNC 3-axis Router (47" x 47")* by signing up for a CAM consultation appointment and working with student workers to set up and run their file.** 
+**Students can use the SoAD Fab Lab's *TechnoCNC 3-axis Router (47" x 47" x 3")* by signing up for a CAM consultation appointment and working with student workers to set up and run their file.** 
 
 ![CNC_in_6_sec](https://github.com/user-attachments/assets/dc82a1df-cd31-4d79-8c2f-c635fbf6fb02)
 
