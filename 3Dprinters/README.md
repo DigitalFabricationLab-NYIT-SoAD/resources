@@ -18,7 +18,7 @@ The lab will print any file submitted to the 3D Printing Job Queue that follows 
 
 
 ### Required Orientation / Training
-* Students must complete the SoAD Fab Lab Canvas Orientation visting the lab space this semester.
+* Students must complete the SoAD Fab Lab Canvas Orientation before visting the lab space this semester.
   
 * Students *without* a SoAD Lab Sticker must come into the lab to sign a waiver before gaining access to any NYIT SoAD Labs.
 
