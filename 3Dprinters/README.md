@@ -87,7 +87,7 @@ Submit your file to the 3D Printing Job Queue on the
 
 ### Payment
 
-* Students will be charged $0.07 per gram of the 3D print before the print is started.
+* Students will be charged $0.08 per gram of the 3D print before the print is started.
   * 3D prints will not be started on a printer until payment is made.
 
  
