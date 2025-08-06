@@ -4,7 +4,7 @@
 
 **The SoAD Fab Lab is *changing* 3D printing starting Fall 2025.**  
 
-**To use the lab's *Ultimaker 3D Printers,* students must first submit their file to the 3D Printing Queue, then *go into the lab in person* to have a student worker check and process file.**  
+**To use the lab's *Ultimaker 3D Printers,* students must first submit the file to the 3D Printing Queue, then *go into the lab in person* to have a student worker check and process the file.**  
 
 **Files will NOT be run in the order they appear on the queue, but instead on a first come, first served basis. (similar to plotting)** 
 
