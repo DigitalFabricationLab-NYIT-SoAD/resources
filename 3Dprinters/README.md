@@ -2,7 +2,11 @@
 
 # 3D Printing
 
-**Students can use the SoAD Fab Lab's *Ultimaker 3D Printers* by submitting a 3D model to the 3D Printing Job Queue.**
+**The SoAD Fab Lab is *changing* 3D printing starting Fall 2025.**  
+
+**To use the lab's *Ultimaker 3D Printers,* students must first submit their file to the 3D Printing Queue, then *go into the lab in person* to have a student worker check and process file.**  
+
+**Files will NOT be run in the order they appear on the queue, but instead on a first come, first served basis. (similar to plotting)** 
 
 ![print_timelapse_wide](https://github.com/user-attachments/assets/5d6c5831-f58b-4e16-aa55-a16727ee265f)
 
@@ -69,9 +73,16 @@ Submit your file to the 3D Printing Job Queue on the
 
 
 ### Timeline
-* Allow 3-5 days for your submission to be processed and printed; 5-7 days during busy periods.
-  
-* Students will be notified when their 3D print is finished and ready for pick-up.
+
+* Allow 3-5 days from start to finish; 5-7 days during busy periods. This includes time spent working with a student worker to check the file before it goes on the machine, time for making changes to any errors, and actual time spent printing 
+
+* To get a print started (and therefore completed) quickly, students should come into the lab as soon as possible. Prints will be run on a first come, first served basis. 
+
+* Expect there to be a wait list to start prints during busy times (midterms and finals)   
+
+* Students will be notified when their 3D print is finished and ready for pick-up. 
+
+* Additional note: The lab will start running files at 10:30 am and no prints will be started after 4:30 pm daily 
 
 
 ### Payment
