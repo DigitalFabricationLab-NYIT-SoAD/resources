@@ -53,7 +53,7 @@ The goal of this guide is to let you investigate the time and results of your pr
    
 	This should give a good estimate of how long/how much material your job will take!
 
- 	We charge $0.07 per gram.
+ 	We charge $0.08 per gram.
 
 *Further Reading:*
 
