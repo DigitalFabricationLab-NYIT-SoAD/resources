@@ -36,7 +36,7 @@ The goal of this guide is to let you investigate the time and results of your pr
 
 
 
-**4. Import the most up to date settings profile provided by NYIT Fab Lab.**
+**3. Import the most up to date settings profile provided by NYIT Fab Lab.**
 
 * Download Current file: [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/ETRglnfTnmZAlfToALh5_kABV97wEDuLndIVRO2uwKUcVQ?download=1)
 
@@ -46,10 +46,10 @@ The goal of this guide is to let you investigate the time and results of your pr
  	
 
 	
-**5. Bring your .STL File you exported from RHINOCEROS into Ultimaker Cura**
+**4. Bring your .STL File you exported from RHINOCEROS into Ultimaker Cura**
 
 
-**6. Click Slice!**
+**5. Click Slice!**
    
 	This should give a good estimate of how long/how much material your job will take!
 
