@@ -1,14 +1,14 @@
 ## How to Check a file in Cura:
 
-The Goal of this is to let you investigate the time and results of your printing job before you come into the lab.
+The goal of this guide is to let you investigate the time and results of your printing job before you come into the lab.
 
-**1. Download the correct version of Ultimaker Cura listed below. We recommend uninstalling other versions so as not to cause any confusion.**
+**1. Download the correct version of Ultimaker Cura listed below. We recommend uninstalling other versions to avoid any confusion.**
 
-* Current Version Lab is using: 5.7.2
+* Current Version Lab is using: 5.10.1
 
-	* [Windows](https://github.com/Ultimaker/Cura/releases/download/5.7.2-RC2/UltiMaker-Cura-5.7.2-win64-X64.exe)
+	* [Windows](https://github.com/Ultimaker/Cura/releases/download/5.10.1/UltiMaker-Cura-5.10.1-win64-X64.exe)
 
-	* [Link to other downloads](https://github.com/Ultimaker/Cura/releases/tag/5.7.2-RC2)
+	* [Link to other downloads](https://github.com/Ultimaker/Cura/releases/tag/5.10.1)
 
 **2. Import the Utlimaker S5/S7 Printer:**
 
