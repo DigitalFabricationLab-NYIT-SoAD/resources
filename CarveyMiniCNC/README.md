@@ -7,8 +7,7 @@ Reminders:
 * Students are responsible for all file setup and machine operation. Students should check in with a staff member or qualified student worker when using the machine for the first time in order to verify programmed files and obtain in-person training. 
 
 * Students will run [gSender](https://sienci.com/gsender/?srsltid=AfmBOorix9vvRB6lHw--0FJkMFbHveEQ-IJ-zYPYso9l_wRc6BgCQQ-j) from their personal, USB-compatible laptop in order to run the machine. If your laptop has only USB-C connections, you will need to bring your own USB to USB-C adapter to make this connection. 
-
-* Though not required, students have the option of using the school license of RhinoCAM to program files. This is available by making a CAM Appointment via [EZBook.](https://new.ezbook.com/NYIT)   
+   
 
 
 ## General Overview and Safety 
@@ -46,4 +45,3 @@ Link to download [gSender](https://sienci.com/gsender/?srsltid=AfmBOorix9vvRB6lH
 
 [gSender Configuration Best Practices](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/gSenderConfig/)
 
-[Carvey Rhino template and tool library](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/blob/main/CarveyMiniCNC/NYIT_Carvey_CNC_template.3dm) (for students interested in setting up their files via RhinoCAM) 
