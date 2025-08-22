@@ -52,10 +52,10 @@ STAFF - [Queue login](https://web.nyit.edu/architecture/fabrication_labs_admin/)
 ## Hours 
 
 **Manhattan** - 
-Monday: 10am-5pm, Tuesday: 10am-5pm, Wednesday: 10am-5pm, Thursday: 10am-5pm, Friday: 10am-5pm
+Monday - Friday: 10am-5pm
 
 **Old Westbury** - 
-Monday: 10am-7pm, Tuesday: 10am-5pm, Wednesday: 10am-7pm, Thursday: 10am-7pm, Friday: 10am-5pm
+Monday - Friday: 10am-5pm
 
 ## About Us
 
