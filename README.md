@@ -48,7 +48,7 @@ _If you have any questions, feel free to come see us in the lab during open hour
 
 [EZBook - appointment booking (Laser Cutting, CNC)](https://new.ezbook.com/NYIT)
 
-STAFF - [Queue login](https://web.nyit.edu/architecture/fabrication_labs_admin/) 
+STAFF - [Queue login](https://apps.nyit.edu/fabrication-labs-admin/) 
 ## Hours 
 
 **Manhattan** - 
