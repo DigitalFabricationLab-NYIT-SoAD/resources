@@ -52,7 +52,11 @@
 
 Intro to Model Making by Hand (Recording of AAID101 In-Studio Tutorial)
 
-[![ZkfLTD_jHQ8](https://img.youtube.com/vi/4iiHpbCGWNc/0.jpg)](https://www.youtube.com/watch?v=4iiHpbCGWNc)
+[![4iiHpbCGWNc](https://img.youtube.com/vi/4iiHpbCGWNc/0.jpg)](https://www.youtube.com/watch?v=4iiHpbCGWNc)
+
+Booking Appointments, Paying for Material, and More - Digital Fabrication Processes Overview
+
+[![pT_whAa_U_w](https://img.youtube.com/vi/pT_whAa_U_w/0.jpg)](https://www.youtube.com/watch?v=pT_whAa_U_w)
 
 How to Scale a Rhino Model - Two Methods
 
