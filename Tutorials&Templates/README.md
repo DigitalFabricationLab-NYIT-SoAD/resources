@@ -50,7 +50,11 @@
 
 ### *NEW!* Model Making Tutorial Videos: 
 
-How to Scale a Rhino Model - Two Methods:
+Intro to Model Making by Hand (Recording of AAID101 In-Studio Tutorial)
+
+[![ZkfLTD_jHQ8](https://img.youtube.com/vi/4iiHpbCGWNc/0.jpg)](https://www.youtube.com/watch?v=4iiHpbCGWNc)
+
+How to Scale a Rhino Model - Two Methods
 
 [![ZkfLTD_jHQ8](https://img.youtube.com/vi/ZkfLTD_jHQ8/0.jpg)](https://www.youtube.com/watch?v=ZkfLTD_jHQ8)
 
