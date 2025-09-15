@@ -54,7 +54,7 @@ Intro to Model Making by Hand (Recording of AAID101 In-Studio Tutorial)
 
 [![4iiHpbCGWNc](https://img.youtube.com/vi/4iiHpbCGWNc/0.jpg)](https://www.youtube.com/watch?v=4iiHpbCGWNc)
 
-Booking Appointments, Paying for Material, and More - Digital Fabrication Processes Overview
+EZBook, Submitting a Ticket to the Job Queue, and More - Digital Fabrication Processes Overview
 
 [![pT_whAa_U_w](https://img.youtube.com/vi/pT_whAa_U_w/0.jpg)](https://www.youtube.com/watch?v=pT_whAa_U_w)
 
