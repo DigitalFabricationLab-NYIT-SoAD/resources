@@ -30,6 +30,6 @@ For special job requests, please fill out the following form: [Here](https://for
 
 
 
-[Admin Login](https://web.nyit.edu/app/plot_shop/)
+[Admin Login](https://apps.nyit.edu/plotting-service-admin/)
 
 
