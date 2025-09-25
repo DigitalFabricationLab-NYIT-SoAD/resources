@@ -1,4 +1,4 @@
-### Research Projects
+### SoAD Fabrication Research Lab
 
   **Title: Small Aggregate Printer Pump One**
   
