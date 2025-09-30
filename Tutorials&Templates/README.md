@@ -50,7 +50,7 @@
 
 ### *NEW!* Model Making Tutorial Videos: 
 
-SAVE TIME LASER CUTTING! How to Print from PDF
+SAVE TIME LASER CUTTING CURVES! How to Print from PDF
 
 [![HeCzclJ-SXo](https://img.youtube.com/vi/HeCzclJ-SXo/0.jpg)](https://www.youtube.com/watch?v=HeCzclJ-SXo)
 
