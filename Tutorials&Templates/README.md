@@ -50,6 +50,10 @@
 
 ### *NEW!* Model Making Tutorial Videos: 
 
+SAVE TIME LASER CUTTING! How to Print from PDF
+
+[![HeCzclJ-SXo](https://img.youtube.com/vi/HeCzclJ-SXo/0.jpg)](https://www.youtube.com/watch?v=HeCzclJ-SXo)
+
 Intro to Model Making by Hand (Recording of AAID101 In-Studio Tutorial)
 
 [![4iiHpbCGWNc](https://img.youtube.com/vi/4iiHpbCGWNc/0.jpg)](https://www.youtube.com/watch?v=4iiHpbCGWNc)
