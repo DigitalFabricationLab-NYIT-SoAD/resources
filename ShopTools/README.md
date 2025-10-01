@@ -7,8 +7,6 @@ Reminders:
 * You are expected to follow the below rules at all times, even after your orientation or you become comfortable with the tools.
 
 ## Required Orientation / Training
-
-* Students must complete the SoAD Fab Lab Canvas Orientation visting the lab space this semester.
   
 * Students *without* a SoAD Lab Sticker must come into the lab to sign a waiver before gaining access to any NYIT SoAD Labs.
 
