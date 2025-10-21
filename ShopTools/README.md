@@ -9,6 +9,8 @@ Reminders:
 ## Required Orientation / Training
   
 * Students *without* a SoAD Lab Sticker must come into the lab to sign a waiver before gaining access to any NYIT SoAD Labs.
+ 	* [2024 - 2026 Shop Waiver](https://github.com/user-attachments/files/23029352/NYIT_Shop.Waiver_Master_FA_2026.docx)
+
 
 * Students must complete In-Person Wood Shop Training before using any shop tools / machinery
 	* Wood Shop training can be scheduled by your professor in your first year. If you missed it, you can attend a make up session.
