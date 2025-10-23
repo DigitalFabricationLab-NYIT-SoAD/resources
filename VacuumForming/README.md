@@ -5,7 +5,7 @@
 **The SoAD Fab Lab's *Formech Vacuum Former (19" x 17")* is available for student use on a walk-in, self-serve basis.**
 
 Reminders:
-* In the world of thermoforming, many different types of plastics can be used. The specific machine we have at NYIT is best suited to form 1 mm (or thinner) polystyrene.
+* Our machine is best suited to form 1 mm (or thinner) polystyrene.
 
 * Students are welcome to experiment with forming materials other than this, but it is good to remember that the success of the output depends one's willingness to repeatedly test and prototype the design.
 
