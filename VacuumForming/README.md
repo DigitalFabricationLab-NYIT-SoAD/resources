@@ -7,7 +7,7 @@
 Reminders:
 * Our machine is best suited to form 1 mm (or thinner) polystyrene.
 
-* Students are welcome to experiment with forming materials other than this, but it is good to remember that the success of the output depends one's willingness to repeatedly test and prototype the design.
+* Students are welcome to experiment with forming materials other than this, but it is good to remember that the success of the output depends one's willingness to independently and repeatedly test and prototype the design.
 
 
 ## Policies, Tips, and Notes on Safety
