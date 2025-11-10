@@ -14,7 +14,7 @@ Reminders:
 * Anything can be 3D modeled, but not everything can be 3D printed. *It is the responsibility of the student to design their 3D model to be 3D printed.*
 
 * All students must review and submit files according to the SoAD Fab Lab 3D Printing Process / Standards
-* **Last call to start prints is 4:30 pm daily.** "Start" means the student worker is pressing play on the printer itself. To run a print overnight, come in *earlier* than 4:30 pm to allow time for file setup (slicing), payment, etc.
+* **Last call to start prints is 4:30 pm daily.** "Start" means the moment the student worker presses play on the printer itself. To run a print overnight, come in *earlier* than 4:30 pm to allow time for file setup (slicing), payment, etc.
 
 
 ## 3D Printing Process / Standards
