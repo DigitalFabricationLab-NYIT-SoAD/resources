@@ -1,10 +1,12 @@
 # Welcome to the NYIT SoAD Fabrication Lab Resource Page!
 
+
+<img width="700" height="328" alt="image" src="https://github.com/user-attachments/assets/ad7292aa-9383-4dac-a5f3-b722af9add62" />
+
+
 _Use this page to access any and all resources for the SoAD Fabrication Lab._
 
 _If you have any questions, feel free to come see us in the lab during open hours._
-
-<img width="700" height="331" alt="image" src="https://github.com/user-attachments/assets/61f53e15-272b-4141-9bfb-faa8da2a8c38" />
 
 
 ## Lab Rules 
