@@ -1,6 +1,6 @@
 # Welcome to the NYIT SoAD Plot Shop Resource page!
 
-<img width="686" height="685" alt="image" src="https://github.com/user-attachments/assets/a6091b8c-1973-40db-91c8-8582db3da3f5" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a6091b8c-1973-40db-91c8-8582db3da3f5" />
 
 **You must FIRST submit files to the queue, THEN visit the Plot Shop/FabLab in-person during open hours to get your files printed.**
 
