@@ -1,3 +1,6 @@
+<img width="1749" height="525" alt="image" src="https://github.com/user-attachments/assets/a9e1979e-a074-4837-82ef-d8e11c754f96" />
+
+
 # Welcome to the NYIT SoAD Plot Shop Resource page!
   
 
