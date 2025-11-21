@@ -4,7 +4,7 @@ _Use this page to access any and all resources for the SoAD Fabrication Lab._
 
 _If you have any questions, feel free to come see us in the lab during open hours._
 
-<img width="1033" height="489" alt="image" src="https://github.com/user-attachments/assets/61f53e15-272b-4141-9bfb-faa8da2a8c38" />
+<img width="700" height="331" alt="image" src="https://github.com/user-attachments/assets/61f53e15-272b-4141-9bfb-faa8da2a8c38" />
 
 
 ## Lab Rules 
