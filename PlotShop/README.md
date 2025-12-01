@@ -4,7 +4,7 @@
 
 **You must FIRST submit files to the queue, THEN visit the Plot Shop/FabLab in-person during open hours to get your files printed.**
 
-[Here](https://www.nyit.edu/its/plotting_service) is a link to the queue. 
+[**HERE**](https://www.nyit.edu/its/plotting_service) is a link to the queue. 
 
 Please make sure you have enough funds in your account **prior** to printing. 
 
@@ -12,7 +12,7 @@ All students, faculty, and staff must pay for plotting services.
 
 Faculty & Staff should **not** use PCards to pay for plot shop services.
 
-Please make sure your file is <b>correctly sized</b>, in <b>PDF</b> format. 
+Please make sure your file is **correctly sized**, in **PDF** format. 
 Note that the plotters do not print full bleed. 
 
 **There is new pricing for the Fall 2025 Semester.**
