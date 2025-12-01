@@ -1,6 +1,6 @@
 # Welcome to the NYIT SoAD Plot Shop Resource page!
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a6091b8c-1973-40db-91c8-8582db3da3f5" />
+<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/a6091b8c-1973-40db-91c8-8582db3da3f5" />
 
 **You must FIRST submit files to the queue, THEN visit the Plot Shop/FabLab in-person during open hours to get your files printed.**
 
@@ -10,7 +10,10 @@ Please make sure you have enough funds in your account **prior** to printing.
 
 All students, faculty, and staff must pay for plotting services. 
 
-Faculty & Staff should **not** use PCards to pay for plot shop services. 
+Faculty & Staff should **not** use PCards to pay for plot shop services.
+
+Please make sure your file is <b>correctly sized</b>, in <b>PDF</b> format. 
+Note that the plotters do not print full bleed. 
 
 **There is new pricing for the Fall 2025 Semester.**
 
