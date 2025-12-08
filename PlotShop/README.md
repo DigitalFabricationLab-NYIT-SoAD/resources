@@ -4,7 +4,7 @@
 
 **You must FIRST submit files to the queue, THEN visit the Plot Shop/FabLab in-person during open hours to get your files printed.**
 
-# [**HERE**](https://apps.nyit.edu/plotting-service/) is a link to the queue. 
+# [HERE](https://apps.nyit.edu/plotting-service/) is a link to the queue. 
 
 Please make sure you have enough funds in your account **prior** to printing. 
 
@@ -29,7 +29,7 @@ Pricing:
 
 Plot Shop hours are the same as the FabLab hours for each location. *Check in with FabLab staff first to get access to the plot shop.*
 
-For special job requests, please fill out the following form: [Here](https://forms.office.com/r/d8dpX7QnMc)
+
 
 
 
