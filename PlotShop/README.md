@@ -4,7 +4,7 @@
 
 **You must FIRST submit files to the queue, THEN visit the Plot Shop/FabLab in-person during open hours to get your files printed.**
 
-[**HERE**](https://www.nyit.edu/its/plotting_service) is a link to the queue. 
+# [**HERE**](https://apps.nyit.edu/plotting-service/) is a link to the queue. 
 
 Please make sure you have enough funds in your account **prior** to printing. 
 
@@ -14,6 +14,8 @@ Faculty & Staff should **not** use PCards to pay for plot shop services.
 
 Please make sure your file is **correctly sized**, in **PDF** format. 
 Note that the plotters do not print full bleed. 
+
+Files that have been in queue for 2 weeks and do not get processed will be automatically cancelled. 
 
 **There is new pricing for the Fall 2025 Semester.**
 
