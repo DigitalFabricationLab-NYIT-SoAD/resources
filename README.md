@@ -69,7 +69,7 @@ Monday - Friday: 10am-5pm
 
 [Plot Shop Queue Login](https://apps.nyit.edu/plotting-service-admin/)
 
-More
+[More](UserGuides/StaffResources/README.MD)
 
 ![dancinglogo](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/148252301/be4e5a50-a9a7-4056-97b1-b1c2e7531dc2)
 
