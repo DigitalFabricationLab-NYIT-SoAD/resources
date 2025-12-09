@@ -51,7 +51,6 @@ _If you have any questions, feel free to come see us in the lab during open hour
 
 [EZBook - appointment booking (Laser Cutting, CNC)](https://new.ezbook.com/NYIT)
 
-STAFF - [Queue login](https://apps.nyit.edu/fabrication-labs-admin/) 
 ## Hours 
 
 **Manhattan** - 
@@ -63,6 +62,14 @@ Monday - Friday: 10am-5pm
 ## About Us
 
 [Staff and Contact](https://www.nyit.edu/architecture/fabrication_labs)
+
+## Staff Resources
+
+[Fab Lab Queue Login](https://apps.nyit.edu/fabrication-labs-admin/)
+
+[Plot Shop Queue Login](https://apps.nyit.edu/plotting-service-admin/)
+
+More
 
 ![dancinglogo](https://github.com/DigitalFabricationLab-NYIT-SoAD/resources/assets/148252301/be4e5a50-a9a7-4056-97b1-b1c2e7531dc2)
 
