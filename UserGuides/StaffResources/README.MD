@@ -1,4 +1,4 @@
-Here is the page for a the staff resource page!
+**STAFF RESOURCES**
 
 
 Manhattan Laser Cutters:
