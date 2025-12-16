@@ -15,7 +15,9 @@ Faculty & Staff should **not** use PCards to pay for plot shop services.
 Please make sure your file is **correctly sized**, in **PDF** format. 
 Note that the plotters do not print full bleed. 
 
-Files that have been in queue for 2 weeks and do not get processed will be automatically cancelled. 
+Files that have been in queue for 2 weeks and do not get processed will be automatically cancelled.
+
+Please upload multiple files as a single PDF.
 
 **There is new pricing for the Fall 2025 Semester.**
 
