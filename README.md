@@ -1,6 +1,6 @@
 # Welcome to the NYIT SoAD Fabrication Lab Resource Page!
 
-<img width="734" height="624" alt="2026 HOURS" src="https://github.com/user-attachments/assets/0b979bff-9c03-41de-a180-47257687c308" />
+<img width="365" height="312" alt="2026 HOURS" src="https://github.com/user-attachments/assets/0b979bff-9c03-41de-a180-47257687c308" />
 
 
 
