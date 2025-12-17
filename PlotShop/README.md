@@ -1,6 +1,5 @@
 # Welcome to the NYIT SoAD Plot Shop Resource page!
 
-<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/a6091b8c-1973-40db-91c8-8582db3da3f5" />
 
 **You must FIRST submit files to the queue, THEN visit the Plot Shop/FabLab in-person during open hours to get your files printed.**
 
@@ -17,17 +16,17 @@ Note that the plotters do not print full bleed.
 
 Files that have been in queue for 2 weeks and do not get processed will be automatically cancelled.
 
-Please upload multiple files as a single PDF.
+Please upload multiple files as a single PDF to the queue.
 
-**There is new pricing for the Fall 2025 Semester.**
 
-Pricing:
+**Pricing:**
 
     36" x 24" : Bond $5.00, Coated $9.00
     36" x 48" : Bond $10.00, Coated $18.00
     36" x 60" : Bond $12.50, Coated $22.50
     36" x 72" : Bond $15.00, Coated $27.00
 
+Examples of Bond and Coated paper can be found at both plot shop locations. 
 
 Plot Shop hours are the same as the FabLab hours for each location. *Check in with FabLab staff first to get access to the plot shop.*
 
