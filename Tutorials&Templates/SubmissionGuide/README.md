@@ -48,7 +48,7 @@ This page has the guidelines for the following:
 
 ## 3. How to Purchase Material from the Lab for Laser Cutting
 
-* Students planning on buying material from the lab must submit a lasercutting job on the [Queue Job](https://www.nyit.edu/architecture/fabrication_labs/queue_job) page
+* Students planning on buying material from the lab must submit a lasercutting job on the [Queue Job](https://apps.nyit.edu/fabrication-labs/) page
 * Fill in the following information: 
   * Project Name
   * Project Number
@@ -70,7 +70,7 @@ This page has the guidelines for the following:
     
 ## 4. How to Submit 3D Print Files
 
-* Students must complete [account registration](https://www.nyit.edu/architecture/fabrication_labs/account_registration) to access the Queue Job page
+* Students must complete [account registration](https://apps.nyit.edu/fabrication-labs/) to access the Queue Job page
 
 * Review the lab's [3D Printing](https://digitalfabricationlab-nyit-soad.github.io/resources/3Dprinters/) page before submitting a file
   
@@ -78,7 +78,7 @@ This page has the guidelines for the following:
 
 **Any submitted files that do not comply with the rules of the process and standards page will be rejected.**
     
-* Open the [Queue Job](https://www.nyit.edu/architecture/fabrication_labs/queue_job) page and sign into your NYIT account
+* Open the [Queue Job](https://apps.nyit.edu/fabrication-labs/) page and sign into your NYIT account
 * Fill in the following information: 
   * Project Name
   * Project Number
