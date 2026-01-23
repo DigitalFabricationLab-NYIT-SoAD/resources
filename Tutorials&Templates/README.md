@@ -21,11 +21,9 @@
 
 3. [Slicing in Cura](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/CuraSlicer/)
 
-4. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/ETRglnfTnmZAlfToALh5_kABV97wEDuLndIVRO2uwKUcVQ?download=1)
+4. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/personal/ewilli14_nyit_edu/_layouts/15/embed.aspx?UniqueId=f9e4bb81-e4d2-4123-913c-428c82d0163b)
 
-5. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/personal/ewilli14_nyit_edu/_layouts/15/embed.aspx?UniqueId=f9e4bb81-e4d2-4123-913c-428c82d0163b)
-
-6. [3D Printing File Submission Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
+5. [3D Printing File Submission Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
 
 ### CNC Machining:
