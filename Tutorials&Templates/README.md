@@ -21,7 +21,7 @@
 
 3. [Slicing in Cura](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/CuraSlicer/)
 
-4. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/personal/ewilli14_nyit_edu/_layouts/15/embed.aspx?UniqueId=f9e4bb81-e4d2-4123-913c-428c82d0163b)
+4. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/personal/ewilli14_nyit_edu/_layouts/15/embed.aspx?download=1)
 
 5. [3D Printing File Submission Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
@@ -34,7 +34,7 @@
 
 3. [2D CNC Rhino Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/ETwWFqEtOZ5EmYm-21woEDQBZ4DsuVpxcuEa-ncv2RdPGw?download=1)  
 
-4.  [3D CNC Rhino Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EfUffYdItdtBjurNDv4ZxlcBrWgfC8iejX_Mu5OeOlaniw?download=1) 
+4. [3D CNC Rhino Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EfUffYdItdtBjurNDv4ZxlcBrWgfC8iejX_Mu5OeOlaniw?download=1) 
 
 5. [CNC Site Model Workshop Recording (ARCH202 - SP25)](https://nyinstituteoftechnology-my.sharepoint.com/:v:/g/personal/ewilli14_nyit_edu/EdjmjpAw0NZEiC3-bcRKN28BTQJUrvUyDDaRibH-zvWerw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KcRJBa)
 
