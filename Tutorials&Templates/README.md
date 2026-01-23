@@ -23,7 +23,7 @@
 
 4. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/ETRglnfTnmZAlfToALh5_kABV97wEDuLndIVRO2uwKUcVQ?download=1)
 
-5. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/my?listurl=%2Fpersonal%2Fewilli14%5Fnyit%5Fedu%2FDocuments&remoteItem=%7B%22mp%22%3A%7B%22webAbsoluteUrl%22%3A%22https%3A%2F%2Fnyinstituteoftechnology%2Dmy%2Esharepoint%2Ecom%2Fpersonal%2Fcronan%5Fnyit%5Fedu%22%2C%22listFullUrl%22%3A%22https%3A%2F%2Fnyinstituteoftechnology%2Dmy%2Esharepoint%2Ecom%2Fpersonal%2Fcronan%5Fnyit%5Fedu%2FDocuments%22%2C%22rootFolder%22%3A%22%2Fpersonal%2Fcronan%5Fnyit%5Fedu%2FDocuments%2FElijah%20Williams%27s%20files%20%2D%20OPENFORALL%22%7D%2C%22rsi%22%3A%7B%22listFullUrl%22%3A%22https%3A%2F%2Fnyinstituteoftechnology%2Dmy%2Esharepoint%2Ecom%2Fpersonal%2Fewilli14%5Fnyit%5Fedu%2FDocuments%22%2C%22rootFolder%22%3A%22%2Fpersonal%2Fewilli14%5Fnyit%5Fedu%2FDocuments%2FOPENFORALL%22%2C%22webAbsoluteUrl%22%3A%22https%3A%2F%2Fnyinstituteoftechnology%2Dmy%2Esharepoint%2Ecom%2Fpersonal%2Fewilli14%5Fnyit%5Fedu%22%7D%7D&id=%2Fpersonal%2Fewilli14%5Fnyit%5Fedu%2FDocuments%2FOPENFORALL%2FNYIT%5FDEFAULT%5Fv0%2E3%2Ecuraprofile&parent=%2Fpersonal%2Fewilli14%5Fnyit%5Fedu%2FDocuments%2FOPENFORALL?download=1)
+5. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQCBu-T50uQjQZE8QoyC0BY7AaUB_4iZZIc2D0dEOjk7uAo?e=fessfQ?download=1)
 
 6. [3D Printing File Submission Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
