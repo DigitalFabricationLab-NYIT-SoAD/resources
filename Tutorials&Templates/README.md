@@ -25,7 +25,7 @@
 
 5. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/personal/ewilli14_nyit_edu/_layouts/15/embed.aspx?UniqueId=f9e4bb81-e4d2-4123-913c-428c82d0163b)
 
-7. [3D Printing File Submission Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
+6. [3D Printing File Submission Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
 
 ### CNC Machining:
