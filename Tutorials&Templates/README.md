@@ -54,7 +54,7 @@
 
 Intro to CNC Machining
 
-[![2338eWk1sQU](https://www.youtube.com/watch?v=2338eWk1sQU/0.jpg)](https://www.youtube.com/watch?v=2338eWk1sQU)
+[![2338eWk1sQU](https://img.youtube.com/vi/2338eWk1sQU/0.jpg)](https://www.youtube.com/watch?v=2338eWk1sQU)
 
 SAVE TIME LASER CUTTING CURVES! How to Print from PDF
 
