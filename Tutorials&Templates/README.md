@@ -52,6 +52,10 @@
 
 ### *NEW!* Model Making Tutorial Videos: 
 
+Intro to CNC Machining
+
+[![2338eWk1sQU](https://www.youtube.com/watch?v=2338eWk1sQU/0.jpg)](https://www.youtube.com/watch?v=2338eWk1sQU)
+
 SAVE TIME LASER CUTTING CURVES! How to Print from PDF
 
 [![HeCzclJ-SXo](https://img.youtube.com/vi/HeCzclJ-SXo/0.jpg)](https://www.youtube.com/watch?v=HeCzclJ-SXo)
