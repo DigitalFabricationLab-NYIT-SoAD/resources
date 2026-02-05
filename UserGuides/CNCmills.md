@@ -11,7 +11,7 @@ UNITS OF SUBMITTED FILES: inches
 TYPICAL ACTUAL RUN TIME ON MACHINE: 1 – 3 hours 
 
 
-
+[![2338eWk1sQU](https://img.youtube.com/vi/2338eWk1sQU/0.jpg)](https://www.youtube.com/watch?v=2338eWk1sQU)
 
 
 ## Intro  
