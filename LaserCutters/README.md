@@ -34,7 +34,7 @@ Reminders:
   * The more a student prepares before their appointment, the more time can be spent laser cutting during their appointment.
   
 * Students are required to be finished cutting and cleaning up by the end of their appointment time.
-* Students may purchase a maximum of 10 sheets of material a day for their cut appointment(s). *For topography models that require many sheets of material, please purchase from elsewhere (Blick), then cut it down to size yourself using our large sheet material cutters outside the lab.*
+* Students may purchase a maximum of 6 sheets of material a day for their cut appointment(s). *For topography models that require many sheets of material, please purchase from elsewhere (Blick), then cut it down to size yourself using our large sheet material cutters outside the lab.*
   
 **Cancellations / No-Shows**
 
