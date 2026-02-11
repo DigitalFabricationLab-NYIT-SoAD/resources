@@ -38,7 +38,7 @@ This page has the guidelines for the following:
 
 * The lab recommends students to fully review the the [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) page *before* attending their first Laser Cutting Appointment
 
-* Appointments are 25 minutes long
+* Appointments are 30 minutes long
   
 * Sign-ups open 7 days beforehand
   
@@ -62,7 +62,6 @@ This page has the guidelines for the following:
   * Laser Cutter – Material purchase *only* (does not reserve a laser appointment - appointments must be made on [EZ Book](https://new.ezbook.com/NYIT))
 * Select material (available while supplies last - students are limited to purchasing 6 sheets of material per appointment)
   * 2-Ply Chipboard (32 x 20 x 1/16 in / $2.00)
-  * 4-Ply Chipboard (32 x 20 x 1/8 in / $4.00) **[MA - SOLD OUT]**
   * 2-Ply White Matboard (32 x 20 x 1/16 in / $5.00)
   * 100 lb White Bristol Board (24 x 19 in / $2.00)
 * Upload your file
