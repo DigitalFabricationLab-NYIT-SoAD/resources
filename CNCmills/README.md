@@ -106,9 +106,9 @@ Come into the lab to ask about our recommended material vendors in the area
 * [Templates and Tutorials](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/)
 
 * Material Availability (MA): 
-   * 3/4" Baltic Birch plywood (4 sheets), 48" x 48": $82 
-   * 1" AC Pine plywood (2 sheets), 32" x 48": $36
-   * 1" AC Pine plywood (2 sheets), 32" x 22": $18
+   * 3/4" Baltic Birch plywood, 48" x 48": $82 
+   * 1" AC Pine plywood, 32" x 48": $36
+   * 1" AC Pine plywood, 32" x 22": $18
 
 * Material Availability (OW): out of stock
  
