@@ -10,7 +10,9 @@
 
 5. [Laser Cutting Simulation (OW)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/EWVpWGshp01PsMZGDyc8gaQBK8thXYI_1R-DZo8-2cqTNw?download=1)
 
-6. [Laser Cutting FUSION PRO Simulation (OW)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/EaENrNLrRmlCtoQhwGldFNYB2znpfcVPSUlPJAlPRwVYXQ?download=1) 
+6. [Laser Cutting FUSION PRO Simulation (OW)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/EaENrNLrRmlCtoQhwGldFNYB2znpfcVPSUlPJAlPRwVYXQ?download=1)
+   
+7. [Waffle Modeling Grasshopper Script](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQBnQdvtKZiNQYbSmpPQEliPATk1yFJh0d7qcp6QZR3r9k4?download=1) 
 
    
 ### 3D Printing:
