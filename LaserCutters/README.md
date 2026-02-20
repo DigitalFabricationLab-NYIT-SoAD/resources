@@ -73,6 +73,12 @@ Reminders:
 ## Laser Cutting Helpful Resources
 
 * [Templates / Tutorials Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/)
+  
+* Want to make a model that looks like this? ↓
+  
+  ![waffle](https://github.com/user-attachments/assets/9fa8418c-ab1e-4dc3-88cd-f9cedbc818db)
+
+  Try this [waffle modeling grasshopper script](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQBnQdvtKZiNQYbSmpPQEliPATk1yFJh0d7qcp6QZR3r9k4?download=1)
 
 ___
   
