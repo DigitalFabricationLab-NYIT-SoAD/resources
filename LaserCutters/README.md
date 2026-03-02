@@ -66,7 +66,7 @@ Reminders:
 
 * We recommend all students to use the [Laser Cutting Template](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/) when prepping for laser appointments.
   
-* Students who are laser cutting for the first time should review the *Laser Cutting Simulation* for machines on their campus: [NYC](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/EYjUk_cku9xApmUVwOmet8QBbQx3i4ZM_ObMpJs9Plumrg?download=1) / [OW](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/EWVpWGshp01PsMZGDyc8gaQBK8thXYI_1R-DZo8-2cqTNw?download=1) 
+* Students who are laser cutting for the first time should review the *Laser Cutting Simulation* for machines on their campus: [NYC](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/IQCI1JP3JLvcQKZlFcDpnrfEAW0Md4uGTPzmzKSbPT5bpq4?download=1) / [OW](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/IQBlaVhrIadNT7DGRg8nPIGkASvLYV2CP9Ufg2aPPtnKkzc?download=1) 
 
 * All appointment scheduling links are on the [Appointments and File Submissions Page](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
