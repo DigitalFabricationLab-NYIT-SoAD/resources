@@ -6,7 +6,7 @@ To begin this process, students must have three things prepared: 1.) stock mater
 
 * All first-timers MUST follow the following procedure with a staff member or qualified student worker in order to be trained on the machine. *It is the student's responsibility to alert a staff member to obtain this training.*
 
-* For ALL Carvey jobs, *it is the student's responsibility* to alert a staff member or qualified worker to 1.) **double check CAM programming and setup** before cutting and 2.) **be present** at the start of the cut. 
+* For ALL Carvey jobs, *it is the student's responsibility* to alert a staff member or qualified worker to 1.) **double check CAM programming and setup** before cutting and 2.) **monitor the machine while the job is running.** 
 
 ## 1. Stock Setup 
 
