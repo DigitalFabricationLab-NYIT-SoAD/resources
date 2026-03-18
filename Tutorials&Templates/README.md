@@ -2,7 +2,7 @@
 
 ### Laser Cutting:
 
-1. [Laser Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EQEFIA9WVxtDk00xBGfe5CoBPNOniP2MM5DV3epHY_G6sg?download=1)
+1. [Laser Template (Rhino)](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EQEFIA9WVxtDk00xBGfe5CoBPNOniP2MM5DV3epHY_G6sg?download=1) / [Laser Template (Illustrator)](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQAoyJXb9PffRLJSrVcxS0BkAWf1q8tUTdqCepZqKdPe3zw?download=1)
    
 3. [Laser Appointment Sign-up / Purchasing Material Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
