@@ -13,4 +13,8 @@ Connect to RhinoCAM License:
 
 * IP Address or Name: lm1.ad.nyit.edu 
 
-* Server Port #: 27001 
+* Server Port #: 27001
+
+Material Conversions for 3D Printing
+* PETG: 1m = 8.1g
+* PLA: 1m = 7.94g
