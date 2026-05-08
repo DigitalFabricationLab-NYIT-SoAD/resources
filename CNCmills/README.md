@@ -68,18 +68,24 @@ Students are responsible for providing their own stock material for cutting. Wor
 * Wood
    * Hardwood (*not* dimensional lumber like 2x4's, 4x4's, etc.)
    * Plywood (comes in various grades, consult with CNC Technician *before* purchasing)
+   * Max cut depth: 3"
 * Foam
    * Extruded polystyrene (XPS) (purple/pink insulation foam) (Available for purchase at Home Depot, Lowe's, etc.) 
    * HDU (High Density Urethane) (Available for purchase at The Compleat Sculptor on 6th Ave and 19th Street) 
       * Low Density - pink / salmon
       * Mid Density - beige
       * High Density - pale green
+  * Max cut depth: 4 1/2"
+    
 * Plastics
    * Acrylic
    * Many types of plastics that *cannot* be cut on the laser cutter *can* be cut on the CNC
+   * Max cut depth: 2"
 
 If you are gluing up sheets of material to reach the desired stock thickness, *the glue must be completely dry before your Cut Appointment.*  
  
+Maximum material thickness: 6" (Max cut depths vary per material, see above)
+
 Come into the lab to ask about our recommended material vendors in the area
 
 ***Still unsure or want to learn more about CNC machining? Book a CAM Appointment via [EZBook](https://new.ezbook.com/NYIT)***
