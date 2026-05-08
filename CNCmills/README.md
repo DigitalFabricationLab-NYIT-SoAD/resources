@@ -75,7 +75,7 @@ Students are responsible for providing their own stock material for cutting. Wor
       * Low Density - pink / salmon
       * Mid Density - beige
       * High Density - pale green
-  * Max cut depth: 4 1/2"
+   * Max cut depth: 4 1/2"
     
 * Plastics
    * Acrylic
