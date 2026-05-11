@@ -80,7 +80,7 @@ Students are responsible for providing their own stock material for cutting. Wor
 * Plastics
    * Acrylic
    * Many types of plastics that *cannot* be cut on the laser cutter *can* be cut on the CNC
-   * Max cut depth: 2"
+   * Max cut depth: 1"
 
 If you are gluing up sheets of material to reach the desired stock thickness, *the glue must be completely dry before your Cut Appointment.*  
  
