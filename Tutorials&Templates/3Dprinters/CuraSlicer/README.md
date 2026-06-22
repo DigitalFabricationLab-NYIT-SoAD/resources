@@ -38,7 +38,7 @@ The goal of this guide is to let you investigate the time and results of your pr
 
 **3. Import the most up to date settings profile provided by NYIT Fab Lab.**
 
-* Download Current file: [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQCBu-T50uQjQZE8QoyC0BY7AWKzw05h4S5XZQgU3YVRabM?download=1)
+* Download Current file: [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/afinke05_nyit_edu/IQDTfLT5VIQYRaUodKIx5VeQAespPdvui_i8uxr8AGZgJwk?download=1)
 
 		Import Setting and use it to "Slice" your model
 
