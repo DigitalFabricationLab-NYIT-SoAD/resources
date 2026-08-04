@@ -17,4 +17,4 @@ Material Conversions for 3D Printing:
 
 Carvey
 
-* [CNCjs v1.11.2](https://github.com/cncjs/cncjs/releases)
+* [CNCjs v1.11.2](https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-windows-x64.exe)
