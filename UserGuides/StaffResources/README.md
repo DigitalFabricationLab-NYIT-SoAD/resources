@@ -14,3 +14,7 @@ Connect to RhinoCAM License:
 Material Conversions for 3D Printing:
 * PETG: 1m = 8.1g
 * PLA: 1m = 7.94g
+
+Carvey
+
+* [CNCjs v1.11.2](https://github.com/cncjs/cncjs/releases)
