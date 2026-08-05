@@ -87,7 +87,7 @@ Before starting the file, we will manually tell the machine where the material h
 
 The drop-down bar underneath the units drop-down bar ("G20 (Inch)") determines how far the tool will move with each click. ***Set this to 0.1 in when moving in the X or Y axis. Set to 0.01 in when moving in the Z axis.*** You can adjust this value quickly by using the + - keys below. 
 
-*IMPORTANT: Failing to change this value from the program default or to adjust when moving the bit up and down (Z axis) can cause you to overshoot and crash the machine!*
+*IMPORTANT: Failing to change this value from the program default or to adjust when moving the bit up and down (Z axis) can cause you to overshoot and crash the machine, something we want to avoid!*
 
 Using the computer keyboard (hover over keyboard icon to view shortcuts), and without crashing the tool into the material, spoilboard, or sides (limits) of the machine itself, navigate the tool to where you want the origin of your part to start.
 
