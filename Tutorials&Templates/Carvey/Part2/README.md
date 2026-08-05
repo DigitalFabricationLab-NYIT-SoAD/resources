@@ -117,6 +117,7 @@ Click the blue "Upload G-code" button at the upper left corner of the window and
 
 <img width="300" height="200" alt="pt2_6" src="https://github.com/user-attachments/assets/b853fdbe-f36f-41f8-b042-4a0474eb88bf" />
 
+update test 
 
 ## 7. Start Job 
 
