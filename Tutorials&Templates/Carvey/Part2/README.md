@@ -122,7 +122,7 @@ Click the blue "Upload G-code" button at the upper left corner of the window and
 
 Use the icons in the lower left of the 3D preview window to change your view of the toolpaths: 
 
-<img width="518" height="253" alt="pt2_7" src="https://github.com/user-attachments/assets/5682a44a-40cd-4b96-a416-19a5657ec7f1" />
+<img width="725" height="331" alt="pt2_7" src="https://github.com/user-attachments/assets/c0d55062-e707-4ee2-b280-747db1e07251" />
 
 Double check that the toolpaths that appear in CNCjs's 3D preview window look like the toolpaths that were generated in FreeMILL and that they start at X, Y, Z zero.
 
