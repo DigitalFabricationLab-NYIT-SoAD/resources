@@ -5,9 +5,7 @@
 Reminders: 
 
 * Students are responsible for file setup and machine operation. Students should check in with a staff member or qualified student worker when using the machine for the first time in order to verify programmed files and obtain in-person training. 
-
-* Students will run [gSender](https://sienci.com/gsender/?srsltid=AfmBOorix9vvRB6lHw--0FJkMFbHveEQ-IJ-zYPYso9l_wRc6BgCQQ-j) from their personal, USB-compatible laptop in order to run the machine. If your laptop has only USB-C connections, you will need to bring your own USB to USB-C adapter to make this connection. 
-   
+ 
 
 
 ## General Overview and Safety 
@@ -33,7 +31,7 @@ Reminders:
 
 [PART 1: How to Set Up a CNC File Using Rhino FreeMILL](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/Part1/) 
 
-[PART 2: How to Run a Job on Carvey Using gSender](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/Part2/)
+[PART 2: How to Run a Job on Carvey Using CNCjs](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/Part2/)
  
 
 ## Additional Resources 
