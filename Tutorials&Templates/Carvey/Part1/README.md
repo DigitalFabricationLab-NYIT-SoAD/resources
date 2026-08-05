@@ -81,6 +81,6 @@ Click "Simulate" to view a rendering of the milled model.
 
 After you click save, an .nc file should pop up. That file is the code that Carvey will read to run your file.  
 
-[Click here to jump to PART 2: How to Run a Job on Carvey Using gSender](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/Part2/)  
+[Click here to jump to PART 2: How to Run a Job on Carvey Using CNCjs](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/Part2/)  
 
 [back to top](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/Part1/)
