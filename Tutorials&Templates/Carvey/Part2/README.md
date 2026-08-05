@@ -1,6 +1,6 @@
 # PART 2: How to Run a Job on Carvey Using gSender  
 
-To begin this process, students must have three things prepared: 1.) stock material (XPS or HDU foam), 2.) a laptop with gSender installed and with USB compatibility, and 3.) the .nc file from Part 1 saved on that laptop.  
+At this point, students must have their stock material (XPS or HDU foam), cut down (if needed) to a size that will fit in the machine and the .nc file from Part 1  
 
 **IMPORTANT REMINDERS:**  
 
@@ -22,15 +22,24 @@ Use the grid lines on the bed to ensure that the piece is oriented properly (squ
  
 ![4_stock_loaded](https://github.com/user-attachments/assets/7f54b4fe-9367-44c6-858b-407671da50f5)
 
-## 2. Connecting to Carvey 
+## 2. Power on Carvey, Open CNCjs, Connect to Machine 
 
-Plug the USB cord into your laptop and turn the machine on. 
+Turn Carvey on (switch in the back near where the power cord comes out), the silver connection button on the lower right corner of the machine should be glowing blue. 
 
-Open gSender. In the top left corner of the screen, click the dropdown box that says "Connect to Machine" and select the device (there should only be one to choose from). 
+Using the Carvey station desktop computer, download then open [v1.11.2 of the CNCjs app](https://github.com/cncjs/cncjs/releases/download/v1.11.2/cncjs-app-1.11.2-windows-x64.exe)  
 
-If you have difficulty connecting to the machine, alert a staff member and we can help you troubleshoot. 
+In CNCjs, find the Connection panel on the left side.  
 
-![1_gsender_open](https://github.com/user-attachments/assets/78988531-0897-497e-9405-56887921f450)
+Under "Port," click the drop-down box and select *COM3 – Manufacturer: FDTI*.  
+
+* Note: If the port doesn't show up, verify the machine is on and click the refresh button (two arrows in a circle) 
+
+Check the box that says " Set DTR line status upon opening" 
+
+Click the blue "Open" button below. The Connection panel should now look like this:
+
+<img width="349" height="420" alt="pt2_2_1" src="https://github.com/user-attachments/assets/57e32da1-e2ff-45e1-89f4-72dd8fc51c77" />
+
 
 ## 3. Unlock Machine 
 
