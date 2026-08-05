@@ -129,9 +129,9 @@ Double check that the toolpaths that appear in CNCjs's 3D preview window look li
 
 Then click play! 
 
-<img width="500" height="275" alt="pt2_7_2" src="https://github.com/user-attachments/assets/5fe3e675-e94f-45a4-8fa2-9d513355c136" />
+<img width="500" height="250" alt="pt2_7_2" src="https://github.com/user-attachments/assets/5fe3e675-e94f-45a4-8fa2-9d513355c136" />
 
-image test 3
+image test 4
 
 ## 8. Running 
 
@@ -141,9 +141,9 @@ Congrats! You're now cutting with Carvey Mini CNC!
 
 This is what CNCjs will look like while you are cutting:  
 
-<img width="500" height="250" alt="7_3" src="https://github.com/user-attachments/assets/2315e44c-0ae6-42d4-a18d-8bcfdb141490" />
+<img width="500" height="225" alt="7_3" src="https://github.com/user-attachments/assets/2315e44c-0ae6-42d4-a18d-8bcfdb141490" />
 
-image test3
+image test4
 
 NEVER open the door while the machine is running: 1.) It could be dangerous and 2.) You will lose progress in your cut and have to start over. Instead press pause if you see an issue and alert a staff member for help.
 
