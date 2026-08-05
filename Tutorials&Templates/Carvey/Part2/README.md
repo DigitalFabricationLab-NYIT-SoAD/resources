@@ -81,7 +81,7 @@ The values in the "Work Position" column may be different than above, but the "M
 
 You can also select the keyboard icon at the top next to "MDI," which makes it easier to jog the machine with the keyboard arrow keys.
 
-## 5. Setting X, Y, amd Z Zero
+## 5. Setting X, Y, and Z Zero
 
 Before starting the file, we will manually tell the machine where the material has been placed on the spoilboard. To do this, we will *jog* (move the bit without cutting material) the tool to corner of the stock (or the corner of the start of the geometry within the stock) and then save this location as zero in the "Work Position" column of CNCjs. 
 
