@@ -79,7 +79,7 @@ When the machine stops moving and homing is finished, the Axes panel on the righ
 
 The values in the "Work Position" column may be different than above, but the "Machine Position" values should be the same
 
-You can also select the keyboard icon at the top next to "MDI," which makes it easier to jog the machine with the keyboard arrow keys.
+You can also select the keyboard icon at the top next to "MDI," which will make it easier to jog the machine with the keyboard arrow keys.
 
 ## 5. Setting X, Y, and Z Zero
 
