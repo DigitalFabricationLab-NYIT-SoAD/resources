@@ -1,8 +1,8 @@
 # PART 1: How to Set Up a CNC File Using Rhino FreeMILL  
 
-To begin this setup process and to access FreeMILL, students should already have RhinoCAM installed on their computer. 
+Students can access FreeMILL from the Carvey station Fab Lab computer or from their personal laptops. 
 
-*Remember, **You do NOT need to pay for a full RhinoCAM license to run FreeMILL**, but you WILL be downloading and installing the same program as the paid version.*
+Information for how to install the plugin to personal computers can be found at the bottom of the [main Carvey Mini CNC page](https://digitalfabricationlab-nyit-soad.github.io/resources/CarveyMiniCNC/) 
 
 ## 1. Open Rhino File, Run FreeMILL, Set Cutting Direction 
 
