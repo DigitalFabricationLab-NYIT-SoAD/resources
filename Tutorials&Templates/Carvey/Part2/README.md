@@ -1,6 +1,6 @@
 # PART 2: How to Run a Job on Carvey Using gSender  
 
-At this point, students must have their stock material (XPS or HDU foam), cut down (if needed) to a size that will fit in the machine and the .nc file from Part 1  
+At this point, students must have the .nc file from Part 1 and their stock material (XPS or HDU foam), cut down (if needed) to a size that will fit in the machine.   
 
 **IMPORTANT REMINDERS:**  
 
