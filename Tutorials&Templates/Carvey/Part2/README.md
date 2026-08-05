@@ -115,22 +115,23 @@ The values in the Work Position column should now read 0, 0, 0:
 
 Click the blue "Upload G-code" button at the upper left corner of the window and select the gcode (.nc file) you posted from FreeMILL 
 
-<img width="400" height="300" alt="pt2_6" src="https://github.com/user-attachments/assets/b853fdbe-f36f-41f8-b042-4a0474eb88bf" />
+<img width="500" height="400" alt="pt2_6" src="https://github.com/user-attachments/assets/b853fdbe-f36f-41f8-b042-4a0474eb88bf" />
 
-update test 2
+update test 3
 
 ## 7. Start Job 
 
 Use the icons in the lower left of the 3D preview window to change your view of the toolpaths: 
 
-<img width="725" height="331" alt="pt2_7" src="https://github.com/user-attachments/assets/c0d55062-e707-4ee2-b280-747db1e07251" />
+<img width="500" height="100" alt="pt2_7" src="https://github.com/user-attachments/assets/c0d55062-e707-4ee2-b280-747db1e07251" />
 
 Double check that the toolpaths that appear in CNCjs's 3D preview window look like the toolpaths that were generated in FreeMILL and that they start at X, Y, Z zero.
 
 Then click play! 
 
-<img width="1057" height="627" alt="pt2_7_2" src="https://github.com/user-attachments/assets/5fe3e675-e94f-45a4-8fa2-9d513355c136" />
+<img width="500" height="200" alt="pt2_7_2" src="https://github.com/user-attachments/assets/5fe3e675-e94f-45a4-8fa2-9d513355c136" />
 
+image test
 
 ## 8. Running 
 
@@ -140,7 +141,9 @@ Congrats! You're now cutting with Carvey Mini CNC!
 
 This is what CNCjs will look like while you are cutting:  
 
-<img width="1451" height="726" alt="7_3" src="https://github.com/user-attachments/assets/2315e44c-0ae6-42d4-a18d-8bcfdb141490" />
+<img width="500" height="300" alt="7_3" src="https://github.com/user-attachments/assets/2315e44c-0ae6-42d4-a18d-8bcfdb141490" />
+
+image test
 
 NEVER open the door while the machine is running: 1.) It could be dangerous and 2.) You will lose progress in your cut and have to start over. Instead press pause if you see an issue and alert a staff member for help.
 
