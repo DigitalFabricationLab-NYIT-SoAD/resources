@@ -43,74 +43,120 @@ Click the blue "Open" button below. The Connection panel should now look like th
 
 ## 3. Unlock Machine 
 
-Carvey is only operational when the door of the machine is fully closed. Every time the door is opened, you must re-establish connection between Carvey the machine and gSender, the driver or "remote control" system that operates it.  
+Initially there will be an error code in the upper left of the screen:
 
-To do this, with the door closed, first press the blue button on Carvey (pictured below) 
+<img width="146" height="37" alt="pt2_3_1" src="https://github.com/user-attachments/assets/24f9cdeb-53f9-46fa-90b1-ba9e602725f3" />
+
+Click the gold unlock button in the upper right corner: 
+
+<img width="330" height="45" alt="3_2" src="https://github.com/user-attachments/assets/ac1acf2a-6de0-4183-a1cc-ad38dcf58793" />
+
+The status should now read "Idle":
+
+<img width="137" height="38" alt="3_3" src="https://github.com/user-attachments/assets/a3022d67-119a-4e9b-ba9a-23ca4b6427cb" />
+
+Now that connection has been established and controls are unlocked so that the machine is in idle, you will be able to jog, set zero, navigate to zero, and run jobs.
+
+There is another status code to know when using Carvey, it looks like this:
+
+<img width="127" height="37" alt="3_4" src="https://github.com/user-attachments/assets/19d55b42-7952-4304-8c8f-bdb1350a80c9" />
+
+Like it suggests, this means that the door is open or has been opened. Carvey will only move when the door of the machine is fully closed and error codes have been resolved.  
+
+To reconnect to CNCjs, make sure the door is fully closed, then press the silver connection button in the lower left corner of the machine and the status should read "Idle" again:
 
 ![5_stock_loaded_blue_button](https://github.com/user-attachments/assets/0387fd4c-6126-48f3-89d1-51db1d18750a)
 
-Next, unlock the machine controls in gSender by clicking the brown unlock button near the upper left corner of the screen. When connection is established and gSender is unlocked, you can then jog, set zero, navigate to zero, and run jobs. 
+## 4. Configure CNCjs and Home Machine
 
-![2_connect_and_unlock](https://github.com/user-attachments/assets/247372f4-0bf3-48ec-b66e-dcca4e57f7e6)
+In the "Axes" panel on the right side, click the "G21 (mm)" drop down and select "G20 (inch)" to set the program to inches.
 
-## 4. Setting X, Y, and Z zero 
+Click the blue "Homing" button in the upper right and allow the spindle to move to the lower left hand corner of the spoil board. 
 
-Using your computer keyboard (and the shortcuts you set up from the [gSender Configuration Best Practices](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/gSenderConfig/) guide), navigate the tool to where you want the origin of your part to start. 
+When the machine stops moving and homing is finished, the Axes panel on the right side of the screen will look like this:
 
-Remember: this is where the WORK ZERO coordinates system was placed in Step 3 of Part 1 (Southwest, Highest Z).  
+<img width="349" height="388" alt="4_1" src="https://github.com/user-attachments/assets/0d600890-9cf5-4e9d-bae2-851efa3cb4e1" />
 
-When jogging, be careful not to plunge the tool into your stock! 
+The values in the "Work Position" column may be different than above, but the "Machine Position" values should be the same
+
+You can also select the keyboard icon at the top next to "MDI," which makes it easier to jog the machine with the keyboard arrow keys.
+
+## 5. Setting X, Y, amd Z Zero
+
+Before starting the file, we will manually tell the machine where the material has been placed on the spoilboard. To do this, we will *jog* (move the bit without cutting material) the tool to corner of the stock (or the corner of the start of the geometry within the stock) and then save this location as zero in the "Work Position" column of CNCjs. 
+
+The drop-down bar underneath the units drop-down bar ("G20 (Inch)") determines how far the tool will move with each click. ***Set this to 0.1 in when moving in the X or Y axis. Set to 0.01 in when moving in the Z axis.*** You can adjust this value quickly by using the + - keys below. 
+
+*IMPORTANT: Failing to change this value from the program default or to adjust when moving the bit up and down (Z axis) can cause you to overshoot and crash the machine!*
+
+Using the computer keyboard (hover over keyboard icon to view shortcuts), and without crashing the tool into the material, spoilboard, or sides (limits) of the machine itself, navigate the tool to where you want the origin of your part to start.
+
+Remember: this is where the WORK ZERO coordinates system was placed in Step 3 of Part 1 (Southwest, Highest Z).
 
 ![7_set_part_zero](https://github.com/user-attachments/assets/46b1a184-c8f3-453d-b8b3-957b3666ef67)
 
 The red rectangle indicates where our part will fit within our (intentionally slightly oversized) stock material.
 
-Note that we are zeroing the tool at a location set into the stock a bit and not at the exact corner of the foam. 
-This is because we will trim out the object on the band saw later to give it cleaner edges. 
+In this example, we are not zeroing the tool at the exact corner of the foam because we are planning to trim out the object on the band saw later to give it cleaner edges.
 
-Always double check your stock and object measurements to ensure that you are placing the origin of your part appropriately, so your object fits within your stock on all sides. 
+Always double check your stock and object measurements in Rhino to ensure that the origin is situated appropriately, so your object fits within your stock on all sides.
 
-When you are satisfied with the location of your tool/part origin, click "Zero X," "Zero Y," and "Zero Z" (or "Zero All") to set this location as zero. 
+When you are satisfied with the location of your tool over the part origin, click the drop-down arrow next to "Work Position" and click "Zero Out Work Offsets (G10 L20 P1 X0 Y0 Z0)"
 
-![3_stock_location_set_zeroes](https://github.com/user-attachments/assets/7d46f2a8-97f7-4cb4-9e87-982cd1f0d2bb)
+<img width="347" height="396" alt="5_1" src="https://github.com/user-attachments/assets/869497d1-ffc5-43be-823d-8438cc714353" />
 
-## 5. Load File 
+The values in the Work Position column should now read 0, 0, 0:
 
-Click "Load File" at the lower left corner of the window and select the gcode (.nc file) you posted from FreeMILL 
+<img width="327" height="218" alt="5_2" src="https://github.com/user-attachments/assets/19e0dd99-04f8-4232-8fc6-7428730e42cf" />
 
-![4_load_file](https://github.com/user-attachments/assets/a0f2a2cc-167d-44af-bc79-ed071fda8c38)
 
-## 6. Start Job 
 
-Double check that the toolpaths that appear in gSender's 3D preview window look like the toolpaths that were generated in FreeMILL and that they start at X, Y, Z zero. 
+## 6. Load File 
 
-Then click "Start Job"! 
+Click the blue "Upload G-code" button at the upper left corner of the window and select the gcode (.nc file) you posted from FreeMILL 
 
-![5_start_job](https://github.com/user-attachments/assets/5a1fe898-7c6b-4148-8c99-45ec21f4889a)
+<img width="621" height="521" alt="pt2_6" src="https://github.com/user-attachments/assets/b853fdbe-f36f-41f8-b042-4a0474eb88bf" />
 
-## 7. Running 
+
+## 7. Start Job 
+
+Use the icons in the lower left of the 3D preview window to change your view of the toolpaths: 
+
+<img width="518" height="253" alt="pt2_7" src="https://github.com/user-attachments/assets/5682a44a-40cd-4b96-a416-19a5657ec7f1" />
+
+Double check that the toolpaths that appear in CNCjs's 3D preview window look like the toolpaths that were generated in FreeMILL and that they start at X, Y, Z zero.
+
+Then click play! 
+
+<img width="1057" height="627" alt="pt2_7_2" src="https://github.com/user-attachments/assets/5fe3e675-e94f-45a4-8fa2-9d513355c136" />
+
+
+## 8. Running 
 
 Congrats! You're now cutting with Carvey Mini CNC! 
 
 ![8_running](https://github.com/user-attachments/assets/873a45fb-644e-4393-853f-a17f40ae1e9f)
 
-This is what gSender will look like while you are cutting:  
+This is what CNCjs will look like while you are cutting:  
 
-![6_running](https://github.com/user-attachments/assets/4003fa1d-2a76-4576-8346-59587f0ea0d7)
+<img width="1451" height="726" alt="7_3" src="https://github.com/user-attachments/assets/2315e44c-0ae6-42d4-a18d-8bcfdb141490" />
 
-## 8. File Complete 
+NEVER open the door while the machine is running: 1.) It could be dangerous and 2.) You will lose progress in your cut and have to start over. Instead press pause if you see an issue and alert a staff member for help.
 
-When your file is finished cutting, the tool will move back to the origin and you will see this pop-up window: 
 
-![7_complete](https://github.com/user-attachments/assets/51387284-2a4b-4a13-8785-3b32fdab931b)
+For safety reasons, students must stay with the machine the entire time the job is running. If there is a problem or emergency, press pause *first*, then alert a staff member
 
-Jog the tool out of the way, then open the door to retrieve your part. 
+## 9. File Complete 
 
+When your file is finished cutting, the tool will move back to the origin you set, bit will stop spinning and the status in the upper left will return to "Idle." 
+
+This means it's now safe to open the door and retrieve your part.
+ 
 ![9_clean_up](https://github.com/user-attachments/assets/7ab02113-e6a0-4014-a0bd-a33a6c3c53af)
 
 Don't forget to **clean up the interior of the machine** using one of the shop vacuums and **put away all tools** when finished. 
 
-## 9. Finishing/Trimming Your Model 
+## 10. Finishing/Trimming Your Model 
 
 Here is what the part will look like when it comes off the mill: 
 
