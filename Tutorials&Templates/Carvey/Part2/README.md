@@ -115,9 +115,9 @@ The values in the Work Position column should now read 0, 0, 0:
 
 Click the blue "Upload G-code" button at the upper left corner of the window and select the gcode (.nc file) you posted from FreeMILL 
 
-<img width="621" alt="pt2_6" src="https://github.com/user-attachments/assets/80fbb0a2-5cc3-4ad0-b60a-0e14f8de06dd" />
- 
-8/6/26
+<img width="997" alt="pt2_6" src="https://github.com/user-attachments/assets/fc7595e8-c507-4aa6-9dc5-1d93e684df6d" />
+
+8/6/26 - 2
 
 ## 7. Start Job 
 
