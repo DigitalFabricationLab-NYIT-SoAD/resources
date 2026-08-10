@@ -40,7 +40,7 @@ Click the blue "Open" button below. The Connection panel should now look like th
 
 ![2](/assets/images/2.png) 
 
-8/10/26
+8/10/26 - 2
 
 ## 3. Unlock Machine 
 
