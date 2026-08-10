@@ -135,7 +135,7 @@ Congrats! You're now cutting with Carvey Mini CNC!
 
 ![8_running](https://github.com/user-attachments/assets/873a45fb-644e-4393-853f-a17f40ae1e9f)
 
-This is what CNCjs will look like while you are cutting:  
+This is what CNCjs will look like while you are cutting, the status code will say "Run":  
 
 ![8](/resources/assets/images/8.png)
 
