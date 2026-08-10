@@ -40,6 +40,7 @@ Click the blue "Open" button below. The Connection panel should now look like th
 
 ![2](./Tutorials&Templates/Carvey/Part2/2.png)
 
+8/10/26
 
 ## 3. Unlock Machine 
 
@@ -117,23 +118,17 @@ Click the blue "Upload G-code" button at the upper left corner of the window and
 
 ![6](/Tutorials&Templates/Carvey/Part2/6.png)
 
-8/10/26
-
 ## 7. Start Job 
 
 Use the icons in the lower left of the 3D preview window to change your view of the toolpaths: 
 
 ![7-1](/Tutorials&Templates/Carvey/Part2/7-1.png)
 
-8/10/26
-
 Double check that the toolpaths that appear in CNCjs's 3D preview window look like the toolpaths that were generated in FreeMILL and that they start at X, Y, Z zero.
 
 Then click play! 
 
 ![7-2](/Tutorials&Templates/Carvey/Part2/7-2.png)
-
-8/10/26
 
 ## 8. Running 
 
@@ -144,8 +139,6 @@ Congrats! You're now cutting with Carvey Mini CNC!
 This is what CNCjs will look like while you are cutting:  
 
 ![8](/Tutorials&Templates/Carvey/Part2/8.png)
-
-8/6/26
 
 NEVER open the door while the machine is running: 1.) It could be dangerous and 2.) You will lose progress in your cut and have to start over. Instead press pause if you see an issue and alert a staff member for help.
 
