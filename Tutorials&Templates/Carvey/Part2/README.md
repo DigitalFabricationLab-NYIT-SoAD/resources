@@ -38,28 +38,28 @@ Check the box that says " Set DTR line status upon opening"
 
 Click the blue "Open" button below. The Connection panel should now look like this:
 
-<img width="349" height="420" alt="pt2_2_1" src="https://github.com/user-attachments/assets/57e32da1-e2ff-45e1-89f4-72dd8fc51c77" />
+![2](/Tutorials&Templates/Carvey/Part2/2.png)
 
 
 ## 3. Unlock Machine 
 
 Initially there will be an error code in the upper left of the screen:
 
-<img width="146" height="37" alt="pt2_3_1" src="https://github.com/user-attachments/assets/24f9cdeb-53f9-46fa-90b1-ba9e602725f3" />
+![3-1](/Tutorials&Templates/Carvey/Part2/3-1.png)
 
 Click the gold unlock button in the upper right corner: 
 
-<img width="330" height="45" alt="3_2" src="https://github.com/user-attachments/assets/ac1acf2a-6de0-4183-a1cc-ad38dcf58793" />
+![3-2](/Tutorials&Templates/Carvey/Part2/3-2.png)
 
 The status should now read "Idle":
 
-<img width="137" height="38" alt="3_3" src="https://github.com/user-attachments/assets/a3022d67-119a-4e9b-ba9a-23ca4b6427cb" />
+![3-3](/Tutorials&Templates/Carvey/Part2/3-3.png)
 
 Now that connection has been established and controls are unlocked so that the machine is in idle, you will be able to jog, set zero, navigate to zero, and run jobs.
 
 There is another status code to know when using Carvey, it looks like this:
 
-<img width="127" height="37" alt="3_4" src="https://github.com/user-attachments/assets/19d55b42-7952-4304-8c8f-bdb1350a80c9" />
+![3-4](/Tutorials&Templates/Carvey/Part2/3-4.png)
 
 Like it suggests, this means that the door is open or has been opened. Carvey will only move when the door of the machine is fully closed and error codes have been resolved.  
 
@@ -75,7 +75,7 @@ Click the blue "Homing" button in the upper right and allow the spindle to move 
 
 When the machine stops moving and homing is finished, the Axes panel on the right side of the screen will look like this:
 
-<img width="349" height="388" alt="4_1" src="https://github.com/user-attachments/assets/0d600890-9cf5-4e9d-bae2-851efa3cb4e1" />
+![4](/Tutorials&Templates/Carvey/Part2/4.png)
 
 The values in the "Work Position" column may be different than above, but the "Machine Position" values should be the same
 
@@ -103,11 +103,11 @@ Always double check your stock and object measurements in Rhino to ensure that t
 
 When you are satisfied with the location of your tool over the part origin, click the drop-down arrow next to "Work Position" and click "Zero Out Work Offsets (G10 L20 P1 X0 Y0 Z0)"
 
-<img width="347" height="396" alt="5_1" src="https://github.com/user-attachments/assets/869497d1-ffc5-43be-823d-8438cc714353" />
+![5-1](/Tutorials&Templates/Carvey/Part2/5-1.png)
 
 The values in the Work Position column should now read 0, 0, 0:
 
-<img width="327" height="218" alt="5_2" src="https://github.com/user-attachments/assets/19e0dd99-04f8-4232-8fc6-7428730e42cf" />
+![5-2](/Tutorials&Templates/Carvey/Part2/5-2.png)
 
 
 
@@ -115,25 +115,25 @@ The values in the Work Position column should now read 0, 0, 0:
 
 Click the blue "Upload G-code" button at the upper left corner of the window and select the gcode (.nc file) you posted from FreeMILL 
 
-<img width="997" alt="pt2_6" src="https://github.com/user-attachments/assets/fc7595e8-c507-4aa6-9dc5-1d93e684df6d" />
+![6](/Tutorials&Templates/Carvey/Part2/6.png)
 
-8/6/26 - 2
+8/10/26
 
 ## 7. Start Job 
 
 Use the icons in the lower left of the 3D preview window to change your view of the toolpaths: 
 
-<img width="725" alt="pt2_7_1" src="https://github.com/user-attachments/assets/313131ed-003c-4797-b8d1-ecdad3680488" />
+![7-1](/Tutorials&Templates/Carvey/Part2/7-1.png)
 
-8/6/26
+8/10/26
 
 Double check that the toolpaths that appear in CNCjs's 3D preview window look like the toolpaths that were generated in FreeMILL and that they start at X, Y, Z zero.
 
 Then click play! 
 
-<img width="1057" alt="pt2_7_2" src="https://github.com/user-attachments/assets/39a65b4b-fad7-48bc-9f1f-10a1afc8f9ea" />
+![7-2](/Tutorials&Templates/Carvey/Part2/7-2.png)
 
-8/6/26
+8/10/26
 
 ## 8. Running 
 
@@ -143,7 +143,7 @@ Congrats! You're now cutting with Carvey Mini CNC!
 
 This is what CNCjs will look like while you are cutting:  
 
-<img width="1451" height="726" alt="pt2_8" src="https://github.com/user-attachments/assets/26d8b4b4-c4ce-4951-94c8-d32bc89f2c95" />
+![8](/Tutorials&Templates/Carvey/Part2/8.png)
 
 8/6/26
 
