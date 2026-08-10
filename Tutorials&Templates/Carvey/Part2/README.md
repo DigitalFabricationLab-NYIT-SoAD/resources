@@ -41,28 +41,25 @@ Click the blue "Open" button below. The Connection panel should now look like th
 ![2](/resources/assets/images/2.png)  
 
 
-8/10/26 - 3 resources/assets/images
-
-
 ## 3. Unlock Machine 
 
 Initially there will be an error code in the upper left of the screen:
 
-![3-1](/assets/images/3-1.png)
+![3-1](/resources/assets/images/3-1.png)
 
 Click the gold unlock button in the upper right corner: 
 
-![3-2](/assets/images/3-2.png)
+![3-2](/resources/assets/images/3-2.png)
 
 The status should now read "Idle":
 
-![3-3](/assets/images/3-3.png)
+![3-3](/resources/assets/images/3-3.png)
 
 Now that connection has been established and controls are unlocked so that the machine is in idle, you will be able to jog, set zero, navigate to zero, and run jobs.
 
 There is another status code to know when using Carvey, it looks like this:
 
-![3-4](/assets/images/3-4.png)
+![3-4](/resources/assets/images/3-4.png)
 
 Like it suggests, this means that the door is open or has been opened. Carvey will only move when the door of the machine is fully closed and error codes have been resolved.  
 
@@ -78,7 +75,7 @@ Click the blue "Homing" button in the upper right and allow the spindle to move 
 
 When the machine stops moving and homing is finished, the Axes panel on the right side of the screen will look like this:
 
-![4](/assets/images/4.png)
+![4](/resources/assets/images/4.png)
 
 The values in the "Work Position" column may be different than above, but the "Machine Position" values should be the same
 
@@ -106,11 +103,11 @@ Always double check your stock and object measurements in Rhino to ensure that t
 
 When you are satisfied with the location of your tool over the part origin, click the drop-down arrow next to "Work Position" and click "Zero Out Work Offsets (G10 L20 P1 X0 Y0 Z0)"
 
-![5-1](/assets/images/5-1.png)
+![5-1](/resources/assets/images/5-1.png)
 
 The values in the Work Position column should now read 0, 0, 0:
 
-![5-2](/assets/images/5-2.png)
+![5-2](/resources/assets/images/5-2.png)
 
 
 
@@ -118,19 +115,19 @@ The values in the Work Position column should now read 0, 0, 0:
 
 Click the blue "Upload G-code" button at the upper left corner of the window and select the gcode (.nc file) you posted from FreeMILL 
 
-![6](/assets/images/6.png)
+![6](/resources/assets/images/6.png)
 
 ## 7. Start Job 
 
 Use the icons in the lower left of the 3D preview window to change your view of the toolpaths: 
 
-![7-1](/assets/images/7-1.png)
+![7-1](/resources/assets/images/7-1.png)
 
 Double check that the toolpaths that appear in CNCjs's 3D preview window look like the toolpaths that were generated in FreeMILL and that they start at X, Y, Z zero.
 
 Then click play! 
 
-![7-2](/assets/images/7-2.png)
+![7-2](/resources/assets/images/7-2.png)
 
 ## 8. Running 
 
@@ -140,7 +137,7 @@ Congrats! You're now cutting with Carvey Mini CNC!
 
 This is what CNCjs will look like while you are cutting:  
 
-![8](/assets/images/8.png)
+![8](/resources/assets/images/8.png)
 
 NEVER open the door while the machine is running: 1.) It could be dangerous and 2.) You will lose progress in your cut and have to start over. Instead press pause if you see an issue and alert a staff member for help.
 
