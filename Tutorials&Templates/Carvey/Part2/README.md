@@ -38,7 +38,7 @@ Check the box that says " Set DTR line status upon opening"
 
 Click the blue "Open" button below. The Connection panel should now look like this:
 
-![2](/Tutorials&Templates/Carvey/Part2/2.png)
+![2](./Tutorials&Templates/Carvey/Part2/2.png)
 
 
 ## 3. Unlock Machine 
