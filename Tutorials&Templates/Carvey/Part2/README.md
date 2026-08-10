@@ -38,9 +38,9 @@ Check the box that says " Set DTR line status upon opening"
 
 Click the blue "Open" button below. The Connection panel should now look like this:
 
-![2](/assets/images/2.png) 
+![2](./assets/images/2.png) 
 
-8/10/26 - 2
+8/10/26 - 2.
 
 ## 3. Unlock Machine 
 
