@@ -137,7 +137,7 @@ Congrats! You're now cutting with Carvey Mini CNC!
 
 This is what CNCjs will look like while you are cutting, the status code will say "Run":  
 
-![8](/resources/assets/images/8.png)
+![8](/resources/assets/images/pt2_8.png)
 
 NEVER open the door while the machine is running: 1.) It could be dangerous and 2.) You will lose progress in your cut and have to start over. Instead press pause if you see an issue and alert a staff member for help.
 
