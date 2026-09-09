@@ -25,21 +25,22 @@ Carvey
 [![20260909-202848409-i-OS.avif](https://i.postimg.cc/LX99d9Gy/20260909-202848409-i-OS.avif)](https://postimg.cc/mcnfCsLM)
 
  
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px;"> 
- 
-  <!-- Image 1 --> 
-  <a href="https://postimg.cc">
-    <img src="https://postimg.cc" style="width:100%; height:auto; border-radius:6px; object-fit:cover; aspect-ratio:4/3;" alt="Photo 1">
-  </a>
- 
-  <!-- Image 2 --> 
-  <a href="https://postimg.cc">
-    <img src="https://postimg.cc" style="width:100%; height:auto; border-radius:6px; object-fit:cover; aspect-ratio:4/3;" alt="Photo 2">
-  </a>
- 
-  <!-- Image 3 --> 
-  <a href="https://postimg.cc">
-    <img src="https://postimg.cc" style="width:100%; height:auto; border-radius:6px; object-fit:cover; aspect-ratio:4/3;" alt="Photo 3">
-  </a>
- 
-</div>
+<table>
+  <tr>
+    <td width="33.33%">
+      <a href="https://postimg.cc/mcnfCsLM">
+        <img src="https://i.postimg.cc/LX99d9Gy/20260909-202848409-i-OS.avif" alt="Image 1" style="max-width: 100%;">
+      </a>
+    </td>
+    <td width="33.33%">
+      <a href="https://postimg.cc/XGyMgzqJ">
+        <img src="https://i.postimg.cc/pTs2PNtD/20260909-202859049-i-OS.avif" alt="Image 2" style="max-width: 100%;">
+      </a>
+    </td>
+    <td width="33.33%">
+      <a href="https://postimg.cc/d7fPrYsC">
+        <img src="https://i.postimg.cc/HxYYGYF6/20260909-202904277-i-OS.avif" alt="Image 3" style="max-width: 100%;">
+      </a>
+    </td>
+  </tr>
+</table>
