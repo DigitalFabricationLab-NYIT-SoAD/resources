@@ -149,6 +149,22 @@ This includes:
 	
 	If you haven't slept and aren't thinking clearly, etc. 
 
+
+**Videos - How to Use Wood Shop Tools**
+	
+Miter Saw
+
+[![p2mhEoUnn8c](https://img.youtube.com/vi/p2mhEoUnn8c/0.jpg)](https://www.youtube.com/watch?v=p2mhEoUnn8c)
+
+Band Saw
+
+[![pr3rkV2-f9E](https://img.youtube.com/vi/pr3rkV2-f9E/0.jpg)](https://www.youtube.com/watch?v=pr3rkV2-f9E)
+
+Belt Sander / Disc Grinder
+
+[![J1_staW-bJg](https://img.youtube.com/vi/J1_staW-bJg/0.jpg)](https://www.youtube.com/watch?v=J1_staW-bJg)
+
+
 ___
 
 [Take Me Back Home](https://digitalfabricationlab-nyit-soad.github.io/resources/) - [Laser Cutting](https://digitalfabricationlab-nyit-soad.github.io/resources/LaserCutters/) - [3D Printing](https://digitalfabricationlab-nyit-soad.github.io/resources/3Dprinters/) - [CNC Machining](https://digitalfabricationlab-nyit-soad.github.io/resources/CNCmills/)
