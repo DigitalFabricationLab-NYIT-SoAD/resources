@@ -2,28 +2,28 @@
 
 ### Laser Cutting:
 
-1. [Laser Template (Rhino)](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EQEFIA9WVxtDk00xBGfe5CoBPNOniP2MM5DV3epHY_G6sg?download=1) / [Laser Template (Illustrator)](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQAoyJXb9PffRLJSrVcxS0BkAWf1q8tUTdqCepZqKdPe3zw?download=1)
+1. [Laser Template (Rhino)](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/afinke05_nyit_edu/IQAbwApNIMIWT7iUiwuXwmeRAVLy0NBgpIsp1uGE-nkVMIk?download=1) / [Laser Template (Illustrator)](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/afinke05_nyit_edu/IQAZDyfepMSURIvq0LHrZ55iASBbsEq0Roqhf-7_XDrQNkM?download=1)
    
 3. [Laser Appointment Sign-up / Purchasing Material Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
-4. [Laser Cutting Simulation (NYC)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/IQCI1JP3JLvcQKZlFcDpnrfEAW0Md4uGTPzmzKSbPT5bpq4?download=1)
+4. [Laser Cutting Simulation (NYC)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/afinke05_nyit_edu/IQApi6YTGWSITr5rC9D3iI1oAeSEFTtWy3zp0fHbHvmcn44?download=1)
 
-5. [Laser Cutting Simulation (OW)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/IQBlaVhrIadNT7DGRg8nPIGkASvLYV2CP9Ufg2aPPtnKkzc?download=1)
+5. [Laser Cutting Simulation (OW)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/afinke05_nyit_edu/IQC45mopI96XQbHuT4LuAvFJAVFS2z9t5y093_e5gKU6Btg?download=1)
 
-6. [Laser Cutting FUSION PRO Simulation (OW)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/ewilli14_nyit_edu/EaENrNLrRmlCtoQhwGldFNYB2znpfcVPSUlPJAlPRwVYXQ?download=1)
+6. [Laser Cutting FUSION PRO Simulation (OW)](https://nyinstituteoftechnology-my.sharepoint.com/:p:/g/personal/afinke05_nyit_edu/IQCfomcF8OrpRZ5GjH6Bg_PSAbhf36Tti8MFJ9IHld3rw-Q?download=1)
    
-7. [Waffle Modeling Grasshopper Script](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQBnQdvtKZiNQYbSmpPQEliPATk1yFJh0d7qcp6QZR3r9k4?download=1) 
+7. [Waffle Modeling Grasshopper Script](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/afinke05_nyit_edu/IQBELgN-9bLCQqcqdFpxayoWAc3ie7dvrbJhM48mX9zhoHs?download=1) 
 
    
 ### 3D Printing:
 
-1. [3D Printing Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EVzReFkn8YdHitoV-DHkpykBfJsh3-fggMV78llRn1iQJA?download=1)
+1. [3D Printing Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/afinke05_nyit_edu/IQAKXVmnd_nZS4QDpVGq-_cfAZ17aYCTvGfWOyWdn3cY76w?download=1)
 
 2. [3D Modeling for 3D printing](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/ModelingGuide/)
 
 3. [Slicing in Cura](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/3Dprinters/CuraSlicer/)
 
-4. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQCBu-T50uQjQZE8QoyC0BY7AWKzw05h4S5XZQgU3YVRabM?download=1)
+4. [Cura Settings profile: NYIT_DEFAULT](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/afinke05_nyit_edu/IQDTfLT5VIQYRaUodKIx5VeQAespPdvui_i8uxr8AGZgJwk?download=1)
 
 5. [3D Printing File Submission Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/)
 
@@ -34,9 +34,9 @@
 
 2. [CNC Appointment Sign-up Guide](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/SubmissionGuide/) 
 
-3. [2D CNC Rhino Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQDNFaq2q7IdSpw7SCb8Kg8YASznXkWcxmYnS_NhuJHXtGk?download=1)  
+3. [2D CNC Rhino Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/afinke05_nyit_edu/IQDsFBqFJxhOSYZH1nKN5YuNAXrX0w3zz_uqPad_AojNidk?download=1)  
 
-4. [3D CNC Rhino Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQBG58BXvFVuT4uG1RuqgkKrAY8gyO9cz1sv7QuLOQxnmKU?download=1) 
+4. [3D CNC Rhino Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/afinke05_nyit_edu/IQAVs64HR-QBQLCoGiRYVhr-AfZ272p1cQurd1TiaSuK4eg?download=1) 
 
 5. [CNC Site Model Workshop Recording (ARCH202 - SP25)](https://nyinstituteoftechnology-my.sharepoint.com/:v:/g/personal/ewilli14_nyit_edu/IQDY5o6QMNDWRIgt_m3ESjdvAU0CVK71Mgw2kYmx_s71nq8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Zaqs0l)
 
@@ -49,7 +49,7 @@
 
 3. [gSender Configuration Best Practices](https://digitalfabricationlab-nyit-soad.github.io/resources/Tutorials&Templates/Carvey/gSenderConfig/)
 
-4. [Carvey Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/EWc4sloN-GlGp0cMFbIM7jsB99SMAVFuS58EfSLcUq38zg?download=1)
+4. [Carvey Template](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/afinke05_nyit_edu/IQCwcKmbG90DQYcokDHGyNmWAbdfjEUhFs2dKcX6bo1Orak?download=1)
 
 
 ### *NEW!* Model Making Tutorial Videos: 
